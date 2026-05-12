@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>***მე მიყვარს, როცა ყანაში გახვალ</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/256.me-mikvars-rotsa-kanashi-gakhval.htm</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            
+            <lg type="ორტაეპედი" n="1" rhyme="aa">
+               <l n="1" met="5/5">მე მიყვარს, როცა <caesura/> ყანაში <rhyme label="a"> გახვალ</rhyme></l>
+               <l n="2" met="5/5">და მოგაგებებს <caesura/> სიმინდი<rhyme label="a">  ლახვარს</rhyme>.</l>
+            </lg>
+            
+            
+            <lg type="კატრენი" n="2" rhyme="xaxa">
+               <l n="3" met="5/5">მე მიყვრს, როცა <caesura/> ყანაში <rhyme label="x"> გახვალ</rhyme></l>
+               <l n="4" met="5/5">და დილის ნამით <caesura/> <rhyme label="a"> გაილუმპები</rhyme></l>
+               <l n="5" met="5/5">თუ ეს ერთხელაც <caesura/> არ <rhyme label="x">განგიცდია</rhyme>,</l>
+               <l n="6" met="5/5">სიტყვის უთქმელად <caesura/> <rhyme label="a"> დაიღუპები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="7" met="5/5">ან როცა იწყებ <caesura/> სიმინდის <rhyme label="a"> მოროდს</rhyme></l>
+               <l n="8" met="5/5">და ფეხზე სველი <caesura/> მიწა<rhyme label="b"> გეყრება</rhyme>...</l>
+               <l n="9" met="5/5">თუ ეს იგრძენი, <caesura/> ცხოვრების<rhyme label="a">  ბოლოს</rhyme></l>
+               <l n="10" met="5/5">ცვრიანი სიტყვა <caesura/> არ <rhyme label="b">გაგეყრება</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="xaxa">
+               <l n="11" met="5/5">მე ქალის თმების <caesura/> სურნელის<rhyme label="x"> მსგავსად</rhyme></l>
+               <l n="12" met="5/5">ვეტრფი მოხნული <caesura/> მიწის<rhyme label="a">  ოხშივარს</rhyme>,</l>
+               <l n="13" met="5/5">ამიჩქამდება <caesura/> სისხლი <rhyme label="x">ველური</rhyme></l>
+               <l n="14" met="5/5">და ვაჟკაცური <caesura/> ლექსი<rhyme label="a">  მომშივა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="xaxa">
+               <l n="15" met="5/5">მე ქალის თმების <caesura/> სურნელის <rhyme label="x">მსგავსად</rhyme></l>
+               <l n="16" met="5/5">მათრობს სიმინდის <caesura/> ულვაშის<rhyme label="a">  სუნი</rhyme>...</l>
+               <l n="17" met="5/5">ლექსის სათქმელად <caesura/> რომ <rhyme label="x">ვემზადები</rhyme>,</l>
+               <l n="18" met="5/5">ვარ ოჯალეშით <caesura/><rhyme label="a">  გულდასისხლული</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="6" rhyme="aa">
+               <l n="19" met="5/5">მე მხოლოდ მისი <caesura/> სახელი <rhyme label="a"> მიყვარს</rhyme>,</l>
+               <l n="20" met="5/5">ვისაც სიცოცხლე <caesura/> ამგვარად <rhyme label="a"> მიჰყავს</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="7" rhyme="aa">
+               <l n="21" met="5/5">და მხოლოდ მისი <caesura/> ცეცხლი <rhyme label="a"> მედება</rhyme>,</l>
+               <l n="22" met="5/5">ვისაც ასე სწამს<caesura/>  <rhyme label="a"> შემოქმედება</rhyme>.</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+   
+</TEI>

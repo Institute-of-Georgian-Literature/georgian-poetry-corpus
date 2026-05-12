@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>გულბაათ ჭავჭავაძე</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/4/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/4/5">უკვე ჩათავდა <caesura/>სოფლად რთველი <caesura/>და ყურძნის <rhyme label="a">კრეფა</rhyme>,</l>
+               <l n="2" met="5/4/5">აზვავებული<caesura/> შემოდგომა <caesura/>ბეღლებს<rhyme label="b"> ჩაბარდა</rhyme>.</l>
+               <l n="3" met="5/4/5">სტუმრებისათვის <caesura/>ლავაშებით<caesura/> დახურეს <rhyme label="a">სეფა</rhyme></l>
+               <l n="4" met="5/4/5">და ჭავჭავაძე<caesura/> გულბაათი<caesura/> დასვეს <rhyme label="b">თამადად</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="2" rhyme="aa">
+               <l n="5" met="5/4/5">დასვეს თამადად<caesura/> გოლიათი <caesura/>მსმელი<rhyme label="a"> კახელთა</rhyme>,</l>
+               <l n="6" met="5/4/5">დასვეს და დაჯდა, <caesura/>დაიმშვენა,<caesura/> სუფრას<rhyme label="a"> გახედა</rhyme>:</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="3" rhyme="aa"> 
+               <l n="7" met="5/4/5">ჩანდნენ ორ მწკრივად<caesura/> ჟღალ ჩოხებში<caesura/> ძველი <rhyme label="a">მსმელები</rhyme>,</l>
+               <l n="8" met="5/4/5">ღვინო სწყუროდათ,<caesura/> ღვინის ეშხით <caesura/>ვერ <rhyme label="a">ისვენებდნენ</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="4" rhyme="aa">
+               <l n="9" met="5/4/5">მან ჯერ ულვაში<caesura/> გადიგრიხა<caesura/> ყურებზე,<rhyme label="a"> უკან</rhyme>,</l>
+               <l n="10" met="5/4/5">მერე პირველმა<caesura/> წესისამებრ <caesura/>გატეხა <rhyme label="a">ლუკმა</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="5" rhyme="aa">
+               <l n="11" met="5/4/5">თავი ასწია,<caesura/> მიულოცა<caesura/> ლხინი <rhyme label="a">თავადთა</rhyme></l>
+               <l n="12" met="5/4/5">და აზარფეშამ <caesura/>ფრინველივით<caesura/> <rhyme label="a">გაინავარდა</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="6" rhyme="aa">
+               <l n="13" met="5/4/5">სვეს უმოწყალოდ <caesura/>ღვინოები <caesura/>ცეცხლის <rhyme label="a">მფრქვევლები</rhyme>,</l>
+               <l n="14" met="5/4/5">მერიქიფეებს <caesura/>აღარ შერჩათ <caesura/>ხელში<rhyme label="a"> ქვევრები</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="7" rhyme="aa">
+               <l n="15" met="5/4/5">მოფარდაგულზე<caesura/> გაიშხვართნენ<caesura/> მსმელი<rhyme label="a"> კაცები</rhyme>,</l>
+               <l n="16" met="5/4/5">ლეკურებივით <caesura/>მოიქნიეს <caesura/>სველი <rhyme label="a">ყანწები</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="8" rhyme="aa">
+               <l n="17" met="5/4/5">და როცა სუფრას <caesura/>აღარ შერჩა<caesura/> ერთი <rhyme label="a">კაციცა</rhyme>,</l>
+               <l n="18" met="5/4/5">როცა ლავაშით <caesura/>დახურული<caesura/> სეფაც <rhyme label="a">დაიქცა</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="9" rhyme="aa">
+               <l n="19" met="5/4/5">როცა დაიმსხვრა<caesura/> სასმურები<caesura/> და<rhyme label="a"> დაილია</rhyme>, –</l>
+               <l n="20" met="5/4/5">მაშინ გულბაათ <caesura/>ჭავჭავაძე <caesura/><rhyme label="a">გადაირია</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="10" rhyme="aa">
+               <l n="21" met="5/4/5">გადაირია,<caesura/> როგორც ერთ დროს <caesura/>შედან<rhyme label="a"> ჭილაძე</rhyme>,</l>
+               <l n="22" met="5/4/5">და იერიში <caesura/>მიიტანა<caesura/> წვრილ <rhyme label="a">ჭინჭილაზე</rhyme>:</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="11" rhyme="aa">
+               <l n="23" met="5/4/5">– კაცი ვშობილვარ, <caesura/>ეს ცხოვრება <caesura/><rhyme label="a">დამილევია</rhyme></l>
+               <l n="24" met="5/4/5">და გაბმულ სმაში<caesura/> ჭინჭილით <caesura/>არ<rhyme label="a"> დამილევია</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="12" rhyme="aa">
+               <l n="25" met="5/4/5">– ბატონიშვილო,<caesura/> ეს ჭინჭილა<caesura/> გადაგრჩათ<rhyme label="a"> მარტო</rhyme>,</l>
+               <l n="26" met="5/4/5">ღვინო შეუვსეს <caesura/>და მოართვეს<caesura/> ჭინჭილა<rhyme label="a"> ბატონს</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="13" rhyme="aa">
+               <l n="27" met="5/4/5">შეტორტმანებულს<caesura/> ნახევარიც<caesura/> არ <rhyme label="a">დაეცალა</rhyme>,</l>
+               <l n="28" met="5/4/5">წყენით წამოცდა: <caesura/>„ეს ოხერი <caesura/>რომ არ <rhyme label="a">გათავდა</rhyme>!“</l>
+            </lg>
+            
+            <lg type="ხუთტაეპედი" n="14" rhyme="ababb">
+               <l n="29" met="5/4/5">სანთელს გახედა,<caesura/> მოეჩვენა <caesura/>ერთი <rhyme label="a">ათადა</rhyme>,</l>
+               <l n="30" met="5/4/5">თვალთ დაუბნელდა <caesura/>დაეკარგა <caesura/>მუხლებში <rhyme label="b">ძალა</rhyme>,</l>
+               <l n="31" met="5/4/5">წაიბორძიკა,<caesura/> წაიფორხილ<caesura/><rhyme label="a">-წაიბანცალა</rhyme></l>
+               <l n="32" met="5/4/5">და ნაცოხნარით <caesura/>გაბერილი, <caesura/>როგორც <rhyme label="b">კამეჩი</rhyme>,</l>
+               <l n="33" met="5/4/5">აზრდაკარგული <caesura/>გაიშხვართა<caesura/> <rhyme label="b">შუაღამეში</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="15" rhyme="aa">   
+               <l n="34" met="5/4/5">ჭერი შეინძრა,<caesura/> იატაკმა<caesura/> <rhyme label="a">გაიჭრიჭინა</rhyme>,</l>
+               <l n="35" met="5/4/5">თაიგულივით<caesura/> ხელში შერჩა<caesura/> ჭრელი<rhyme label="a"> ჭინჭილა</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="16" rhyme="aa">
+               <l n="36" met="5/4/5">გაჩაღებოდა <caesura/>მაღვალაკი<caesura/> თვალი<rhyme label="a"> კახურში</rhyme>,</l>
+               <l n="37" met="5/4/5">და სუფრის ბოლოს <caesura/>ხითხითებდა<caesura/> მთვრალი <rhyme label="a">ბახუსი</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="17" rhyme="aa">
+               <l n="38" met="5/4/5">თითქოს იტყოდა:<caesura/> „მასპინძელო,<caesura/> ეს რა <rhyme label="a">კაცია</rhyme>,</l>
+               <l n="39" met="5/4/5">ქვევრებსა ნთქავდა <caesura/>და ჭინჭილამ<caesura/> ვით<rhyme label="a"> წააქცია</rhyme>!“</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

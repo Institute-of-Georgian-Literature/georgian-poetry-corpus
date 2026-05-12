@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>კრწანისის ყაყაჩოები</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+            
+            <lg type="კატრენი" n="1" rhyme="aaaa">
+               <l n="1" met="53/53">ჰეი, თქვენ არაგვ<caesura/>ელებო, <caesura/>გაუმაძღარნო <caesura/><rhyme label="a">ომითა</rhyme>,</l>
+               <l n="2" met="53/53">თქვენს საფლავებთან<caesura/> მოსვლა და <caesura/>მუხლის მოდრეკა <caesura/><rhyme label="a">მომინდა</rhyme>.</l>
+               <l n="3" met="53/53">შავჩოხიანო <caesura/>ვაჟკაცო,<caesura/> ჭრილობა ხომ არ <caesura/><rhyme label="a">შეგხსნია</rhyme>!</l>
+               <l n="4" met="53/53">ეს სისხლი არის, <caesura/>თუ მართლა <caesura/>ყაყაჩოების <caesura/><rhyme label="a">ცეცხლია</rhyme>?</l>
+            </lg>
+            
+            <lg type="სამტაეპედი" n="2" rhyme="aaa">
+               <l n="5" met="53/53">შავჩოხიანო <caesura/>ვაჟებო,<caesura/> ასე რამ <rhyme label="a">გაგა<caesura/>ხალისათ</rhyme>,</l>
+               <l n="6" met="53/53">ჟრიალი ხომ არ <caesura/>მოგესმათ<caesura/> ოჟა ჯურხაის<caesura/> <rhyme label="a">ფარისა</rhyme>?</l>
+               <l n="7" met="53/53">სიმღერა ხომ არ <caesura/>მოგესმათ<caesura/> პატარა კახის <caesura/><rhyme label="a">ხმალისა</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="aaaa">
+               <l n="8" met="53/53">იქნებ მე თვალი <caesura/>მატყუებს,<caesura/> ზეცა მაბრმავებს<caesura/><rhyme label="a"> კრიალა</rhyme>,</l>
+               <l n="9" met="53/53">მაშინ თქვენ თვითონ<caesura/> აღსდექით <caesura/>და მარქვით<caesura/> <rhyme label="a">ომახიანად</rhyme>:</l>
+               <l n="10" met="53/53">თუ არც ყაყაჩოს<caesura/> ცეცხლია <caesura/>და არც ახალი<caesura/> <rhyme label="a">იარა</rhyme>,</l>
+               <l n="11" met="53/53">მა ეს ბებერი<caesura/> კრწანისი <caesura/>რა ძალამ <rhyme label="a">ააბრ<caesura/>დღვიალა</rhyme>?</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="4" rhyme="aa">
+               <l n="12" met="53/53">ჰეი, თქვენ არაგვ<caesura/>ელებო,<caesura/> გაუმაძღარნო<caesura/> <rhyme label="a">ომითა</rhyme>,</l> 
+               <l n="13" met="53/53">თქვენ საფლავებთან<caesura/> მოსვლა და<caesura/> მუხლის მოდრეკა<caesura/><rhyme label="a"> მომინდა</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

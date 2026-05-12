@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ჩემი სამშობლო</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/254.chemi-samshoblo.htm</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+            
+            <lg type="კატრენი" n="1" rhyme="aabb">
+               <l n="1" met="53/53">ტკბილია, როგორც  <caesura/> დედის რძით  <caesura/> ბალღი  <rhyme label="a">ტუჩშეუ <caesura/> შრობელი</rhyme>,</l>
+               <l n="2" met="53/53">ტკბილია, როგორც  <caesura/> ცის ნამი,  <caesura/> როგორც ალერსი <caesura/> <rhyme label="a"> მშობელის</rhyme>,</l>
+               <l n="3" met="53/53">ტკბილია, როგორც  <caesura/> ველებზე  <caesura/> ჯეჯილის მწვანე <caesura/><rhyme label="b"> ფაფარი</rhyme>,</l>
+               <l n="4" met="53/53">ტკბილია, როგორც  <caesura/> ძილისპირს <caesura/> ძველი ქართული <caesura/> <rhyme label="b">ზღაპარი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="aabb">
+               <l n="5" met="53/53">ბარში ბულბულთა <caesura/> ჯარია, <caesura/>  მთაში ირემი <caesura/> <rhyme label="a"> ყვირისა</rhyme>,</l>
+               <l n="6" met="53/53">ტკბილია, როგორც <caesura/>  სურნელი <caesura/> ახლადმოხდილი <caesura/> <rhyme label="a">ღვინისა</rhyme>,</l>
+               <l n="7" met="53/53">ტკბილია, როგორც <caesura/>  სურნელი <caesura/> ახლადგამომცხვარ <caesura/> <rhyme label="b">პურისა</rhyme>,</l>
+               <l n="8" met="53/53">ტკბილია, როგორც  <caesura/> ნუგეში <caesura/> ბედისგან <rhyme label="b">დაღუ<caesura/>პულისა</rhyme>.</l>
+            </lg>  
+            
+            <lg type="კატრენი" n="3" rhyme="aabb">   
+               <l n="9" met="53/53">ტკბილია, როგორც  <caesura/> ბეღელი, <caesura/> ამოვსებული <caesura/> <rhyme label="a">თავამდი</rhyme>,</l>
+               <l n="10" met="53/53">ტკბილია, როგორც  <caesura/> სიმღერა <caesura/> და შეძახილი <caesura/> <rhyme label="a">თამადის</rhyme>:</l>
+               <l n="11" met="53/53">_ ჩემი სამშობლო,  <caesura/> ზურმუხტის  <caesura/> და მარგალიტის <caesura/> <rhyme label="b">სადარი</rhyme>,</l>
+               <l n="12" met="53/53">ამრიგად აყვა <caesura/> ვებული, <caesura/> მხარე მეორე <caesura/> <rhyme label="b">სად არის</rhyme>?</l>
+            </lg>
+            
+            <lg type="ხუთტაეპედი" n="4" rhyme="aaabb">   
+               <l n="13" met="53/53">ჩემი სამშობლო <caesura/>  ქვეყანა <caesura/> რა ლამაზია, <caesura/> რა <rhyme label="a"> კარგი</rhyme>,</l>
+               <l n="14" met="53/53">ცა-ფირუზ ხმელეთ- <caesura/> ზურმუხტი, <caesura/> ნაირფერებით <caesura/><rhyme label="a">  ნაქარგი</rhyme>!</l>
+               <l n="15" met="53/53">ტკბილია, როგორც <caesura/>  რუსთველი, <caesura/> ტკბილია, როგორც <caesura/> <rhyme label="a"> აკაკი</rhyme>,</l>
+               <l n="16" met="53/53">ხალხი, შრომაში <caesura/> გართული,  <caesura/> ამღერებული  <caesura/> <rhyme label="b">ფანდური</rhyme>,</l>
+               <l n="17" met="53/53">იადონების  <caesura/> გალობა <caesura/>  და იავნანა <caesura/> <rhyme label="b"> ქართული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="aabb">
+               <l n="18" met="53/53">როგორც კრიალა <caesura/>  მთის წყარო, <caesura/> ცადმიჭედილი <caesura/> <rhyme label="a"> ნაძვები</rhyme></l>
+               <l n="19" met="53/53">და იის წყლითა <caesura/>  ფერილი <caesura/> ლაჟვარდის ლიბრი <caesura/><rhyme label="a">  ღაწვები</rhyme>,</l>
+               <l n="20" met="53/53">ტკბილია, როგორც <caesura/>  ხალხისთვის <caesura/> თავდადებული <caesura/> <rhyme label="b">ლომგული</rhyme>,</l>
+               <l n="21" met="53/53">ტკბილია, როგორც <caesura/>  ურმული, <caesura/> ტკბილია, როგორც <caesura/><rhyme label="b"> ჩონგური</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="aabb">
+               <l n="22" met="53/53">საამო არის,  <caesura/> ვით რთველი, <caesura/> მწიფე მტევნების <caesura/> <rhyme label="a"> ნაჟური</rhyme>,</l>
+               <l n="23" met="53/53">დილისკენ ხოხბის <caesura/>  ყივილი, <caesura/> სიმღერა <rhyme label="a"> გარი<caesura/>ჟრაჟული</rhyme>,</l>
+               <l n="24" met="53/53">იალაღებზე  <caesura/> ღრუბლებად <caesura/> მიმოფანტული <caesura/> <rhyme label="b">ნახირი</rhyme>,</l>
+               <l n="25" met="53/53">და გაზაფხულის  <caesura/> პირზედა <caesura/> ტყიდან გუგულის <caesura/><rhyme label="b"> ძახილი</rhyme>.</l>   
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="aabb">
+               <l n="26" met="53/53">ტკბილია, როგორც  <caesura/> წისქვილში <caesura/> მთვარიან ღამის <caesura/><rhyme label="a">გათევა</rhyme>,</l>
+               <l n="27" met="53/53">ტკბილია, როგორც  <caesura/> აპრილში <caesura/> ტყემლების <rhyme label="a"> შემო<caesura/>ნათება</rhyme>.</l>
+               <l n="28" met="53/53">ტკბილია, როგორც <caesura/>  მტევანი, <caesura/> ვაზზე ასხმული <caesura/> <rhyme label="b">შავადა</rhyme>,</l>
+               <l n="29" met="53/53">და სიყვარული <caesura/>  უებრო, <caesura/> მოსული<rhyme label="b"> თავის<caesura/>თავადა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="aabb">
+               <l n="30" met="53/53">ხალხია ენა <caesura/> მზიანი, <caesura/> გმირი და არა <caesura/><rhyme label="a">  მკვეხარა</rhyme>, _</l>
+               <l n="31" met="53/53">დიდია ჩემი <caesura/>  სამშობლო, <caesura/> ტკბილია ჩემი <caesura/><rhyme label="a">  ქვეყანა</rhyme>.</l>
+               <l n="32" met="53/53">ჩემი სამშობლო,  <caesura/> ზურმუხტის  <caesura/> და მარგალიტის <caesura/><rhyme label="b"> სადარი</rhyme>,</l>
+               <l n="33" met="53/53">ამრიგად აყვა <caesura/> ვებული <caesura/> მხარე მეორე <caesura/><rhyme label="b"> სად არი</rhyme>?</l>
+            </lg> 
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

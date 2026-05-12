@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>აბასთუმანი</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/158.abastumani.htm</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5, 24/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">აბასთუმანი - <caesura/><rhyme label="a">  ხაბაზთუბანი</rhyme>...</l>
+               <l n="2" met="5/5">მზემ ფანჯრებიდან <caesura/> <rhyme label="b">შემოანათა</rhyme>.</l>
+               <l n="3" met="5/5">ჩემი საწოლი<caesura/>  და <rhyme label="a"> სასთუმალი</rhyme>,</l>
+               <l n="4" met="5/5">ჩემი პალატა, <caesura/> თეთრი <rhyme label="b">პალატა</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="2" rhyme="aa">
+               <l n="5" met="5/5">ჩემი სიმღერის<caesura/>  ეშხით <rhyme label="a"> მიმქრალი</rhyme></l>
+               <l n="6" met="5/5">ქერათმიანი<caesura/>  ექიმი<rhyme label="a">  ქალი</rhyme>...</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">  
+               <l n="7" met="5/5">კელაპტარივით <caesura/> ჩემთვის <rhyme label="a">დამწვარი</rhyme></l>
+               <l n="8" met="5/5">და სანუკვარი <caesura/> სიკვდილის <rhyme label="b"> დღემდე</rhyme>...</l>
+               <l n="9" met="5/5">კვირაში ერთხელ <caesura/> თეთრი<rhyme label="a"> საცვალი</rhyme></l>
+               <l n="10" met="5/5">მოხეტიალე <caesura/> ცხოვრების <rhyme label="b"> შემდეგ</rhyme>...</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">    
+               <l n="11" met="24/5">სანთლით შუაღამის <caesura/> <rhyme label="a">აკელაპტრება</rhyme></l>
+               <l n="12" met="5/5">და გატეხილი სიცხის <caesura/> <rhyme label="b"> საზომი</rhyme>...</l>
+               <l n="13" met="5/5">წევხარ, ოცნებობ <caesura/> და <rhyme label="a">გენატრება</rhyme>,</l>
+               <l n="14" met="5/5">ოდაში რომ დგას, <caesura/> ის ხის<rhyme label="b">საწოლი</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="5" rhyme="aa">
+               <l n="15" met="5/5">განა ოდესმე <caesura/> <rhyme label="a">დამავიწყდება</rhyme></l>
+               <l n="16" met="5/5">აბასთუმანში <caesura/><rhyme label="a"> თავდავიწყება</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="17" met="5/5">თეთრ მაგიდაზე <caesura/> წიგნების <rhyme label="a"> გროვა</rhyme>,</l>
+               <l n="18" met="5/5">ცისფერ ვაზაში <caesura/> ნაძვის რტო<rhyme label="b"> მწვანე</rhyme>,</l>
+               <l n="19" met="5/5">ოცნება: თბილისს <caesura/> წასვლის დროც<rhyme label="a">  მოვა</rhyme>,</l>
+               <l n="20" met="5/5">მიიწურება<caesura/>  აგვისტო <rhyme label="b"> მალე</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="21" met="5/5">აბასთუმანი - <caesura/> <rhyme label="a"> ხაბაზთუბანი</rhyme>...</l>
+               <l n="22" met="5/5">მზე ფანჯრებიდან <caesura/><rhyme label="b"> მოიპარება</rhyme>,</l>
+               <l n="23" met="5/5">ჩემი საწოლი <caesura/> და <rhyme label="a"> სასთუმალი</rhyme>,</l>
+               <l n="24" met="5/5">თავდავიწყება <caesura/> და<rhyme label="b"> ნეტარება</rhyme>.</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

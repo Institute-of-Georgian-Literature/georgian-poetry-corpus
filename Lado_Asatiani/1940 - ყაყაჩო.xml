@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ყაყაჩო</title>
+            
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/3">
+            <lg type="კატრენი" n="1" rhyme="xaxa">
+               <l n="1" met="5/3">ძველად აქ ჯარებს<caesura/> <rhyme label="x">უხმობდნენ</rhyme></l>
+               <l n="2" met="5/3">დაფდაფითა და<caesura/><rhyme label="a"> ბუკითა</rhyme></l>
+               <l n="3" met="5/3">ახლა ყაყაჩო <caesura/><rhyme label="x">შემომხვდა</rhyme></l>
+               <l n="4" met="5/3">ლამაზი ქალის <caesura/><rhyme label="a">შუქითა</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="2" rhyme="xaxa">
+               <l n="5" met="5/3">შემომხვდა, <rhyme label="x">შემო<caesura/>მანათა</rhyme>,</l>
+               <l n="6" met="5/3">ჩინჩხლები<rhyme label="a"> შემო<caesura/>მაყარა</rhyme>,</l>
+               <l n="7" met="5/3">ალუჩა-ტყემლის <caesura/><rhyme label="x">შემოსვლა</rhyme></l>
+               <l n="8" met="5/3">და გაზაფხული<caesura/> <rhyme label="a">მახარა</rhyme>…</l>
+            </lg>
+            <lg type="ექვსტაეპედი" n="3" rhyme="xaxaxa">
+               <l n="9" met="5/3">უცხო კაცად რომ<caesura/> <rhyme label="x">შემიცნო</rhyme>,</l>
+               <l n="10" met="5/3">შერცხვა და თავი<caesura/> <rhyme label="a">დახარა</rhyme>,</l>
+               <l n="11" met="5/3">შერცხვა და თავი <caesura/><rhyme label="x">დახარა</rhyme>,</l>
+               <l n="12" met="5/3">სიწითლემ <rhyme label="a">გადა<caesura/>უარა</rhyme>,</l>
+               <l n="13" met="5/3">ალბათ, იმაზე <caesura/><rhyme label="x">დაფიქრდა</rhyme></l>
+               <l n="14" met="5/3">მოვეწონეო, <caesura/><rhyme label="a">თუ არა</rhyme>?!</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

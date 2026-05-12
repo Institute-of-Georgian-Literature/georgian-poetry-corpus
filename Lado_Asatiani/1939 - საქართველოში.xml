@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> საქართველოში </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">საქართველოში <caesura/><rhyme label="a">იბადებოდნენ</rhyme>,</l>
+               <l n="2" met="5/5">და შემდეგ მუდამ<caesura/> სწუხდნენ<rhyme label="b">  ამაზე</rhyme>:</l>
+               <l n="3" met="5/5">„ეხ… წუთით მაინც <caesura/><rhyme label="a">დაბრუნდებოდეს</rhyme></l>
+               <l n="4" met="5/5">ჩვენი ბავშვობა <caesura/>და <rhyme label="b"> სილამაზე</rhyme>!“</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">თავს არ მოიკლავს<caesura/> ქართველი, <rhyme label="a">არა</rhyme>,</l>
+               <l n="6" met="5/5">ის შეიძლება<caesura/> ბრძოლაში <rhyme label="b"> მოკვდეს</rhyme>,</l>
+               <l n="7" met="5/5">ერთი იმედით <caesura/>სიცოცხლე <rhyme label="a">მარად</rhyme></l>
+               <l n="8" met="5/5">გაგრძელდეს ქვეყნად <caesura/>და<rhyme label="b">  განმეორდეს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">საქართველოში <caesura/>როცა <rhyme label="a">კვდებოდნენ</rhyme>,</l>
+               <l n="10" met="5/5">უფრო და უფრო<caesura/> წუხდნენ<rhyme label="b">  ამაზე</rhyme>:</l>
+               <l n="11" met="5/5">„ეხ, წუთით მაინც <caesura/><rhyme label="a">დაბრუნდებოდეს</rhyme></l>
+               <l n="12" met="5/5">ჩვენი ბავშვობა <caesura/>და <rhyme label="b"> სილამაზე</rhyme>!“</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ჩვენ ვაჟკაცობა<caesura/> ძველთაგან<rhyme label="a"> მოგვდევს</rhyme>,</l>
+               <l n="14" met="5/5">ყველამ გაიგოს, <caesura/>ყველამ <rhyme label="b"> იცოდეს</rhyme>!</l>
+               <l n="15" met="5/5">ჩვენ შეიძლება <caesura/>ბრძოლაში<rhyme label="a">მოვკვდეთ</rhyme>,</l>
+               <l n="16" met="5/5">მაგრამ არც მაშინ <caesura/>ვტოვებთ <rhyme label="b"> სიცოცხლეს</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">რადგან სიცოცხლე<caesura/> ასე <rhyme label="a">ნავარდობს</rhyme>,</l>
+               <l n="18" met="5/5">სიკვდილის ყველა <caesura/>კარი <rhyme label="b"> დარაზეთ</rhyme>,</l>
+               <l n="19" met="5/5">და იმ ბედნიერ <caesura/>დღეს <rhyme label="a">გაუმარჯოს</rhyme>,</l>
+               <l n="20" met="5/5">როცა ჩვენ გავჩნდით <caesura/>ამ <rhyme label="b"> ქვეყანაზე</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

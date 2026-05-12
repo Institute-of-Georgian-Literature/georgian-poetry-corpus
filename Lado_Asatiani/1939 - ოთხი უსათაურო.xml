@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ოთხი უსათაურო</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5, 4/4/2">
+               <lg type="ხუთტაეპედი" n="1" rhyme="ababx">
+                  <l n="1" met="5/5">რად გაიფურჩქნე,<caesura/>  წინანდლის <rhyme label="a">ვარდო</rhyme>,</l>
+                  <l n="2" met="5/5">რად ააკვნესე <caesura/> ლერწამის <rhyme label="b">ღერი</rhyme>!</l>
+                  <l n="3" met="5/5">დარდი ვარ მარტო, <caesura/> დავდივარ <rhyme label="a">მარტო</rhyme></l>
+                  <l n="4" met="5/5">და ეთიმ გურჯის<caesura/>  ბაიათს<rhyme label="b"> ვმღერი</rhyme>:</l>
+                  <l n="5" met="4/4/2">– წყალში ვდგევარ,<caesura/>  ცეცხლი<rhyme label="x"> მიკი<caesura/> დია</rhyme>!</l>
+               </lg>
+            </lg>
+         </lg>
+         <lg>
+            <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+               <lg type="კატრენი" n="1" rhyme="abab">
+                  <l n="1" met="5/5">გთხოვთ არ გაიგოთ<caesura/>  სხვანაირ<rhyme label="a"> სახით</rhyme></l>
+                  <l n="2" met="5/5">ეს გახუმრება<caesura/>  და ეს <rhyme label="b">ბარათი</rhyme>,</l>
+                  <l n="3" met="5/5">მე მინდა თქვენთან<caesura/>  დავიდგა<rhyme label="a"> სახლი</rhyme></l>
+                  <l n="4" met="5/5">და მთაწმინდაზე <caesura/> დავრჩე <rhyme label="b">მარადის</rhyme>.</l>
+               </lg>
+               <lg type="კატრენი" n="2" rhyme="abab">
+                  <l n="5" met="5/5">რომ შთაგონებით <caesura/> უსაზღვროდ<rhyme label="a"> ხელი</rhyme></l>
+                  <l n="6" met="5/5">ვმღეროდე თქვენი <caesura/> ტრფობის <rhyme label="b">თილისმით</rhyme>.</l>
+                  <l n="7" met="5/5">თქვენ მოიღეროთ <caesura/> ჯეირნის <rhyme label="a">ყელი</rhyme></l>
+                  <l n="8" met="5/5">და გიყურებდეთ<caesura/>  მთელი <rhyme label="b">თბილისი</rhyme>.</l>
+               </lg>
+            </lg>
+         </lg>
+         <lg>
+            <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="4/4, 4/2">
+               <lg type="კატრენი" n="1" rhyme="abab">
+                  <l n="1" met="4/4">მიმატოვე <caesura/>და <rhyme label="a"> მალულად</rhyme></l>
+                  <l n="2" met="4/2">ახლა ვეღარ<caesura/>  <rhyme label="b">გხვდები</rhyme>,</l>
+                  <l n="3" met="4/4">ნაფიქრალით <rhyme label="a">დაფარულან</rhyme></l>
+                  <l n="4" met="4/2">საქართველოს <rhyme label="b">მთები</rhyme>.</l>
+               </lg>
+               <lg type="კატრენი" n="2" rhyme="abab">
+                  <l n="5" met="4/4">როგორ სწრაფად<caesura/> <rhyme label="a">წამიხველი</rhyme>,</l>
+                  <l n="6" met="4/2">სიტყვაც კი ვერ <caesura/><rhyme label="b">გითხარ</rhyme>…</l>
+                  <l n="7" met="4/4">შენს უნაზეს<caesura/> ძახილს<rhyme label="a"> ველი</rhyme>,</l>
+                  <l n="8" met="4/2">ჩემო კარგო,<caesura/> <rhyme label="b">დიდხანს</rhyme>!</l>
+               </lg>
+               <lg type="კატრენი" n="3" rhyme="abab">
+                  <l n="9" met="4/4">ვუმზერ მეტეხს,<caesura/> <rhyme label="a">ნარიყალას</rhyme>,</l>
+                  <l n="10" met="4/2">შენ კი ვეღარ<caesura/> <rhyme label="b">გხედავ</rhyme>,</l>
+                  <l n="11" met="4/4">გაიღვიძე, <caesura/>ჩემო <rhyme label="a">ყველავ</rhyme>,</l>
+                  <l n="12" met="4/2">ჩემო სულის<caesura/><rhyme label="b"> ერთავ</rhyme>!</l>
+               </lg>
+               <lg type="კატრენი" n="4" rhyme="abab">
+                  <l n="13" met="4/4">ძველებურად,<caesura/><rhyme label="a"> ჩვენებურად</rhyme></l>
+                  <l n="14" met="4/2">ჩავუაროთ <caesura/><rhyme label="b">ისანს</rhyme>,</l>
+                  <l n="15" met="4/4">კაცი ვარ და <caesura/>ქუდი <rhyme label="a">მხურავს</rhyme></l>
+                  <l n="16" met="4/2">ქართველს <rhyme label="b">შეუ<caesura/>შიშარს</rhyme>.</l>
+               </lg>
+               <lg type="კატრენი" n="5" rhyme="abab">
+                  <l n="17" met="4/4">მიმატოვე <caesura/>და <rhyme label="a">მალულად</rhyme></l>
+                  <l n="18" met="4/2">ახლა ვეღარ <caesura/><rhyme label="b">გხვდები</rhyme>,</l>
+                  <l n="19" met="4/4">ნაფიქრალით <caesura/><rhyme label="a">დაფარულან</rhyme></l>
+                  <l n="20" met="4/2">საქართველოს<caesura/><rhyme label="b"> მთები</rhyme>.</l>
+               </lg>
+            </lg>
+         </lg>
+         <lg>
+            <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+               <lg type="კატრენი" n="1" rhyme="abab">
+                  <l n="1" met="5/5">– ამისი ქმარი<caesura/> სარდაფში<rhyme label="a"> მოკვდა</rhyme>, –</l>
+                  <l n="2" met="5/5">ასე იტყვიან<caesura/> შენზე<rhyme label="b"> ქალები</rhyme>,</l>
+                  <l n="3" met="5/5">და შენც ასეთი<caesura/> ნაზი და<rhyme label="a"> კოხტა</rhyme></l>
+                  <l n="4" met="5/5">სიყვარულს ვერსად<caesura/> <rhyme label="b">დაემალები</rhyme>.</l>
+               </lg>
+               <lg type="კატრენი" n="2" rhyme="abab">
+                  <l n="5" met="5/5">– ამისი ქმარი <caesura/> ღვინოში <rhyme label="a">მოკვდა</rhyme>, –</l>
+                  <l n="6" met="5/5">ასე იტყვიან <caesura/> შენზე<rhyme label="b"> ლოთები</rhyme>,</l>
+                  <l n="7" met="5/5">და შენც ასეთი <caesura/>ნაზი და<rhyme label="a"> კოხტა</rhyme></l>
+                  <l n="8" met="5/5">ახალ სიყვარულს <caesura/><rhyme label="b">დაელოდები</rhyme>.</l>
+               </lg>
+               <lg type="კატრენი" n="3" rhyme="abab">
+                  <l n="9" met="5/5">– ამ კაცის ცოლმა<caesura/> სხვა<rhyme label="a"> შეიყვარა</rhyme>, –</l>
+                  <l n="10" met="5/5">ასე იტყვიან<caesura/> ჩემზე<rhyme label="b"> ბიჭები</rhyme>,</l>
+                  <l n="11" met="5/5">გამიხსენებენ<caesura/> როგორც<rhyme label="a"> ნიკალას</rhyme></l>
+                  <l n="12" met="5/5">და თბილ სამარეს <caesura/><rhyme label="b">დააბიჯებენ</rhyme>.</l>
+               </lg>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

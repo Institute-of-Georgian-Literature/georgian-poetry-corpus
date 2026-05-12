@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ფიროსმანის მეგობრებთან</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/4/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/4/5">ეს რა ეშმაკმა <caesura/>ააბორგა <caesura/><rhyme label="a">ამაღამ ქარი</rhyme>,</l>
+               <l n="2" met="5/4/5">ამიწიოკა,<caesura/> დამირბია<caesura/><rhyme label="b"> მან შთაგონება</rhyme>!</l>
+               <l n="3" met="5/4/5">თბილისის ქუჩებს <caesura/>დავედევნე,<caesura/> <rhyme label="a">ვიხმე ამქარი</rhyme></l>
+               <l n="4" met="5/4/5">დავიწყებული<caesura/> ფიროსმანის <caesura/><rhyme label="b">მოსაგონებლად</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/4/5">აქ, ამ ქუჩებში,<caesura/> დადიოდა,<caesura/> <rhyme label="a">როგორც სიზმარი</rhyme></l>
+               <l n="6" met="5/4/5">(საქართველოს ცას<caesura/> აქ ეტრფოდა <caesura/><rhyme label="b">მისი ოცნება</rhyme>),</l>
+               <l n="7" met="5/4/5">ჩამოხეული, <caesura/>ტანმაღალი, <caesura/><rhyme label="a">მარად ხიზანი</rhyme>,</l>
+               <l n="8" met="5/4/5">მარტოდენ გული <caesura/>და ბაჯაღლო<caesura/> <rhyme label="b">პატიოსნება</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/4/5">მივალ, მხვდებიან <caesura/>საზანდრები,<caesura/> <rhyme label="a">ქუჩის მგოსნები</rhyme>,</l>
+               <l n="10" met="5/4/5">ბნელთან მებრძოლი<caesura/> უსინათლო <caesura/><rhyme label="b">მეთარეები</rhyme>,</l>
+               <l n="11" met="5/4/5">„ტვინდასეტყვილი„<caesura/> ნიკალაის <caesura/><rhyme label="a">ძველი დოსტები</rhyme>,</l>
+               <l n="12" met="5/4/5">და ცოცხლდებიან<caesura/> ფიროსმანის<caesura/> <rhyme label="b">მწარე დღეები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/4/5">ვეტყვი, „როგორმე <caesura/>მოიგონეთ,<caesura/><rhyme label="a"> ძია-კაცებო</rhyme>,</l>
+               <l n="14" met="5/4/5">ლოთი მხატვარი,<caesura/> მარტოსული<caesura/><rhyme label="b"> და მეგობარი</rhyme>.</l>
+               <l n="15" met="5/4/5">მითხარით რამე <caesura/>ფიროსმანის <caesura/><rhyme label="a">ბედის გარშემო</rhyme>,</l>
+               <l n="16" met="5/4/5">და მერე შევსვათ<caesura/> მისი ხსოვნის <caesura/><rhyme label="b">შესანდობარი</rhyme>!"</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/4/5">„თვითრჯული" იყო,<caesura/> აუმღვრია <caesura/><rhyme label="a">სისხლი თბილისმა</rhyme>,</l>
+               <l n="18" met="5/4/5">სულ მარტო იყო, <caesura/>მარტო სვამდა,<caesura/> <rhyme label="b">მარტო გათავდა</rhyme>,</l>
+               <l n="19" met="5/4/5">ფუნჯის მოსმის დროს<caesura/> ჰქონდა რაღაც <caesura/><rhyme label="a">ჯადო-თილისმა</rhyme>,</l>
+               <l n="20" met="5/4/5">არაყს დალევდა<caesura/> და ქვეყანას<caesura/> <rhyme label="b">დაგიხატავდა</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/4/5">შემოგხედავდა <caesura/>დარცხვენილი,<caesura/> <rhyme label="a">ვერ გაიგებდი</rhyme>,</l>
+               <l n="22" met="5/4/5">რა ჭკვისა იყო,<caesura/> რა ჰაზრების <caesura/><rhyme label="b">და რა გუნების</rhyme>,</l>
+               <l n="23" met="5/4/5">უყვარდა მტკვარი, <caesura/>მტკვარზე ტივი, <caesura/><rhyme label="a">ტივზე ტიკები</rhyme>,</l>
+               <l n="24" met="5/4/5">გოჭი, მწვანილი <caesura/>და ფრთიანი <caesura/><rhyme label="b">ორაგულები</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/4/5">როცა ზაფხული <caesura/>დადგებოდა<caesura/> <rhyme label="a">თბილის-ქალაქში</rhyme>,</l>
+               <l n="26" met="5/4/5">ჯავრობდა: ხედავ,<caesura/> ყველაფერი<caesura/><rhyme label="b"> როგორ ხმებაო</rhyme>.</l>
+               <l n="27" met="5/4/5">გაეხვეოდა<caesura/> ირემივით <caesura/><rhyme label="a">მწვანე ბალახში</rhyme>:</l>
+               <l n="28" met="5/4/5">სოფელში ვეღარ<caesura/> მივდივარ და <caesura/><rhyme label="b">მეამებაო</rhyme>…</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/4/5">არც კოხტა იყო<caesura/> საცოდავი <caesura/><rhyme label="a">და არც ართვალი</rhyme>,</l>
+               <l n="30" met="5/4/5">ამაყი იყო,<caesura/> ჩვენ მორჩილად<caesura/> <rhyme label="b">ვიდექით მასთან</rhyme>,</l>
+               <l n="31" met="5/4/5">ეხ… ახლა გახდა<caesura/> ნიკალაი<caesura/> <rhyme label="a">დიდი მხატვარი</rhyme>,</l>
+               <l n="32" met="5/4/5">უფასოდ გაქრა,<caesura/> უფასოდ, და <caesura/><rhyme label="b">ახლა დაფასდა</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="5/4/5">ნეტავი ამ დროს<caesura/> მოსწრებოდა <caesura/><rhyme label="a">მის ნაცნობებთან</rhyme>!</l>
+               <l n="34" met="5/4/5">(ვაი, რა უღვთოდ <caesura/>დაიღუპა<caesura/> <rhyme label="b">საწყალმა თავი</rhyme>!)</l>
+               <l n="35" met="5/4/5">თბილის-ქალაქის <caesura/>ყველა მხატვარს <caesura/><rhyme label="a">ის აჯობებდა</rhyme>,</l>
+               <l n="36" met="5/4/5">არ დარჩებოდა<caesura/> არაფერი<caesura/> <rhyme label="b">დაუხატავი</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="5/4/5">ყვებიან ასე<caesura/> ფიროსმანის<caesura/> <rhyme label="a">დროის ქადაგნი</rhyme>,</l>
+               <l n="38" met="5/4/5">ყველა მათგანში <caesura/>დაუვიწყარ <caesura/><rhyme label="b">ნიკალას ვხედავ</rhyme>…</l>
+               <l n="39" met="5/4/5">დგას ფიროსმანის<caesura/> მოხატული <caesura/><rhyme label="a">თბილის-ქალაქი</rhyme>, –</l>
+               <l n="40" met="5/4/5">ეს პოეზიის<caesura/> უწმინდესი<caesura/> <rhyme label="b">ადგილის დედა</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="abab">
+               <l n="41" met="5/4/5">მე ვუსმენ ყველას,<caesura/> წარმოვიდგენ <caesura/><rhyme label="a">ცხოვრებას მისას</rhyme>,</l>
+               <l n="42" met="5/4/5">ცოცხლდება ჩემ წინ <caesura/>მკრთალი სახე <caesura/><rhyme label="b">ფერების მგოსნის</rhyme>,</l>
+               <l n="43" met="5/4/5">ჩათრეულივით <caesura/>დავემხობი <caesura/><rhyme label="a">თბილისის მიწას</rhyme></l>
+               <l n="44" met="5/4/5">და დიდი ნიკო <caesura/>ფიროსმანის<caesura/> <rhyme label="b">ნატერფალს ვკოცნი</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> ჩემი ქვეყნის ოქროყანა</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/253.chemi-qveknis-oqrokanav.htm</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="44/44">
+            
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="44/44">ჩემი ქვეყნის <caesura/> ოქროყანავ, <caesura/> დიდი გარჯით <caesura/> <rhyme label="a">მოწეულო</rhyme>,</l>
+               <l n="2" met="44/44">სიწითლისგან <caesura/> დაბრაწულო, <caesura/> კანდამსკდარო <caesura/><rhyme label="a"> ბროწეულო</rhyme>,</l>  
+            </lg>
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa">
+               <l n="3" met="44/44">ნაცრისფერი <caesura/> ღრუბლის ძნებო, <caesura/> ფიჭვის ტევრში <caesura/> <rhyme label="a">გარეულო</rhyme>;</l>
+               <l n="4" met="44/44">მეგობრებო, <caesura/> მეზობლებო, <caesura/> შინაურო, <caesura/> <rhyme label="a">გარეულო</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="5" met="44/44">ცხენისწყალის <caesura/> ხეობაო, <caesura/> დაღარულო, <caesura/> <rhyme label="a">დასერილო</rhyme>,</l>
+               <l n="6" met="44/44">კივიანო <caesura/> პურის ყანავ, <caesura/> გლეხის ხელით <caesura/> <rhyme label="a">დაწერილო</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="44/44">ხვამლის მთაზე <caesura/> გადასულო, <caesura/> თეთრო ნისლო <caesura/> <rhyme label="a">აფრიანო</rhyme>,</l>
+               <l n="8" met="44/44">შენი თეთრი <caesura/> ბაირაღი <caesura/> სანამ უნდა <caesura/> <rhyme label="a">აფრიალო</rhyme>?!</l>
+            </lg>         
+            
+            <lg type="სამტაეპედი" n="5" rhyme="aaa">
+               <l n="9" met="44/44">ერთო ქალო, <caesura/> თეთრო ქალო, <caesura/> ქალო <rhyme label="a">ბაგეთაფლიანო</rhyme>,</l>
+               <l n="10" met="44/44">თავთავებით <caesura/> ოქროსფერად <caesura/> მოსირმულო <caesura/><rhyme label="a"> მთავ ფრიალო</rhyme>;</l>
+               <l n="11" met="44/44">მთებო, მთებო, <caesura/> რუხო მთებო, <caesura/> ნისლების <rhyme label="a">თა<caesura/>ვსაფრიანნო</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="12" met="44/44">ზვარო, ზვარო <caesura/> ჯიშიანო, <caesura/> ოჯალეშის <caesura/> ჯიშის<rhyme label="a"> ზვარო</rhyme>,</l>
+               <l n="13" met="44/44">ზვარო მტევნებ<caesura/>გიშრიანო, <caesura/> გლეხი კაცის <caesura/><rhyme label="a"> სანუკვარო</rhyme>;</l>
+            </lg>
+            
+            <lg type="ხუთტაეპედი" n="7" rhyme="aaaaa">
+               <l n="14" met="44/44">ფიჭვის ტყეო, <caesura/> ფიჭვის ტყეო, <caesura/> ნისლები რომ <caesura/> <rhyme label="a">იტვირთეო</rhyme>,</l>
+               <l n="15" met="44/44">ნისლის ნამში <caesura/> განბანილო <caesura/> მთაო გულმკერდ<caesura/><rhyme label="a">გადაშლილო</rhyme>,</l>
+               <l n="16" met="44/44">მთის გულ-მკერდში <caesura/> დამალულო <caesura/> ოქრო, ვერცხლო, <caesura/><rhyme label="a"> ქვანახშირო</rhyme>,</l>
+               <l n="17" met="44/44">საქართველოს <caesura/> სიხარულო _ <caesura/> ცხენისწყალო <caesura/><rhyme label="a"> და ენგურო</rhyme>,</l>
+               <l n="18" met="44/44">და მამულის <caesura/> სიყვარულო, <caesura/> ხალხის გულში <caesura/> <rhyme label="a">დანერგულო</rhyme>;</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="8" rhyme="aa">
+               <l n="19" met="44/44">მშობლიურო <caesura/> მინდორ-ველო, <caesura/> სიცოცხლეო <caesura/> <rhyme label="a">საამურო</rhyme>,</l>
+               <l n="20" met="44/44">მწვერვალებზე <caesura/> ანამღერო <caesura/> მწყემსი ბიჭის <caesura/><rhyme label="a"> სალამურო</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="9" rhyme="aa">    
+               <l n="21" met="44/44">მოსავალო, <caesura/> ჭირნახულო, <caesura/> დილის ცვარით <caesura/><rhyme label="a"> დანამულო</rhyme>,</l>
+               <l n="22" met="44/44">და ბულბულო <caesura/> ხმაწკრიალავ, <caesura/> ბუჩქნარებში <caesura/><rhyme label="a"> განაბულო</rhyme>;</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="10" rhyme="aa">
+               <l n="23" met="44/44">თვითმფრინავო <caesura/> ცაში ლაღო, <caesura/> მთებთან ახლოს <caesura/> <rhyme label="a">მოფრენილო</rhyme>,</l>
+               <l n="24" met="44/44">ქვევით ქვეყნის <caesura/> ედემ-ბაღო, <caesura/> ია-ვარდით <caesura/> <rhyme label="a">მოფენილო</rhyme>;</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="11" rhyme="aa">
+               <l n="25" met="44/44">კვახის ლერწო <caesura/> გაბარდულო, <caesura/> ჩაქარვულო <caesura/> <rhyme label="a">ტაროებო</rhyme>,</l>
+               <l n="26" met="44/44">მიწის მკერდზე <caesura/> გაფანტულო <caesura/> ღელეებო, <caesura/><rhyme label="a"> წყაროებო</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="12" rhyme="aa">
+               <l n="27" met="44/44">შემოდგომავ <caesura/> შემოქმედო, <caesura/> შემოდგომავ <caesura/> <rhyme label="a">მადიანო</rhyme>,</l>
+               <l n="28" met="44/44">მტერმა გნახოს, <caesura/> შემოგხედოს, <caesura/> გული დაუდ<caesura/><rhyme label="a">არდიანო</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="13" rhyme="aa"> 
+               <l n="29" met="44/44">ცხენისწყალის <caesura/> სანაპიროვ <caesura/> და ღამეო <caesura/> <rhyme label="a">მთვარიანო</rhyme>,</l>
+               <l n="30" met="44/44">ამდენი ხნის <caesura/> დანაპირო _ <caesura/> გოგონავ <caesura/> <rhyme label="a">შავთვალიანო</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="14" rhyme="aa">
+               <l n="31" met="44/44">აქოჩრილო <caesura/> რთხმელის ტყეო, <caesura/> ბარდებო <caesura/><rhyme label="a"> და იელებო</rhyme>,</l>
+               <l n="32" met="44/44">მეგობრებო, <caesura/> მეზობლებო, <caesura/> ახოვანო <caesura/> <rhyme label="a">ჯეელებო</rhyme>,</l>
+            </lg> 
+            
+            <lg type="მრჩობლედი" n="15" rhyme="aa">
+               <l n="33" met="44/44">ბედნიერი <caesura/> ხალხის გარჯავ, <caesura/> გმირობის და <caesura/> <rhyme label="a">ძმობის ყანავ</rhyme>,</l>
+               <l n="34" met="44/44">იძლიეროს <caesura/> მისმა მაჯამ, <caesura/> ვინც დაგთესა <caesura/><rhyme label="a"> მოგიყვანა</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="16" rhyme="aa">
+               <l n="35" met="44/44">ჭირნახულით <caesura/> დატვირთულო <caesura/> ბეღლებო <caesura/> და<rhyme label="a"> ნალიებო</rhyme>,</l>
+               <l n="36" met="44/44">გამრჯელისთის <caesura/> გატენილო, <caesura/> უქნარასთვის <caesura/> <rhyme label="a">ცარიელო</rhyme>,</l>
+            </lg> 
+            
+            <lg type="მრჩობლედი" n="17" rhyme="aa"> 
+               <l n="37" met="44/44">ხეო, ვაშლით <caesura/> გაფერილო, <caesura/> ტალავერის <caesura/> <rhyme label="a">ჩეროებო</rhyme>,</l>
+               <l n="38" met="44/44">სამხრეთისკენ <caesura/> გაფრენილო <caesura/> ყელმოღერა <caesura/> <rhyme label="a">წეროებო</rhyme>,</l>
+            </lg>    
+            
+            <lg type="მრჩობლედი" n="18" rhyme="aa">
+               <l n="39" met="44/44">მეგობრებო, <caesura/> მეზობლებო, <caesura/> შინაურო, <caesura/><rhyme label="a"> გარეულო</rhyme>,</l>
+               <l n="40" met="44/44">ნაცრისფერო <caesura/> ღრუბლის ძნებო, <caesura/> ფიჭვის ტევრში <caesura/> <rhyme label="a">გარეულო</rhyme>,</l>
+            </lg>      
+            
+            <lg type="სამტაეპედი" n="19" rhyme="aaa">
+               <l n="41" met="44/44">ვარდებო და <caesura/> ყვავილებო, <caesura/> ბარდებო და <caesura/> <rhyme label="a">იელებო</rhyme>,</l>
+               <l n="42" met="44/44">ახოვანო <caesura/> ვაჟკაცებო, <caesura/> უშიშარო <caesura/><rhyme label="a"> ჯეელებო</rhyme>,</l>
+               <l n="43" met="44/44">კოლხელებო, <caesura/> ქართლელებო, <caesura/> კახელებო, <caesura/> <rhyme label="a">მთიელებო</rhyme>, _</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="20" rhyme="aa">
+               <l n="44" met="44/44">თქვენთვის მინდა <caesura/> ავამღერო <caesura/> ლექსი ჩემი <caesura/><rhyme label="a"> ახლებური</rhyme>,</l>
+               <l n="45" met="44/44">თქვენთვისა მაქვს <caesura/> გულის კარი <caesura/> სასიმღეროდ <caesura/><rhyme label="a"> გაღებული</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="21" rhyme="aa">  
+               <l n="46" met="44/44">მინდა ლექსით <caesura/> გესაუბროთ, <caesura/> დაგირხიოთ <caesura/> <rhyme label="a">ხმა სალხენო</rhyme></l>
+               <l n="47" met="44/44">და ქართველი <caesura/> მგოსნის ჩანგი <caesura/> ამ სიმღერით <caesura/><rhyme label="a"> ვასახელო</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+      
+   </text>
+</TEI>

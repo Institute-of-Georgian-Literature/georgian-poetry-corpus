@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ეძახის</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ღამეა წყნარი...<caesura/> მთაწმინდის <rhyme label="a"> მთვარე</rhyme></l>
+               <l n="2" met="5/5">მიერეკება<caesura/> ღრუბლების<rhyme label="b"> ნახირს</rhyme>..</l>
+               <l n="3" met="5/5">ის საფლავიდან <caesura/>გაახელს <rhyme label="a"> თვალებს</rhyme></l>
+               <l n="4" met="5/5">გმირებს უყივის,<caesura/> გმირებს<rhyme label="b"> ეძახის</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="xaxa">
+               <l n="5" met="5/5">ეძახის ქართლის<caesura/> კრიალა<rhyme label="x"> ზეცას</rhyme>,</l>
+               <l n="6" met="5/5">კესოს ბაღჩაში <caesura/>გაშლილ <rhyme label="a"> ყვავილებს</rhyme>,</l>
+               <l n="7" met="5/5">ეძასის წყნარ და<caesura/> მღვრიე <rhyme label="x">ალაზანს</rhyme>,</l>
+               <l n="8" met="5/5">ეძასის ქართლის<caesura/> ღირსეულ<rhyme label="a">  შვილებს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="xxxx">
+               <l n="9" met="5/5">ეძახის ალალ<caesura/> გულის <rhyme label="x">მოხევეს</rhyme></l>
+               <l n="10" met="5/5">და ცაზე დამჯდარ <caesura/>ვარსკლავთა <rhyme label="x">გრეხილს</rhyme>,</l>
+               <l n="11" met="5/5">ეძახის უტყვ და<caesura/> მუნჯ <rhyme label="x">მეწისქვილეს</rhyme>,</l>
+               <l n="12" met="5/5">გიორგის ბედით <caesura/><rhyme label="x">აქვითინებულს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ეს რა მოესწრო <caesura/>ილიას <rhyme label="a"> თვალებს</rhyme>,</l>
+               <l n="14" met="5/5">ოთარაანთ ქვრივს <caesura/>უხმობს,<rhyme label="b"> ეძახის</rhyme>,</l>
+               <l n="15" met="5/5">მაღლა ცაზე კი <caesura/>მთაწმინდის<rhyme label="a">  მთვარე</rhyme></l>
+               <l n="16" met="5/5">მიერეკება <caesura/>ღრუბლების<rhyme label="b"> ნახირს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">უხმობს ფესვმაგარ<caesura/> ალაზნის<rhyme label="a">  მუხას</rhyme></l>
+               <l n="18" met="5/5">(წარსულში გამხმარს<caesura/> სტკიოდა<rhyme label="b"> გული</rhyme>),</l>
+               <l n="19" met="5/5">დღეს — წამომდგარა <caesura/>ველებზე <rhyme label="a"> ჯმუხად</rhyme>,</l>
+               <l n="20" met="5/5">ყლორტებნაყარი,<caesura/><rhyme label="b"> ამწვანებული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">და ამ ვაჟკაცურ <caesura/>ძახილის<rhyme label="a">  ხმებში</rhyme></l>
+               <l n="22" met="5/5">ბობოქრობს თერგიც <caesura/>დრტვინვა-<rhyme label="b">შხუილით</rhyme>,</l>
+               <l n="23" met="5/5">აღარ გაისმის <caesura/>ქართლის<rhyme label="a">  ღამეში</rhyme></l>
+               <l n="24" met="5/5">ოთარანთ ქვრივის<caesura/> ძაღლის <rhyme label="b">ყმუილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="xaxa">
+               <l n="25" met="5/5">თითქოს ზარიან<caesura/> თერგის<rhyme label="x"> ქუხილში</rhyme></l>
+               <l n="26" met="5/5">იხსნება ზეცის <caesura/>კრიალა<rhyme label="a">  თაღი</rhyme></l>
+               <l n="27" met="5/5">და საქართველოს<caesura/> მიწაც და<rhyme label="x"> ცაცა</rhyme></l>
+               <l n="28" met="5/5">ისმენს წამომდგარ<caesura/> ილიას<rhyme label="a">  ძახილს</rhyme>:</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">ქართლის ველებო,<caesura/> მთათა<rhyme label="a">  ჩრდილებო</rhyme>,</l>
+               <l n="30" met="5/5">მოგვშუშებია<caesura/> ჭრილობა<rhyme label="b"> ძველი</rhyme>,</l>
+               <l n="31" met="5/5">გული გახსენით,<caesura/> ჩემო<rhyme label="a">  გმირებო</rhyme>,</l>
+               <l n="32" met="5/5">აყვავებულა<caesura/> სამშობლო<rhyme label="b"> ჩვენი</rhyme></l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="xaxa">
+               <l n="33" met="5/5">მოდის აკაკი,<caesura/> ისმის<rhyme label="x"> სიმღერა</rhyme>: —</l>
+               <l n="34" met="5/5">აყვავებულო <caesura/>მამულო,<rhyme label="a">  გიცან</rhyme></l>
+               <l n="35" met="5/5">მოდის ლომგული<caesura/> <rhyme label="x">ვაჟა-ფშაველა</rhyme></l>
+               <l n="36" met="5/5">და მკერდში იკრავს <caesura/>სამშობლო<rhyme label="a">  მიწას</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="5/5">გულკეთილი და <caesura/>თანაც<rhyme label="a">  გულცივი</rhyme>,</l>
+               <l n="38" met="5/5">მხრებგანიერი,<caesura/> მხნე, <rhyme label="b">დიდებული</rhyme>,</l>
+               <l n="39" met="5/5">დაღონებულა <caesura/>ოთარანთ<rhyme label="a">  ქვრივი</rhyme>,</l>
+               <l n="40" met="5/5">ზეცა საავდროდ<caesura/> <rhyme label="b">გამზადებული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="xaxa">
+               <l n="41" met="5/5">მოდის სიმღერით<caesura/> ახლა <rhyme label="x">პირველად</rhyme>,</l>
+               <l n="42" met="5/5">ბარაქიანი სიტყვით<caesura/> და <rhyme label="a"> მადლით</rhyme>,</l>
+               <l n="43" met="5/5">მოდიან მგოსნის <caesura/>გმირები <rhyme label="x">ყველა</rhyme></l>
+               <l n="44" met="5/5">და დაჰქათქათებთ<caesura/> მნათობი<rhyme label="a">  ბადრი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="12" rhyme="abab">
+               <l n="45" met="5/5">არ სჩანან, ხალხის<caesura/>რისხვა<rhyme label="a">  რგებიათ</rhyme></l>
+               <l n="46" met="5/5">თათქარიძეთა<caesura/> განწირულ <rhyme label="b">მოდგმას</rhyme>.</l>
+               <l n="47" met="5/5">ისე გამქრალან, <caesura/>არ <rhyme label="a"> ღირსებიათ</rhyme></l>
+               <l n="48" met="5/5">მშობელი დედის <caesura/>ქვითინი,<rhyme label="b"> მოთქმა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="13" rhyme="xaxa">
+               <l n="49" met="5/5">მოდიან ქართვლის<caesura/> გმირი <rhyme label="x">დედანი</rhyme>,</l>
+               <l n="50" met="5/5">ვარსკვლავებივით<caesura/> <rhyme label="a"> მოჯარდებიან</rhyme>;</l>
+               <l n="51" met="5/5">სამარის ირგვლივ<caesura/> მოლხენით <rhyme label="x">მსხდარნი</rhyme></l>
+               <l n="52" met="5/5">მოხუცები და <caesura/><rhyme label="a"> მოზარდებია</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="14" rhyme="abab">
+               <l n="53" met="5/5">რტოზე ღუღუნებს<caesura/> ბერი <rhyme label="a"> ქედანი</rhyme>,</l>
+               <l n="54" met="5/5">ბაზალეთის ტბაც <caesura/>საამოდ <rhyme label="b">ღელავს</rhyme>,</l>
+               <l n="55" met="5/5">ლეჩაქიანი <caesura/>ქართვლის <rhyme label="a"> დედანი</rhyme></l>
+               <l n="56" met="5/5">მღერიან უტკბეს <caesura/>ქართულ <rhyme label="b">სიმღერას</rhyme>:</l>
+            </lg>
+            
+            <lg type="კატრენი" n="15" rhyme="abab">
+               <l n="57" met="5/5">და ეს სიმღერა,<caesura/> ასეთი <rhyme label="a"> ამო</rhyme>,</l>
+               <l n="58" met="5/5">დედათგან თქმული,<caesura/> დედაზე<rhyme label="b"> ტკბილი</rhyme>,</l>
+               <l n="59" met="5/5">ამ საარაკო,<caesura/> წარმტაც<rhyme label="a">  საღამოს</rhyme></l>
+               <l n="60" met="5/5">მტკვარის დუდუნში <caesura/>ესმოდა <rhyme label="b">თბილისს</rhyme>.</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

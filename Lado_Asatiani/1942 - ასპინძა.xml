@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ასპინძა</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg><lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+               
+               <lg type="მრჩობლედი" n="1" rhyme="aa">
+                  <l n="1" met="53/53">ყური დაუგდეთ,<caesura/> ასპინძის <caesura/>ადგილის დედა<caesura/> <rhyme label="a">ჩურჩულობს</rhyme>,</l>
+                  <l n="2" met="53/53">თუ როგორ გავუ<caesura/>მასპინძლდით,<caesura/> როგორ გავრეკეთ <caesura/><rhyme label="a">ურჯულო</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="2" rhyme="aa">
+                  <l n="3" met="53/53">გადაიარა<caesura/> წინადღის<caesura/> ბრძოლების პაპა<caesura/><rhyme label="a">ნაქებამ</rhyme>,</l>
+                  <l n="4" met="53/53">ხმალს დასვენება უნდოდა, მხედრობას<rhyme label="a"> დაბანაკება</rhyme>,</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="3" rhyme="aa">  
+                  <l n="5" met="53/53">გადალეწილან <caesura/>შუბები… <caesura/>დროშები <rhyme label="a">ჩამო<caesura/>ძენძილან</rhyme>…</l>
+                  <l n="6" met="53/53">ნაომარ ქართველ <caesura/>მხედრობას <caesura/>ტრიალ მინდორში<caesura/><rhyme label="a"> ეძინა</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="4" rhyme="aa">  
+                  <l n="7" met="53/53">მთვარემ მძინარე <caesura/> სახეებს<caesura/> ბნელი ბურუსი<caesura/><rhyme label="a"> გადახსნა</rhyme>.</l>
+                  <l n="8" met="53/53">სუნთქვა მძინარე <caesura/>რაინდთა<caesura/> აბიბინებდა<caesura/><rhyme label="a"> ბალახსა</rhyme>.</l>
+               </lg>
+               
+               <lg type="სამტაეპედი" n="5" rhyme="aaa">
+                  <l n="9" met="53/53">გართხმულან მწვანე <caesura/>ბალახში<caesura/> ზვიადნი,<rhyme label="a"> მსხვილბარ<caesura/>კლიანნი</rhyme>;</l>
+                  <l n="10" met="53/53">ზოგი ლომია ლომგული, ზოგიც ვეფხია ბწკლიანი,</l>
+                  <l n="11" met="53/53">ერთიღა დადის<caesura/>ბანაკში,<caesura/> – ეს, ალბათ,<rhyme label="a"> ირაკ<caesura/>ლი არი</rhyme>.</l>
+               </lg>   
+               
+               <lg type="მრჩობლედი" n="6" rhyme="aa">     
+                  <l n="12" met="53/53">აქა-იქ ცეცხლი<caesura/> ანთია, <caesura/>თოფზე მიკრულან<caesura/><rhyme label="a"> გუშაგნი</rhyme>,</l>
+                  <l n="13" met="53/53">თვლემენ ცხენები<caesura/> მორთულნი <caesura/>ლამაზ უნაგირ<caesura/><rhyme label="a"> უზანგით</rhyme>.</l>
+               </lg>  
+               
+               <lg type="მრჩობლედი" n="7" rhyme="aa">      
+                  <l n="14" met="53/53">შორს კლდეში ჭოტი <caesura/>გაჰკივის,<caesura/> მდინარე მიდის <caesura/><rhyme label="a">დუდუნით</rhyme>,</l>
+                  <l n="15" met="53/53">ხმიანი ხვრინვა<caesura/> გაისმის,<caesura/>თოხარიკების<caesura/> <rhyme label="a">ფრუტუნი</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="8" rhyme="aa">      
+                  <l n="16" met="53/53">გადალეწილან <caesura/>შუბები… <caesura/>დროშები<rhyme label="a"> ჩამო<caesura/>ძენძილან</rhyme>…</l>
+                  <l n="17" met="53/53">წუთით გატრუნულ<caesura/> ქარიშხალს <caesura/>ცხენის ფაფარში <caesura/><rhyme label="a">ეძინა</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="9" rhyme="aa">  
+                  <l n="18" met="53/53">იქნებ სიზმარი<caesura/> გვესიზმრა, <caesura/>იქნება არის<caesura/> <rhyme label="a">ზღაპარი</rhyme>,</l>
+                  <l n="19" met="53/53">ვით შეიკედლებს<caesura/> ქარიშხალს<caesura/> ფიცხელი ცხენის<caesura/><rhyme label="a"> ფაფარი</rhyme>?</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="10" rhyme="aa">       
+                  <l n="20" met="53/53">ყური დაუგდეთ,<caesura/>ასპინძის<caesura/> ადგილის დედა<caesura/><rhyme label="a"> ჩურჩულობს</rhyme>,</l>
+                  <l n="21" met="53/53">თუ როგორ გავუ<caesura/>მასპინძლდით,<caesura/> როგორ გავრეკეთ<caesura/> <rhyme label="a">ურჯულო</rhyme>.</l>
+               </lg>
+               
+         </lg>
+            
+            
+            <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+               
+               <lg type="მრჩობლედი" n="1" rhyme="aa"> 
+                  <l n="1" met="53/53">გართხმულან მწვანე <caesura/>ბალახში <caesura/>ზვიადნი,<rhyme label="a"> მსხვილ<caesura/>ბარკლიანნი</rhyme>;</l>
+                  <l n="2" met="53/53">ზოგი ლომია ლომგული, ზოგიც ვეფხია ბწკლიანი,</l>
+                  <l n="3" met="53/53">ერთიღა დადის<caesura/> ბანაკში, –<caesura/> ეს, ალბათ,<rhyme label="a"> ირაკ<caesura/>ლი არი</rhyme>…</l>
+               </lg>    
+               
+               <lg type="მრჩობლედი" n="2" rhyme="aa"> 
+                  <l n="4" met="53/53">სმენად ქცეულან<caesura/> მეფის წინ <caesura/>აღაბაბა და <caesura/><rhyme label="a">ხუდია</rhyme>,</l>
+                  <l n="5" met="53/53">ნეტავ რა უნდა<caesura/> მეფესა,<caesura/> გულში რა ცეცხლი <caesura/><rhyme label="a">უნთია</rhyme>?</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="3" rhyme="aa"> 
+                  <l n="6" met="53/53">– ცუდი იღბალი <caesura/>გვიღიმის,<caesura/>უომრად<rhyme label="a"> გავის<caesura/>რისებით</rhyme>,</l>
+                  <l n="7" met="53/53">თუ არ დავხერხეთ<caesura/> ამაღამ<caesura/> ასპინძის ხიდის<caesura/><rhyme label="a"> ისრები</rhyme>,</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="4" rhyme="aa">     
+                  <l n="8" met="53/53">რომ მტრის მაშველი<caesura/> ჯარები<caesura/> ვერ გამოვიდნენ <caesura/><rhyme label="a">ხიდზედა</rhyme>,</l>
+                  <l n="9" met="53/53">რაღა მაშველი <caesura/>სჭირდებათ, <caesura/>ბევრი არიან<caesura/> <rhyme label="a">ისედაც</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="5" rhyme="aa">     
+                  <l n="10" met="53/53">ამაღამ ხერხი<caesura/> ვიხმაროთ,<caesura/> ხვალისთვის ხმალი <caesura/><rhyme label="a">ვინებოთ</rhyme>.</l>
+                  <l n="11" met="53/53">აბა, გაფრინდით, <caesura/>სამშობლოს <caesura/>დროშა გფარავდეთ,<caesura/><rhyme label="a"> შვილებო</rhyme>! –</l>
+               </lg> 
+               
+               <lg type="მრჩობლედი" n="6" rhyme="aa">       
+                  <l n="12" met="53/53">აჩრდილებივით <caesura/>მიდიან<caesura/> აღაბაბა და <caesura/><rhyme label="a">ხუდია</rhyme>,</l>
+                  <l n="13" met="53/53">ალბათ, იმიტომ <caesura/>არ ჩანან,<caesura/> უჩინ-მაჩინის<caesura/> <rhyme label="a">ქუდი აქვთ</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="7" rhyme="aa">    
+                  <l n="14" met="53/53">გარშემო ისევ<caesura/> უღრანი <caesura/>ღამეა <rhyme label="a">ჩამო<caesura/>ძენძილი</rhyme>,</l>
+                  <l n="15" met="53/53">ძილფხიზლად სძინავთ<caesura/> ვაჟკაცებს,<caesura/> ღელავს ულვაშთა <caesura/><rhyme label="a">ჯეჯილი</rhyme>,</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="8" rhyme="aa">       
+                  <l n="16" met="53/53">ყური დაუგდეთ,<caesura/> ასპინძის<caesura/> ადგილის დედა<caesura/> <rhyme label="a">ჩურჩულობს</rhyme>,</l>
+                  <l n="17" met="53/53">თუ როგორ გავუ<caesura/>მასპინძლდით,<caesura/> როგორ გავრეკეთ<caesura/><rhyme label="a"> ურჯულო</rhyme>.</l>
+               </lg>
+               
+            </lg>
+            
+            <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+               
+               <lg type="მრჩობლედი" n="1" rhyme="aa">  
+                  <l n="1" met="53/53">ინათა… ცისკრის <caesura/>ვარსკვლავის<caesura/> ბრწყინვამ წყვდიადი<caesura/> <rhyme label="a">გარიყა</rhyme>,</l>
+                  <l n="2" met="53/53">ატოტდნენ თეთრი<caesura/> ცხენები,<caesura/> გამოეღვიძა <caesura/><rhyme label="a">ქარიშხალს</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="2" rhyme="aa">  
+                  <l n="3" met="53/53">გაშალეს ძუა-<caesura/>ფაფარი,<caesura/> კორიანტელი <caesura/><rhyme label="a">დაირხა</rhyme>…</l>
+                  <l n="4" met="53/53">სინამდვილეში <caesura/>ზღაპარი<caesura/> ასე ახდება <caesura/><rhyme label="a">ხანდისხან</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="3" rhyme="aa">  
+                  <l n="5" met="53/53">მოიგდეს თეთრი <caesura/>ნაბდები, <caesura/>მიუხარიათ<caesura/> <rhyme label="a">მხარი-მხარ</rhyme>.</l>
+                  <l n="6" met="53/53">ქართველო მამუ<caesura/>ლიშვილო, <caesura/>ხელი ვადაზე<caesura/><rhyme label="a"> გაიკარ</rhyme>!</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="4" rhyme="aa">       
+                  <l n="7" met="53/53">მტერი ასპინძის <caesura/>სიმაგრეს <caesura/>შემოესია<caesura/> <rhyme label="a">სერიდან</rhyme>,</l>
+                  <l n="8" met="53/53">წინა რიგებში <caesura/>მიგელავს<caesura/> პატარა კახი<caesura/> <rhyme label="a">ცხენითა</rhyme>,</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="5" rhyme="aa">  
+                  <l n="9" met="53/53">შეხვდება კოხტა <caesura/>ბელადსა,<caesura/> ხმალდახმალ<caesura/> <rhyme label="a">გამოიტაცებს</rhyme>,</l>
+                  <l n="10" met="53/53">ტყვიას დაახლის <caesura/>ბეჭებში, <caesura/>უსულოდ დასცემს<caesura/> <rhyme label="a">მიწაზე</rhyme></l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="6" rhyme="aa">  
+                  <l n="11" met="53/53">– ხმალი წუნკლებსო! <caesura/>– შესძახებს,<caesura/> რაზმებში <rhyme label="a">გადა<caesura/>ვარდება</rhyme>, –</l>
+                  <l n="12" met="53/53">ასე სჩვევია <caesura/>ცხენდაცხენ<caesura/> ქარიშხალს <rhyme label="a">განა<caesura/>ვარდება</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="7" rhyme="aa">  
+                  <l n="13" met="53/53">ასეთ ღელვაზე<caesura/> საკვირველს <caesura/>იტყოდნენ <rhyme label="a">მამა-<caesura/>პაპანი</rhyme>:</l>
+                  <l n="14" met="53/53">– ზღვა როცა გაი<caesura/>ფოფრება,<caesura/> ზეცაში<rhyme label="a"> ავა<caesura/> ფაფარით</rhyme>!</l>
+               </lg>
+               
+            </lg>
+            
+            
+            <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+               
+               <lg type="მრჩობლედი" n="1" rhyme="aa">  
+                  <l n="1" met="53/53">კაფეს და კაფეს <caesura/>ქართველთა,<caesura/> ვიდრე ჰყოფნიდათ<caesura/> <rhyme label="a">ხმლის სისქე</rhyme></l>
+                  <l n="2" met="53/53">შეშინებულმა<caesura/> მტრის ჯარმა <caesura/>პირი იბრუნა<caesura/><rhyme label="a"> ხიდისკენ</rhyme>.</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="2" rhyme="aa">  
+                  <l n="3" met="53/53">ხიდი რომ არი,<caesura/> ხიდიც კი <caesura/>ომში ხანდახან <caesura/><rhyme label="a">ხუნდია</rhyme>,</l>
+                  <l n="4" met="53/53">განა ამაოდ <caesura/>იღწვოდა <caesura/>ბორჩალოელი<caesura/><rhyme label="a"> ხუდია</rhyme>?</l>
+               </lg>
+               
+               <lg type="მრჩობლედი" n="3" rhyme="aa">  
+                  <l n="5" met="53/53">ყური დაუგდეთ,<caesura/> გრძნეული<caesura/> ადგილის დედა <caesura/><rhyme label="a">ჩურჩულობს</rhyme>:</l>
+                  <l n="6" met="53/53">წყალმა წაიღო <caesura/>წყეული, <caesura/>შემოსეული <caesura/><rhyme label="a">ურჯულო</rhyme>!</l>
+               </lg>
+               
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

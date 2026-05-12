@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ციხის სიზმარი</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>1940</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="4/4, 4/2">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="4/4">როცა მთვარე <caesura/> შეწყვეტს <rhyme label="a">კაშკაშს</rhyme></l>
+               <l n="2" met="4/2">და ბნელს შემო<caesura/> <rhyme label="b">იხვევს</rhyme>,</l>
+               <l n="3" met="4/4">ისე, როგორც <caesura/> დაღლილ<rhyme label="a"> ვაჟკაცს</rhyme>,</l>
+               <l n="4" met="4/2">მძიმედ სძინავს<caesura/> <rhyme label="b"> ციხეს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="4/4">სძინავს ციხეს,<caesura/> <rhyme label="a"> ნატამალი</rhyme></l>
+               <l n="6" met="4/2">ხმაც არ აკრთობს <caesura/> <rhyme label="b">სმენას</rhyme>,</l>
+               <l n="7" met="4/4">სძინავს ციხეს<caesura/>  და<rhyme label="a"> თამარის</rhyme></l>
+               <l n="8" met="4/2">სოცნებო<caesura/> <rhyme label="b"> სენაკს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="4/4">სძინავს, ფიქრებს <caesura/> <rhyme label="a">ალამაზებს</rhyme></l>
+               <l n="10" met="4/2">და სიზმარში<caesura/>  <rhyme label="b">ხედავს</rhyme>,</l>
+               <l n="11" met="4/4">რომ მის ბებერ <caesura/> <rhyme label="a">გალავანზე</rhyme></l>
+               <l n="12" met="4/2">არწივები<caesura/> <rhyme label="b"> სხედან</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="4/4">რომ კვლავ ისმენს<caesura/>  ძველთა,<rhyme label="a"> ველთა</rhyme></l>
+               <l n="14" met="4/2">ნიავ-ქარის<caesura/> <rhyme label="b"> ნანას</rhyme>,</l>
+               <l n="15" met="4/4">რომ მის ბებერ<caesura/>  <rhyme label="a">საძირკველთან</rhyme></l>
+               <l n="16" met="4/2">ქართველები<caesura/> <rhyme label="b"> დგანან</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="4/4">რომ დილისკენ, <caesura/> როცა <rhyme label="a">დნება</rhyme></l>
+               <l n="18" met="4/2">მუქი შუქი <caesura/> <rhyme label="b">მთვარის</rhyme>,</l>
+               <l n="19" met="4/4">გალავანზე <caesura/> <rhyme label="a">გადმოდგება</rhyme></l>
+               <l n="20" met="4/2">საქართველოს<caesura/><rhyme label="b">  თვალი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="4/4">იხურება<caesura/> <rhyme label="a"> ჯიხურებად</rhyme></l>
+               <l n="22" met="4/2">დაღრუბლული<caesura/> <rhyme label="b"> სივრცე</rhyme>,</l>
+               <l n="23" met="4/4">დედოფალი <caesura/> <rhyme label="a">იყურება</rhyme></l>
+               <l n="24" met="4/2">არტანუჯის <caesura/> <rhyme label="b">მხრისკენ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="4/4">სძინავს ციხეს,<caesura/>  <rhyme label="a">ჯანიანი</rhyme></l>
+               <l n="26" met="4/2">თრთის და სიზმრად <caesura/> <rhyme label="b">ხედავს</rhyme>:</l>
+               <l n="27" met="4/4">ეს ქართველთა<caesura/>  <rhyme label="a">ჯარი არის</rhyme></l>
+               <l n="28" met="4/2">თუ უღრანი <caesura/><rhyme label="b"> ხეთა</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="4/4">ეს ნისლია <caesura/> <rhyme label="a">ჩვენებური</rhyme></l>
+               <l n="30" met="4/2">მზესავით რომ<caesura/> <rhyme label="b"> მოჩანს</rhyme>,</l>
+               <l n="31" met="4/4">თუ ქართველთა<caesura/>  <rhyme label="a">ძველებური</rhyme></l>
+               <l n="32" met="4/2">ჩალისფერი<caesura/>  <rhyme label="b">დროშა</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="4/4">ვისკენ მოაქვთ<caesura/>  ეს <rhyme label="a">ალმები</rhyme>,</l>
+               <l n="34" met="4/2">ვის უხდიან <caesura/><rhyme label="b"> ჩაჩქანს</rhyme>;</l>
+               <l n="35" met="4/4">ეს თამარი <caesura/> <rhyme label="a">ესალმება</rhyme></l>
+               <l n="36" met="4/2">საქართველოს <caesura/><rhyme label="b"> ლაშქარს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="4/4">იხურება <caesura/><rhyme label="a"> ჯიხურებად</rhyme></l>
+               <l n="38" met="4/2">დაღრუბლული <caesura/> <rhyme label="b">სივრცე</rhyme>,</l>
+               <l n="39" met="4/4">ეს თამარი <caesura/> <rhyme label="a">იყურება</rhyme></l>
+               <l n="40" met="4/2">არტანუჯის <caesura/> <rhyme label="b">მხრისკენ</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="abab">
+               <l n="41" met="4/4">სძინავს ციხეს, <caesura/> მაგრამ <rhyme label="a">დილით</rhyme></l>
+               <l n="42" met="4/2">მზე რომ იწყებს <caesura/> <rhyme label="b">კაშკაშს</rhyme>,</l>
+               <l n="43" met="4/4">ეღვიძება,<caesura/>  როგორც <rhyme label="a">ძილით</rhyme></l>
+               <l n="44" met="4/2">დასვენებულ <caesura/> <rhyme label="b">ვაჟკაცს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="12" rhyme="abab">
+               <l n="45" met="4/4">ეღვიძება, <caesura/> როგორც<rhyme label="a"> სისხლით</rhyme></l>
+               <l n="46" met="4/2">გაგიჟებულ<caesura/> <rhyme label="b">მხედარს</rhyme>,</l>
+               <l n="47" met="4/4">ეღვიძება,<caesura/>  მაგრამ<rhyme label="a"> ძილში</rhyme></l>
+               <l n="48" met="4/2">ნახულს ვეღარ <caesura/><rhyme label="b"> ხედავს</rhyme>;</l>
+            </lg>
+            
+            <lg type="კატრენი" n="13" rhyme="abab">
+               <l n="49" met="4/4">ვეღარ ხედავს,<caesura/> <rhyme label="a"> გაავდება</rhyme></l>
+               <l n="50" met="4/2">აშლის ხავსის<caesura/> <rhyme label="b"> ბალანს</rhyme></l>
+               <l n="51" met="4/4">და გრუხუნებს <caesura/><rhyme label="a"> ნაადრევი</rhyme></l>
+               <l n="52" met="4/2">გაზაფხულის<caesura/> <rhyme label="b"> გვარად</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="14" rhyme="abab">
+               <l n="53" met="4/4">მერე ისევ<caesura/> <rhyme label="a"> ალამაზებს</rhyme></l>
+               <l n="54" met="4/2">სიზმრით თავის<caesura/><rhyme label="b">  სვე-ბედს</rhyme></l>
+               <l n="55" met="4/4">და ხავსიან <caesura/> <rhyme label="a">გალავანზე</rhyme></l>
+               <l n="56" met="4/2">არწივები <caesura/> <rhyme label="b">თვლემენ</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

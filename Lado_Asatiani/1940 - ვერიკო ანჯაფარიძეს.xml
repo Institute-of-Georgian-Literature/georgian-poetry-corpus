@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ვერიკო ანჯაფარიძე</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="xaxa">
+               <l n="1" met="5/5">სხვა რომ არ იყოს, <caesura/> ჩვენ ამ <rhyme label="x">ლამაზი</rhyme></l>
+               <l n="2" met="5/5">ქალების ეშხი  <caesura/><rhyme label="a">დაგვიფარავდა</rhyme>,</l>
+               <l n="3" met="5/5">თორემ მტრებს ისიც  <caesura/>კი<rhyme label="x"> შეაშინებს</rhyme>,</l>
+               <l n="4" met="5/5">ერთხელ ხმამაღლა <caesura/> რომ ვთქვათ – <rhyme label="a">მარაბდა</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">მიხარის, როცა  <caesura/>სცენაზე <rhyme label="a">გიმზერ</rhyme>,</l>
+               <l n="6" met="5/5">ანათებ, როგორც <caesura/> ზღაპრული <rhyme label="b">დალი</rhyme>,</l>
+               <l n="7" met="5/5">და როგორც ნისლი <caesura/> უფსკრულის<rhyme label="a"> პირზე</rhyme>,</l>
+               <l n="8" met="5/5">ირხევა შენი  <caesura/>ლამაზი<rhyme label="b"> ტანი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="xaxa">
+               <l n="9" met="5/5">ირხევა შენი <caesura/> ლამაზი <rhyme label="x">ტანი</rhyme>,</l>
+               <l n="10" met="5/5">და განა ძალმიძს  <caesura/>არ <rhyme label="a">გითვალთვალო</rhyme>,</l>
+               <l n="11" met="5/5">საქართველოს მზით  <caesura/><rhyme label="x">სახედამწვარო</rhyme>,</l>
+               <l n="12" met="5/5">ანჯაფარიძის  <caesura/>ზვიადო <rhyme label="a">ქალო</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="xaxa">
+               <l n="13" met="5/5">მინდოდა ერთი <caesura/> ნატვრა <rhyme label="x">მენატრა</rhyme>,</l>
+               <l n="14" met="5/5">და სანატრელი  <caesura/>ისევ <rhyme label="a">შენა ხარ</rhyme>:</l>
+               <l n="15" met="5/5">მოვმკდარიყავ და  <caesura/>ამ ჩვენს <rhyme label="x">სცენაზე</rhyme>,</l>
+               <l n="16" met="5/5">შენი ქართული  <caesura/>ქალი <rhyme label="a">მენახა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">მოვმკვდარიყავ და <caesura/> ქართულ <rhyme label="a">ლეჩაქში</rhyme></l>
+               <l n="18" met="5/5">მენახა შენი <caesura/> ქართველი <rhyme label="b">დედი</rhyme>,</l>
+               <l n="19" met="5/5">დამაბრმავებდა,  <caesura/>ვერიკო,<rhyme label="a"> მაშინ</rhyme></l>
+               <l n="20" met="5/5">შენი მიმქრალი <caesura/> <rhyme label="b">შარავანდედი</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="xaxa">
+               <l n="21" met="5/5">როცა გიყურებ <caesura/> შავ <rhyme label="x">სამოსელში</rhyme>,</l>
+               <l n="22" met="5/5">ვხედავ – ჩაუცვამს  <caesura/>ძაძა<rhyme label="a">  ბუნებას</rhyme>.</l>
+               <l n="23" met="5/5">მე ნუ მომასწროს  <caesura/>შენზე <rhyme label="x">ტირილი</rhyme>,</l>
+               <l n="24" met="5/5">და შენი სიტყვის  <caesura/><rhyme label="a"> დაძაბუნება</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="xaxa">
+               <l n="25" met="5/5">სხვა რომ არ იყოს, <caesura/> ჩვენ მარტო <rhyme label="x">შენი</rhyme>,</l>
+               <l n="26" met="5/5">და ნატოს ეშხი <caesura/> <rhyme label="a">დაგვიფარავდა</rhyme>,</l>
+               <l n="27" met="5/5">თორემ მტრებს ისიც  <caesura/>კი<rhyme label="x"> შეაშინებს</rhyme>,</l>
+               <l n="28" met="5/5">ერთხელ ხმამაღლა რომ  <caesura/>ვთქვათ –<rhyme label="a"> მარაბდა</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

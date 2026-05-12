@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>წვიმაში </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">დღეს მიკვირს, ისე <caesura/>როგორ <rhyme label="a">გადავრჩი</rhyme>,</l>
+               <l n="2" met="5/5">რომ ოდნავადაც<caesura/> კი არ<rhyme label="b"> დავსველდი</rhyme></l>
+               <l n="3" met="5/5">ისეთ ქუხილში, <caesura/>ისეთ<rhyme label="a"> ავდარში</rhyme></l>
+               <l n="4" met="5/5">მე – ამ დროების<caesura/> <rhyme label="b">მეათასედი</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ქარ-წვიმა იყო <caesura/>თუ სროლა <rhyme label="a">ისრის</rhyme>,</l>
+               <l n="6" met="5/5">სამაგალითოდ <caesura/><rhyme label="b">შენაქუჩების</rhyme>!</l>
+               <l n="7" met="5/5">მე მოვიარე <caesura/>საავდრო <rhyme label="a">ნისლში</rhyme></l>
+               <l n="8" met="5/5">დედაქალაქის<caesura/> <rhyme label="b">ყველა ქუჩები</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">და მერე, როცა <caesura/>ჩვეული<rhyme label="a"> რიგით</rhyme></l>
+               <l n="10" met="5/5">გავხსენ რუსთველის <caesura/>ქუჩის <rhyme label="b">ურდული</rhyme>,</l>
+               <l n="11" met="5/5">დაიგრუხუნა<caesura/> თბილისის <rhyme label="a">ირგვლივ</rhyme></l>
+               <l n="12" met="5/5">და წამოვიდა <caesura/>წვიმა <rhyme label="b">შურდულით</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">გავხედე: თრთოდნენ<caesura/> ქარ-წვიმის<rhyme label="a"> ხმაში</rhyme></l>
+               <l n="14" met="5/5">ქუჩები ბევრჯერ <caesura/><rhyme label="b">გადანათელი</rhyme>,</l>
+               <l n="15" met="5/5">მარტო გამზირზე <caesura/>არ წვიმდა<rhyme label="a"> მაშინ</rhyme></l>
+               <l n="16" met="5/5">და მარტო გამზირს <caesura/><rhyme label="b">ადგა ნათელი</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">მაგრამ უეცრად<caesura/> იქუხა<rhyme label="a"> ისევ</rhyme></l>
+               <l n="18" met="5/5">მეტ გახელებით<caesura/> <rhyme label="b">და გამძაფრებით</rhyme></l>
+               <l n="19" met="5/5">და გამზირიდან<caesura/> ღრუბლიან<rhyme label="a"> ცისკენ</rhyme></l>
+               <l n="20" met="5/5">გაჩნდნენ ქარის და <caesura/><rhyme label="b">წვიმის ძაფები</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">ბევრი ვეომე<caesura/> ძლიერ <rhyme label="a">ზენაქარს</rhyme>,</l>
+               <l n="22" met="5/5">ჩემს მშობელ ქუჩას <caesura/><rhyme label="b">თავს ვევლებოდი</rhyme>,</l>
+               <l n="23" met="5/5">ბოლოს საფარი <caesura/>რომ არ <rhyme label="a">მენახა</rhyme>,</l>
+               <l n="24" met="5/5">შესაბრალისად<caesura/> <rhyme label="b">დავსველდებოდი</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">ავდართან გმირულ <caesura/>ბრძოლებით <rhyme label="a">დაღლილს</rhyme></l>
+               <l n="26" met="5/5">არსად რომ თავი <caesura/>არ <rhyme label="b">დამეხარა</rhyme>:</l>
+               <l n="27" met="5/5">გადამეფარა <caesura/>ქაშვეთის<rhyme label="a"> თაღი</rhyme>,</l>
+               <l n="28" met="5/5">გადამეფარა <caesura/>და <rhyme label="b">დამეხმარა</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">წვიმა კი რბოდა<caesura/> როგორც<rhyme label="a"> აფთარი</rhyme></l>
+               <l n="30" met="5/5">ცას გაუშავა <caesura/>ნაზი <rhyme label="b">ღაწვები</rhyme>,</l>
+               <l n="31" met="5/5">და მე ვხედავდი,<caesura/> წელში <rhyme label="a">გამტყდარი</rhyme></l>
+               <l n="32" met="5/5">როგორ წვებოდნენ<caesura/> ქარში<rhyme label="b"> ნაძვები</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="5/5">ორბელიანის<caesura/> საფლავთან <rhyme label="a">მდგარმა</rhyme></l>
+               <l n="34" met="5/5">ქალაქ გავძახე <caesura/>ლექსი <rhyme label="b">ქართული</rhyme>,</l>
+               <l n="35" met="5/5">და რაწამს ყალყზე <caesura/>ამდგარმა<rhyme label="a"> ქარმა</rhyme></l>
+               <l n="36" met="5/5">მოინახულა <caesura/>ჩემი<rhyme label="b"> სართული</rhyme>–</l>
+            </lg>
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="5/5">იმ წამს წარსული <caesura/>დიდების <rhyme label="a">ძალით</rhyme></l>
+               <l n="38" met="5/5">შეუჩერებლად<caesura/> ავფრინდი<rhyme label="b"> ცამდე</rhyme>,</l>
+               <l n="39" met="5/5">მერე ავენთე, <caesura/>ვით<rhyme label="a"> ნაკვერჩხალი</rhyme>,</l>
+               <l n="40" met="5/5">და ნარიყალას <caesura/>კედელთან<rhyme label="b"> დავდექ</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

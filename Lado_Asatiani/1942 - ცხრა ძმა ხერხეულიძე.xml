@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ცხრა ძმა ხერხეულიძე </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+            
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="53/53">ეს გაფრენილი <caesura/> ფაფარი, <caesura/>თუ მშობლიური<caesura/> <rhyme label="a"> ნისლია</rhyme>?</l>
+               <l n="2" met="53/53">ვისია <caesura/>ცხრა ბედაური, <caesura/>ცხრა დარახტული<caesura/> <rhyme label="a">ვისია </rhyme>?</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa">
+               <l n="3" met="53/53">საით წავიდნენ <caesura/>ვაჟები,<caesura/> რად მიატოვეს <caesura/><rhyme label="a">რაშები</rhyme>, </l>
+               <l n="4" met="53/35">რაშები თამაშ-<caesura/> თამაშა,<caesura/> ომებში <caesura/><rhyme label="a">ნათამაშები </rhyme>?!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="5" met="53/53">მაინც ეს ერთი <caesura/>თეთრონი <caesura/>რა გულსაკლავად<caesura/><rhyme label="a"> ჭიხვინებს</rhyme>, </l>
+               <l n="6" met="53/53">ბედშავო, ვისაც <caesura/> ეძახი,<caesura/> ვაი რომ ვეღარ<caesura/> <rhyme label="a">იხილე</rhyme>! </l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="53/53">იმისი სული<caesura/> მტრედივით<caesura/> ცაში გაფრინდა <caesura/><rhyme label="a">ლაღადა</rhyme>, </l>
+               <l n="8" met="53/53">აღარ გყავს შენი<caesura/> პატრონი,<caesura/> ხერხეულიძე<caesura/> <rhyme label="a">აღათანგ</rhyme>! </l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="5" rhyme="aa">
+               <l n="9" met="53/53">ეს მშობლიური<caesura/> ქარია <caesura/>ჩვენი ალგეთის<caesura/><rhyme label="a"> ველების</rhyme>, </l>
+               <l n="10" met="53/53">თუ სუნთქვა<caesura/>ქარბუქიანი <caesura/>ფაფარაყრილი<caesura/> <rhyme label="a">მერნების</rhyme>? </l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="11" met="53/53">მერნებო, ველურ <caesura/> ფლოქვებით<caesura/> მიწა ამაოდ<caesura/> <rhyme label="a">დატორეთ </rhyme>,</l>
+               <l n="12" met="53/53">ამაოდ გაფიც<caesura/> ხებულხართ, <caesura/>ამაოდ უხმობთ <caesura/><rhyme label="a">პატრონებს</rhyme>? </l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="7" rhyme="aa">
+               <l n="13" met="53/53">ფოლადის ბეგთა<caesura/>რიანებს<caesura/> ბნელში ამაოდ <caesura/><rhyme label="a">დაეძებთ</rhyme>: </l>
+               <l n="14" met="53/53">ისინი მამუ<caesura/>ლისათვის <caesura/>მარაბდის ველზე <caesura/><rhyme label="a">დაეცნენ</rhyme>! </l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="8" rhyme="aa">
+               <l n="15" met="53/53">ერთი მათგანი <caesura/>დაჭრილი<caesura/> უბეში<caesura/> დროშას<rhyme label="a"> მალავდა</rhyme>, </l>
+               <l n="16" met="53/53">იწვა სისხლისგან <caesura/>დაცლილი… <caesura/>კურთხეულ იყოს<caesura/><rhyme label="a">მარაბდა</rhyme>! </l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="9" rhyme="aa">
+               <l n="17" met="53/53">ეს აწეწილი<caesura/> ფაფარი<caesura/> თუ მშობლიური <caesura/><rhyme label="a">ნისლია</rhyme>? </l>
+               <l n="18" met="53/53">ვისია <caesura/>ცხრა ბედაური,<caesura/> ცხრა დარახტული<caesura/> <rhyme label="a">ვისია</rhyme>? </l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="10" rhyme="aa">
+               <l n="19" met="53/53">დაწრიალებენ,<caesura/> დაძრწიან <caesura/>ქაფმორეული <caesura/><rhyme label="a">ლაშებით</rhyme>… </l>
+               <l n="20" met="53/53">მხედრებო,<caesura/> ასე უღმერთოდ,<caesura/> რად მიატოვეთ<caesura/> <rhyme label="a">რაშები</rhyme>?! </l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

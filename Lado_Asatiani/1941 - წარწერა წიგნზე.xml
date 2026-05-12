@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>წარწერა წიგნზე</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/3">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/3">შენ წინათ ცაში <caesura/><rhyme label="a">დაჰქროდი</rhyme>,</l>
+               <l n="2" met="5/3">ესიტყვებოდი <caesura/><rhyme label="b">ვარსკვლავებს</rhyme>,</l>
+               <l n="3" met="5/3">და დედამიწის<caesura/><rhyme label="a"> წალკოტი</rhyme>,</l>
+               <l n="4" met="5/3">არარაობად<caesura/> <rhyme label="b">ჩასთვალე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/3">შენ მაშინ გულთა<caesura/><rhyme label="a">მხილველად</rhyme></l>
+               <l n="6" met="5/3">მეტყოდი მშობლის <caesura/><rhyme label="b">კილოზე</rhyme>:</l>
+               <l n="7" met="5/3">„ყრმაო, ყველაზე <caesura/><rhyme label="a">პირველად</rhyme></l>
+               <l n="8" met="5/3">სამშობლოსათვის<caesura/> <rhyme label="b">ილოცე</rhyme>“.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="xaxa">
+               <l n="9" met="5/3">შენ წინათ ცაში <caesura/><rhyme label="x">დაჰქროდი</rhyme></l>
+               <l n="10" met="5/3">და წმინდა სულებს<caesura/> <rhyme label="a">თან ახლდი</rhyme>,</l>
+               <l n="11" met="5/3">ახლა კი მიკვირს, <caesura/><rhyme label="x">იმგვარი</rhyme></l>
+               <l n="12" met="5/3">აგრე ვით <rhyme label="a">დაჩა<caesura/>ჩანაკდი</rhyme>?!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/3">ცხოვრების ორომ<caesura/><rhyme label="a">ტრიალში</rhyme></l>
+               <l n="14" met="5/3">უპირველესი <caesura/><rhyme label="b">ყოვლისა </rhyme>–</l>
+               <l n="15" met="5/3">შენ ხმა დაჰკარგე<caesura/> <rhyme label="a">წინაპრის</rhyme>,</l>
+               <l n="16" met="5/3">მამაცი <rhyme label="b">მეცი<caesura/>ხოვნისა</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/3">მე გავაცოცხლე <caesura/><rhyme label="a">ხმა იგი</rhyme></l>
+               <l n="18" met="5/3">და მინდა ყურში <caesura/><rhyme label="b">ჩაგძახო</rhyme>:</l>
+               <l n="19" met="5/3">„ადექ, მგლის მუხლი<caesura/><rhyme label="a"> მაიბი</rhyme>,</l>
+               <l n="20" met="5/3">რამ წაგახდინა<caesura/> <rhyme label="b">ყაზახო</rhyme>!“</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/3">შენი პირველი <caesura/><rhyme label="a">ოცნების</rhyme></l>
+               <l n="22" met="5/3">და პირველ სიტყვის <caesura/><rhyme label="b">დამჯერემ</rhyme></l>
+               <l n="23" met="5/3">სამშობლოსადმი<caesura/> <rhyme label="a">ლოცვები</rhyme></l>
+               <l n="24" met="5/3">ამ ცისფერ წიგნში <caesura/><rhyme label="b">ჩავწერე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/3">ტავად დავუდექ <caesura/><rhyme label="a">თამადად</rhyme></l>
+               <l n="26" met="5/3">გარდასულ ხმათა<caesura/> <rhyme label="b">ღრეობას</rhyme>,</l>
+               <l n="27" met="5/3">წაიკითხე და <caesura/><rhyme label="a">პაპათა</rhyme></l>
+               <l n="28" met="5/3">დაგიბრუნდება <caesura/><rhyme label="b">მხნეობა</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

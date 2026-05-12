@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>კალმახები სასოფლო-სამეურნეო გამოფენაზე</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">გაისმა უცებ <caesura/>„ლილე“ <rhyme label="a"> ამაყი</rhyme>,</l>
+               <l n="2" met="5/5">მთების ბუნების <caesura/>ჰიმნი <rhyme label="b">სვანური</rhyme></l>
+               <l n="3" met="5/5">და ადგაფუნდა <caesura/>წყალში <rhyme label="a">კალმახი</rhyme>,</l>
+               <l n="4" met="5/5">მკვირცხლი და მარად <caesura/><rhyme label="b">მოუსვენარი</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ერთი მეორეს <caesura/>შეეხო <rhyme label="a">ფრთებით</rhyme></l>
+               <l n="6" met="5/5">და კალმახები<caesura/> შეყარა<rhyme label="b"> ალყად</rhyme>,</l>
+               <l n="7" met="5/5">თუ გაახსენდათ<caesura/> სვანეთის<rhyme label="a">მთები</rhyme></l>
+               <l n="8" met="5/5">და შფოთიანი<caesura/> ენგურის<rhyme label="b"> ტალღა</rhyme>?!</l>
+            </lg>
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">გაგიგონიათ<caesura/> კალმახი<rhyme label="a">შედგეს</rhyme>?</l>
+               <l n="10" met="5/5">ვერ მოისვენებს,<caesura/> თუ არ <rhyme label="b">გაცურა</rhyme>…</l>
+               <l n="11" met="5/5">და დაეჯახა <caesura/>აუზის<rhyme label="a">კედლებს</rhyme></l>
+               <l n="12" met="5/5">ფარა ფერადი<caesura/> <rhyme label="b">მამაკაცურად</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ვინ იტყვის აბა,<caesura/> რა ხმას <rhyme label="a">მოჰგავდა</rhyme></l>
+               <l n="14" met="5/5">მათი ფარების <caesura/>ცემა<rhyme label="b"> გმირული</rhyme>, –</l>
+               <l n="15" met="5/5">ენგური იყო,<caesura/> იგი <rhyme label="a">ბორგავდა</rhyme>,</l>
+               <l n="16" met="5/5">მუდამ შლეგი და<caesura/> <rhyme label="b">თავგანწირული</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">ძალა ჰქონია <caesura/>ვაჟკაცურ „<rhyme label="a"> ლილეს</rhyme>"</l>
+               <l n="18" met="5/5">წუთით თევზებმაც <caesura/>აიდგეს<rhyme label="b"> ენა</rhyme>,</l>
+               <l n="19" met="5/5">მოიგონებდნენ<caesura/> ენგურის <rhyme label="a">ჩრდილებს</rhyme>,</l>
+               <l n="20" met="5/5">მოიგონებდნენ <caesura/>მშობლიურ<rhyme label="b"> კერას</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">და მხნე უტევდნენ<caesura/> პატარა<rhyme label="a"> სივრცეს</rhyme></l>
+               <l n="22" met="5/5">ჩქარი ტალღების<caesura/> ლაღი <rhyme label="b">მდევრები</rhyme>,</l>
+               <l n="23" met="5/5">წვრილ-წვრილ ვარსკვლავებს<caesura/> ისროდნენ <rhyme label="a">ცისკენ</rhyme></l>
+               <l n="24" met="5/5">და ლაპლაპებდნენ <caesura/>ვით <rhyme label="b">სატევრები</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">გაიოცებდა<caesura/> ხალხი<rhyme label="a"> მშრომელი</rhyme></l>
+               <l n="26" met="5/5">მათს გახელებას <caesura/>და <rhyme label="b">ამღერებას</rhyme>,</l>
+               <l n="27" met="5/5">და მოსკოველი <caesura/><rhyme label="a">სტახანოველი</rhyme></l>
+               <l n="28" met="5/5">იდგა, უმზერდა <caesura/><rhyme label="b">საკვირველებას</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">იდგა აუზთან <caesura/>მაღალი<rhyme label="a"> კაცი</rhyme>,</l>
+               <l n="30" met="5/5">მზისგან დამწვარი<caesura/> დიდი <rhyme label="b">ხელებით</rhyme>,</l>
+               <l n="31" met="5/5">უკვირდა, როგორ <caesura/>ელავდნენ <rhyme label="a">წყალში</rhyme></l>
+               <l n="32" met="5/5">ნაირ-ნაირი<caesura/><rhyme label="b"> ცისარტყელები</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="5/5">და ბოლოს, როცა <caesura/>შრომის<rhyme label="a"> არსენამ</rhyme></l>
+               <l n="34" met="5/5">თვალით განჭვრიტა <caesura/> გზა<rhyme label="b"> სამერმისო</rhyme>,</l>
+               <l n="35" met="5/5">შთაბეჭდილების<caesura/> წიგნში<rhyme label="a"> ჩაწერა</rhyme>,</l>
+               <l n="36" met="5/5">– საქართველოში <caesura/>თევზიც<rhyme label="b"> მღერისო</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>***გიმზერ და მჯერა...</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">გიმზერ და მჯერა,<caesura/>  რომ <rhyme label="a">ქართველობა</rhyme></l>
+               <l n="2" met="5/5">არასოდეს არ <caesura/> <rhyme label="b">გადაშენდება</rhyme>;</l>
+               <l n="3" met="5/5">ვაგლახ, ხელახლა<caesura/> <rhyme label="a"> ბაგის ჩვილობა</rhyme>,</l>
+               <l n="4" met="5/5">ქალიშვილობა <caesura/> რა <rhyme label="b">დაგშვენდება</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">როცა გიხილე,<caesura/>  <rhyme label="a">მამა-პაპათა</rhyme></l>
+               <l n="6" met="5/5">განმეორება <caesura/><rhyme label="b"> გულს ჩამეწვეთა</rhyme>,</l>
+               <l n="7" met="5/5">შენ უნდა გეცვას <caesura/> <rhyme label="a">კაბა „ხაბარდა“</rhyme>,</l>
+               <l n="8" met="5/5">უნდა დაჰქროდე <caesura/> <rhyme label="b">რუსთაველზედა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">ეს ყაისნაღი, <caesura/> ან ეს <rhyme label="a">ხავერდი</rhyme></l>
+               <l n="10" met="5/5">ვინ გაგიჩინა,<caesura/>  <rhyme label="b">ვინ მოგაბარა</rhyme>?</l>
+               <l n="11" met="5/5">თავადის ქალო,<caesura/>  იქნებ <rhyme label="a">დაბერდი</rhyme>,</l>
+               <l n="12" met="5/5">სიბერის შუქი <caesura/> <rhyme label="b">შემოგეპარა</rhyme>?!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">შემოგეპარა<caesura/>  და ბნელ <rhyme label="a">დალალში</rhyme></l>
+               <l n="14" met="5/5">გაიშრიალა <caesura/> თეთრი <rhyme label="b">ზოლებით</rhyme>: –</l>
+               <l n="15" met="5/5">ყველა წავიდა,<caesura/>  ერთი<rhyme label="a"> შენ დარჩი</rhyme>,</l>
+               <l n="16" met="5/5">მიწაში წვანან <caesura/> შენი <rhyme label="b">ტოლები</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">როცა გიხილე,<caesura/>  <rhyme label="a">ციხე-კოშკების</rhyme></l>
+               <l n="18" met="5/5">განმეორება <caesura/> <rhyme label="b">გულს ჩამეწვეთა</rhyme>,</l>
+               <l n="19" met="5/5">შენ უნდა გეცვას<caesura/> <rhyme label="a"> ოქროს ქოშები</rhyme>,</l>
+               <l n="20" met="5/5">დაგოგმანობდე <caesura/> <rhyme label="b">რუსთაველზედა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">მაშინ ჩემგვარი<caesura/> <rhyme label="a"> ენამწარენიც</rhyme></l>
+               <l n="22" met="5/5">ვერ გაჰკილავდნენ <caesura/> ძველ <rhyme label="b">სილამაზეს</rhyme>,</l>
+               <l n="23" met="5/5">როცა ჩამქრალი <caesura/> <rhyme label="a">კელაპტარივით</rhyme></l>
+               <l n="24" met="5/5">შემომხვდებოდი<caesura/>  ვერის <rhyme label="b">დაღმართზე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">გიმზერ და მჯერა, <caesura/> რომ<rhyme label="a"> ქართველობა</rhyme></l>
+               <l n="26" met="5/5">არასოდეს არ <caesura/> <rhyme label="b">გადაშენდება</rhyme>,</l>
+               <l n="27" met="5/5">ვაგლახ, ხელახლა<caesura/> <rhyme label="a"> ბაგის ჩვილობა</rhyme>,</l>
+               <l n="28" met="5/5">ქალიშვილობა<caesura/> <rhyme label="b">რა დაგშვენდება</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

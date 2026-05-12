@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>სასაფლაო</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="44/44">
+            <lg type="კატრენი" n="1" rhyme="aabb">
+               <l n="1" met="44/44">ვის უნახავს<caesura/> სასაფლაო,<caesura/> უფლის ხელით<caesura/> <rhyme label="a">დახატული</rhyme>:</l>
+               <l n="2" met="44/44">აქეთ-იქით <caesura/>საფლავები<caesura/> და მათ შორის <caesura/><rhyme label="a">ნაკადული</rhyme>,</l>
+               <l n="3" met="44/44">და მათ შორის<caesura/> ნაკადული, <caesura/>ვით სიცოცხლის <caesura/>ლურჯი <rhyme label="b">თვალი</rhyme></l>
+               <l n="4" met="44/44">ვით იესოს<caesura/> ტანჯულ მკერდზე <caesura/>გადმომსკდარი <caesura/>სისხლის<rhyme label="b"> ღვარი</rhyme>?</l>
+            </lg>
+            <lg type="კატრენი" n="2" rhyme="aabb">
+               <l n="5" met="44/44">ვის უნახავს <caesura/>სასაფლაო,<caesura/> უფლის ხელით<caesura/> <rhyme label="a">დახატული</rhyme>,</l>
+               <l n="6" met="44/44">ვის უნახავს <caesura/>საფლავებში<caesura/> როგორ მიჰქრის<caesura/> <rhyme label="a">ნაკადული</rhyme>,</l>
+               <l n="7" met="44/44">როგორ მოქრის,<caesura/> როგორ მოქუხს, <caesura/>ვით სიცოცხლე<caesura/><rhyme label="b"> უშიშარი</rhyme>,</l>
+               <l n="8" met="44/44">და როგორ სდუმს <caesura/>სასაფლაო,<caesura/> ვით იესოს <caesura/> <rhyme label="b">ლურჯი ტანი</rhyme>?</l>
+            </lg>
+            <lg type="კატრენი" n="3" rhyme="aabb">
+               <l n="9" met="44/44">ვის უნახავს <caesura/>ყვავილები <caesura/>ნაკადულის<caesura/> <rhyme label="a">ნაპირებზე</rhyme></l>
+               <l n="10" met="44/44">და პეპლები, <caesura/>ყვავილებზე<caesura/> დაფრენას რომ<caesura/> <rhyme label="a">აპირებდნენ</rhyme>,</l>
+               <l n="11" met="44/44">დაფრენას რომ<caesura/>აპირებდნენ <caesura/>შავი ჯვრების<caesura/><rhyme label="b"> მაღლობიდან</rhyme></l>
+               <l n="12" met="44/44">და ტკბებოდნენ<caesura/> ნაკადულის<caesura/> საამური<caesura/> <rhyme label="b">გალობითა</rhyme>?</l>
+            </lg>
+            <lg type="კატრენი" n="4" rhyme="aabb">
+               <l n="13" met="44/44">ვის გინახავთ<caesura/> სასაფლაო, <caesura/>თავს რომელი<caesura/> <rhyme label="a">იმეტებდით</rhyme>?</l>
+               <l n="14" met="44/44">მე მინახავს, <caesura/>მე მიცვნია <caesura/>დაკარგული<caesura/> <rhyme label="a">იმედები</rhyme>,</l>
+               <l n="15" met="44/44">გაფრენილი <caesura/>ოცნებები, <caesura/>გაძარცული <caesura/><rhyme label="b">გვირგვინები</rhyme>,</l>
+               <l n="16" met="44/44">მე მინახავს<caesura/> ვით სიცოცხლეს,<caesura/> მე – სიცოცხლე<caesura/> <rhyme label="b">ვიგინები</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="5" rhyme="aabb">
+               <l n="17" met="44/44">ეს მე ვმდგარვარ, <caesura/>შვილო ჩემო,<caesura/> ცივი ქვების<caesura/> <rhyme label="a">პირდაპირა</rhyme></l>
+               <l n="18" met="44/44">და სიკვდილი <caesura/>შავფრთიანი <caesura/>ყელს მხვევია<caesura/><rhyme label="a"> ბირდაბირად</rhyme>.</l>
+               <l n="19" met="44/44">მე მიგრძვნია <caesura/>შავი შიში <caesura/>ამ მდუმარე <caesura/><rhyme label="b">ლოდებიდან</rhyme>:</l>
+               <l n="20" met="44/44">მეც აქ უნდა<caesura/> დამეძინოს!<caesura/> მეც აქ უნდა <caesura/>მქონდეს <rhyme label="b">ბინა!</rhyme></l>
+            </lg>
+            <lg type="კატრენი" n="6" rhyme="aabb">
+               <l n="21" met="44/44">იქნებ ეგ სულ<caesura/> მალე მოხდეს,<caesura/> იქნებ ღირს ვარ<caesura/><rhyme label="a"> გასაწირად</rhyme>,</l>
+               <l n="22" met="44/44">მაშინ ერთი<caesura/> დაიხსოვნე, <caesura/>ჩემო ქალო,<caesura/><rhyme label="a"> პაწაწინავ</rhyme>:</l>
+               <l n="23" met="44/44">მოცქრიალდი <caesura/>ჩემ საფლავთან,<caesura/> ვით სიცოცხლის <caesura/>ლურჯი <rhyme label="b">თვალი</rhyme>,</l>
+               <l n="24" met="44/44">ვით ეს შლეგი <caesura/>ნაკადული, <caesura/>ვით ყვავილთა<caesura/><rhyme label="b"> დედოფალი</rhyme>,</l>
+            </lg>
+            <lg type="კატრენი" n="7" rhyme="aabb">
+               <l n="25" met="44/44">დაიხარე <caesura/>პიტალოზე<caesura/>ამაყი და <caesura/><rhyme label="a">დამამშვენი</rhyme></l>
+               <l n="26" met="44/44">და, ყვავილთა <caesura/>დედოფალო,<caesura/> მოიგონე<caesura/> <rhyme label="a">მამაშენი</rhyme>,</l>
+               <l n="27" met="44/44">მოიგონე <caesura/>მამაშენი, <caesura/>შუშა-ოქროდ<caesura/><rhyme label="b"> გასაზრდელო</rhyme>,</l>
+               <l n="28" met="44/44">სთქვი, რომ მოკვდა <caesura/>სიყვარულით – <caesura/>შეუყვარდა<caesura/> <rhyme label="b">საქართველო</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="8" rhyme="aa">
+               <l n="29" met="44/44">თქვი და ისე <caesura/>გაიცინე,<caesura/> მანანაო<caesura/> <rhyme label="a">თვალხატულავ</rhyme>,</l>
+               <l n="30" met="44/44">რომ მე გულზე<caesura/> გადმიქროლოს<caesura/> სიცოცხლედ და <caesura/><rhyme label="a">ნაკადულად</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="aabb"> 
+               <l n="31" met="44/44">ვის უნახავს<caesura/> სასაფლაო,<caesura/> უფლის ხელით<caesura/> <rhyme label="a">დახატული</rhyme>,</l>
+               <l n="32" met="44/44">ვის უნახავს,<caesura/> საფლავებში<caesura/> როგორ მოქრის<caesura/> <rhyme label="a">ნაკადული</rhyme>,</l>
+               <l n="33" met="44/44">როგორ მოქრის, <caesura/>როგორ მოქუხს, <caesura/>ვით სიცოცხლე<caesura/> <rhyme label="b">უშიშარი</rhyme>,</l>
+               <l n="34" met="44/44">და როგორ სდუმს<caesura/> სასაფლაო,<caesura/> ვით იესოს<caesura/> <rhyme label="b">ლურჯი ტანი</rhyme>?!</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

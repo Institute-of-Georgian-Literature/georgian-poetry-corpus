@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ქართველი ოქროსმაძიებლების სიმღერა </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5, 5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ჩვენ ოქროს ვეძებთ<caesura/>  ერთ ხელში <rhyme label="a">დაშნით</rhyme>,</l>
+               <l n="2" met="5/5">სიცოცხლეც ჩვენი <caesura/> მისთვის <rhyme label="b">გავწირეთ</rhyme>,</l>
+               <l n="3" met="5/5">ნეტარ არს, როცა <caesura/> ბებერ <rhyme label="a">მიწაში</rhyme></l>
+               <l n="4" met="5/5">იელვებს ოქრო,<caesura/>  ვით<rhyme label="b"> სიყმაწვილე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ნეტარ არს, როცა<caesura/>  ბრწყინვალე<rhyme label="a">ზოდით</rhyme></l>
+               <l n="6" met="5/5">ბნელი გონება<caesura/> <rhyme label="b"> გაგვინათდება</rhyme></l>
+               <l n="7" met="5/5">და ცისარტყელას<caesura/> ციური <rhyme label="a">ტოტი</rhyme></l>
+               <l n="8" met="5/5">თავს დაგვადგება<caesura/><rhyme label="b"> ათინათებად</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაპედი" n="3" rhyme="aa">
+               <l n="9" met="5/5">საყვარელის თუ<caesura/> საკუთარ <rhyme label="a">ბედზე</rhyme></l>
+               <l n="10" met="5">ჩვენ ოქროს <rhyme label="a">ვეძებთ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="11" met="5/5">ჩვენ მხოლოდ იგი <caesura/>გვმატებს<rhyme label="a"> მხნეობას</rhyme>,</l>
+               <l n="12" met="5/5">როცა ვიხილავთ <caesura/>მზისფერ<rhyme label="b"> ღინჭილებს</rhyme>,</l>
+               <l n="13" met="5/5">შეაჟრიალებს <caesura/>ფლატე <rhyme label="a">ხეობას</rhyme>,</l>
+               <l n="14" met="5/5">სიხარულისგან <caesura/>ისე<rhyme label="b"> ვიკივლებთ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab"> 
+               <l n="15" met="5/5">და გავშეშდებით, <caesura/>როცა <rhyme label="a">შემთხვევით</rhyme></l>
+               <l n="16" met="5/5">ზოდს შევეყრებით <caesura/>ერთობ<rhyme label="b">გოლიათს</rhyme>,</l>
+               <l n="17" met="5/5">ჩვენ ზოდი იგი,<caesura/> სინათლის <rhyme label="a">მფრქვევი</rhyme>,</l>
+               <l n="18" met="5/5">უცებ მთვლემარე<caesura/> ლომი<rhyme label="b"> გვგონია</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაპედი" n="6" rhyme="aa">  
+               <l n="19" met="5/5">საყვარელის თუ <caesura/>საკუთარ <rhyme label="a">ბედზე</rhyme></l>
+               <l n="20" met="5">ჩვენ ოქროს <rhyme label="a">ვეძებთ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="21" met="5/5">ჩვენი ცხოვრების <caesura/>უმთვარო <rhyme label="a">გზაზე</rhyme></l>
+               <l n="22" met="5/5">ჩვენ მხოლოდ მისი<caesura/> შუქი <rhyme label="b">გვიშუქებს</rhyme>:</l>
+               <l n="23" met="5/5">ჩვენ ვმალავთ ოქროს,<caesura/> ვატარებთ<rhyme label="a"> ძაძებს</rhyme></l>
+               <l n="24" met="5/5">და ამნაირად <caesura/>ვიტყუებთ<rhyme label="b"> თურქებს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="25" met="5/5">ასე რომ არა, <caesura/>ეს <rhyme label="a">არემარე</rhyme></l>
+               <l n="26" met="5/5">მონობის თალხით <caesura/><rhyme label="b">დაისუდრება</rhyme>.</l>
+               <l n="27" met="5/5">ჩვენ ოქრო გვიყვარს,<caesura/> მაგრამ<rhyme label="a"> მეტადრე</rhyme></l>
+               <l n="28" met="5/5">გვიყვარს ზვიადი<caesura/> <rhyme label="b">თავისუფლება</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაპედი" n="9" rhyme="aa"> 
+               <l n="29" met="5/5">საყვარელის თუ <caesura/>საკუთარ<rhyme label="a"> ბედზე</rhyme></l>
+               <l n="30" met="5">ჩვენ ოქროს <rhyme label="a">ვეძებთ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="31" met="5/5">ჩვენ ბატონებიც <caesura/>გვყავს <rhyme label="a">ღირსეული</rhyme> –</l>
+               <l n="32" met="5/5">სამცხის მრისხანე<caesura/> <rhyme label="b">ათაბაგები</rhyme>.</l>
+               <l n="33" met="5/5">დროდადრო უცხოდ <caesura/><rhyme label="a">დაყვითლებულნი</rhyme></l>
+               <l n="34" met="5/5">ხევიდან ხევში <caesura/><rhyme label="b">გადავბარგდებით</rhyme>.</l>  
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="abab">
+               <l n="35" met="5/5">ვატარებთ წერაქვს,<caesura/> ცხრილსა და<rhyme label="a"> ტომარს</rhyme>,</l>
+               <l n="36" met="5/5">თუ ოქრო სადმე <caesura/>სხვის ხელში <rhyme label="b">გაჩნდა</rhyme>,</l>
+               <l n="37" met="5/5">მიჩვეულნი ვართ<caesura/> კლდეებზე <rhyme label="a">ხტომას</rhyme></l>
+               <l n="38" met="5/5">და უცხოს ხელში<caesura/> გავუყრით<rhyme label="b"> დაშნას</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაპედი" n="12" rhyme="aa">    
+               <l n="39" met="5/5">საყვარელის თუ<caesura/> საკუთარ <rhyme label="a">ბედზე</rhyme></l>
+               <l n="40" met="5">ჩვენ ოქროს <rhyme label="a">ვეძებთ</rhyme>.</l>
+            </lg>              
+            
+            <lg type="კატრენი" n="13" rhyme="abab">
+               <l n="41" met="5/5">ჩვენ, ნაშიერებს<caesura/> მჭედელ<rhyme label="a"> ტომების</rhyme></l>
+               <l n="42" met="5/5">ცეცხლოვან თვალებს <caesura/>გვითრობს <rhyme label="b">ლითონი</rhyme>,</l>
+               <l n="43" met="5/5">მზეს რომ ვუყურებთ,<caesura/> ოქროს<rhyme label="a"> ლომები</rhyme></l>
+               <l n="44" met="5/5">იბადებიან <caesura/><rhyme label="b">დიდრონ-დიდრონი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="14" rhyme="abab">
+               <l n="45" met="5/5">ჩვენ ვთხრით და ვცხრილავთ<caesura/> და ისე <rhyme label="a">ფრთხილად</rhyme>,</l>
+               <l n="46" met="5/5">რომ მიწამ შრომა <caesura/>არ<rhyme label="b"> გაგვიოხროს</rhyme>,</l>
+               <l n="47" met="5/5">ჩვენთვის ვიტოვებთ<caesura/> ცარიელ<rhyme label="a"> სილას</rhyme>,</l>
+               <l n="48" met="5/5">დიდ ბატონებს კი, <caesura/>ვუგზავნით<rhyme label="b"> ოქროს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="15" rhyme="abab">
+               <l n="49" met="5/5">საყვარელის თუ <caesura/>საკუთარ <rhyme label="a">ბედზე</rhyme></l>
+               <l n="50" met="5">ჩვენ ოქრო<rhyme label="a"> ვეძებთ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="16" rhyme="abab"> 
+               <l n="51" met="5/5">ჩვენ ამავე დროს<caesura/> ვართ <rhyme label="a">მეომარნი</rhyme>,</l>
+               <l n="52" met="5/5">ომში ხალიბურ<caesura/> ხმალს <rhyme label="b">ვახელებდით</rhyme>,</l>
+               <l n="53" met="5/5">ჩვენი სამშობლო<caesura/> <rhyme label="a">სახელოვანი</rhyme></l>
+               <l n="54" met="5/5">არტაანია<caesura/> და <rhyme label="b">სამღერეთი</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="17" rhyme="abab">
+               <l n="55" met="5/5">სადაც ბარს, როცა<caesura/> დაჰკრავ <rhyme label="a">მიწაზე</rhyme>,</l>
+               <l n="56" met="5/5">შემოგანათებს<caesura/> განძი <rhyme label="b">ბებერი</rhyme>,</l>
+               <l n="57" met="5/5">სადაც ჩვენ ვიშვით<caesura/> და <rhyme label="a">გავიზარდეთ </rhyme>–</l>
+               <l n="58" met="5/5">ქართველი ოქროს<caesura/><rhyme label="b">მაძიებელნი</rhyme>.</l>
+            </lg>         
+            
+            <lg type="ორტაპედი" n="18" rhyme="aa">          
+               <l n="59" met="5/5">საყვარელის თუ<caesura/> საკუთარ <rhyme label="a">ბედზე</rhyme></l>
+               <l n="60" met="5">ჩვენ ოქრო <rhyme label="a">ვეძებთ</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

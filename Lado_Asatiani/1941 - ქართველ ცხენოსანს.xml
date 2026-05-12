@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>***ქართველ ცხენოსანს </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+            
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="53/53">ამხედრებულო<caesura/>ვაჟკაცო,<caesura/> წვერ-ულვაში რომ <caesura/><rhyme label="a">გიხდება</rhyme>,</l>
+               <l n="2" met="53/53">როცა გულხარბი <caesura/>მტარვალი <caesura/>ხმალდახმალ <rhyme label="a"> გადმო<caesura/>გიხტება</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa">
+               <l n="3" met="53/53">ასჩეხე, სანამ<caesura/>დისინაც <caesura/>მარჯვენა  გადა<caesura/><rhyme label="a">გიწვდება</rhyme>,</l>
+               <l n="4" met="53/53">გახსოვდეს, რომ ხარ<caesura/> ვაჟკაცი,<caesura/>  ნურასდროს <rhyme label="a">დაგა<caesura/>ვიწყდება</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="5" met="53/53">გახსოვდეს, ლამპი<caesura/>ონებით<caesura/>  განათებული<caesura/> <rhyme label="a"> ასპინძა</rhyme>, –</l>
+               <l n="6" met="53/53">მამულისათვის <caesura/> ქართველი<caesura/> მტერს როგორ <rhyme label="a">გაუ<caesura/>მასპინძლდა</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="53/53">გალაღებული <caesura/> თეთრონით <caesura/> გადაერიე<caesura/> <rhyme label="a"> ლაშქარში</rhyme>,</l>
+               <l n="8" met="53/53">რომ დუშმანთ თავბრუ <caesura/> დაესხას <caesura/> შენი ფრანგულის <caesura/><rhyme label="a"> კაშკაშით</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="5" rhyme="aa">
+               <l n="9" met="53/53">მოსკოვს და თბილის-<caesura/>ქალაქსა<caesura/>  წინ აღემართე <caesura/> <rhyme label="a">ფარადა</rhyme>,</l>
+               <l n="10" met="53/53">დასჭექე,  დაა<caesura/>გუგუნე<caesura/>  მამაპაპური<caesura/><rhyme label="a">  „ვარადა“</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="11" met="53/53">შენ, უშიშარო <caesura/> ვაჟკაცო, <caesura/> წვერ-ულვაში რომ<caesura/>  <rhyme label="a">გიხდება</rhyme>,</l>
+               <l n="12" met="53/53">როცა გულხარბი<caesura/>  მტარვალი<caesura/>  ხმალდახმალ  <rhyme label="a">გადმო<caesura/>გიხტება</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="7" rhyme="aa">
+               <l n="13" met="53/53">ასჩეხე, სანამ<caesura/>დისინაც<caesura/>  მარჯვენა <rhyme label="a">გადა<caesura/>გიწვდება</rhyme>,</l>
+               <l n="14" met="53/53">საბჭოთა  არმი<caesura/>ისა ხარ,<caesura/>  ნურასდროს <rhyme label="a">დაგა<caesura/>ვიწყდება</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ნამკაშაურის წისქვილები</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">მე მიყვარს თქვენი <caesura/>ხის <rhyme label="a">სასთუმალი</rhyme>,</l>
+               <l n="2" met="5/5">თქვენი ბორბლების <caesura/>მძლავრი <rhyme label="b">გრიალი</rhyme>,</l>
+               <l n="3" met="5/5">თქვენი ჭალების<caesura/> ხშირი <rhyme label="a">სტუმარი</rhyme> –</l>
+               <l n="4" met="5/5">ლურჯა აფხაზურ<caesura/><rhyme label="b">უნაგრიანი</rhyme>;</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">თქვენი ქაჯები <caesura/>და <rhyme label="a">ალქაჯები</rhyme></l>
+               <l n="6" met="5/5">ია-იების <caesura/><rhyme label="b">თვალთა ბრიალით</rhyme>,</l>
+               <l n="7" met="5/5">მთვარიანში რომ <caesura/><rhyme label="a">დაალაჯებენ</rhyme></l>
+               <l n="8" met="5/5">ბროწეულისფერ<caesura/> <rhyme label="b">თავსაფრიანნი</rhyme>;</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">თქვენი სიზმრები,<caesura/> თქვენი <rhyme label="a">ზღაპრები</rhyme>,</l>
+               <l n="10" met="5/5">ღარის წყალივით<caesura/><rhyme label="b"> გადაგდებული</rhyme>,</l>
+               <l n="11" met="5/5">და საკალმახე <caesura/>ფიჭვის<rhyme label="a"> ლამპრები</rhyme>,</l>
+               <l n="12" met="5/5">სიყვარულივით<caesura/> <rhyme label="b">განათებული</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">თქვენ, წისქვილებო,<caesura/><rhyme label="a"> უნეტარესი</rhyme></l>
+               <l n="14" met="5/5">შთაგონებების რომ<caesura/> ხართ<rhyme label="b"> სადგური</rhyme>,</l>
+               <l n="15" met="5/5">თქვენ, გუმარეშის <caesura/><rhyme label="a">მწვანე ჭალებში</rhyme></l>
+               <l n="16" met="5/5">ოცნებებივით<caesura/> რომ ხართ <rhyme label="b">ჩადგმული</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">ვერ დამაოკებს <caesura/>დიდი <rhyme label="a">მანძილი</rhyme>,</l>
+               <l n="18" met="5/5">ლექსო, სადავე <caesura/><rhyme label="b">მომეც ქარების</rhyme>!</l>
+               <l n="19" met="5/5">თქვენს გაურანდავ<caesura/> ტახტზე<rhyme label="a"> გაზრდილი</rhyme>,</l>
+               <l n="20" met="5/5">თქვენს სანახავად <caesura/><rhyme label="b">მოვეჩქარები</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="xaxa">
+               <l n="21" met="5/5">მკლავს ნამკაშური<caesura/> – <rhyme label="x">მინდვრის იმედი</rhyme>,</l>
+               <l n="22" met="5/5">ფოთლების ნამით <caesura/><rhyme label="a">ადიდებული</rhyme></l>
+               <l n="23" met="5/5">და ცეცხლაპირას<caesura/> <rhyme label="x">ნედლი სიმინდი</rhyme>,</l>
+               <l n="24" met="5/5">გლეხის ბიჭივით<caesura/> <rhyme label="a">ატირებული</rhyme>;</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">მკლავს თქვენს გამჭვარტლულ<caesura/> ჭერქვეშ <rhyme label="a">შეკრებილ</rhyme></l>
+               <l n="26" met="5/5">სახლიკაცობის<caesura/> <rhyme label="b">გრგვინვა-ბუხუნი</rhyme>,</l>
+               <l n="27" met="5/5">რომ გადმოლახავს <caesura/>შიშველ <rhyme label="a">ფეხებით</rhyme></l>
+               <l n="28" met="5/5">ყანა ცვრიანი <caesura/>და <rhyme label="b">გამუხლული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">მკლავს შევარდენი, <caesura/>ფრენით <rhyme label="a">მოღლილი</rhyme>,</l>
+               <l n="30" met="5/5">მზის ბრწყინვალებით<caesura/> <rhyme label="b">დაფეთებული</rhyme></l>
+               <l n="31" met="5/5">და მეწისქვილე<caesura/> წელში<rhyme label="a"> მოხრილი</rhyme>,</l>
+               <l n="32" met="5/5">სულ ერთიანად <caesura/><rhyme label="b">გათეთრებული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="xaxa">
+               <l n="33" met="5/5">მკლავს, მაგრამ დღემდე <caesura/>ვერ <rhyme label="x">მოუკლივარ</rhyme>,</l>
+               <l n="34" met="5/5">სიყვარული მჭირს <caesura/><rhyme label="a">განუკურნელი</rhyme>,</l>
+               <l n="35" met="5/5">მკლავს ჩემი ტკბილი<caesura/> ლეჩხუმის<rhyme label="x"> ჰავა</rhyme>, –</l>
+               <l n="36" met="5/5">ახლადდაფქვილი<caesura/> ხორბლის <rhyme label="a">სურნელი</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="5/5">თქვენ, წისქვილებო,<caesura/> <rhyme label="a">უნეტარესი</rhyme></l>
+               <l n="38" met="5/5">შთაგონებების <caesura/>რომ ხართ <rhyme label="b">სადგური</rhyme>,</l>
+               <l n="39" met="5/5">თქვენ, გუმარეშის <caesura/><rhyme label="a">მწვანე ჭალებში</rhyme></l>
+               <l n="40" met="5/5">ოცნებებივით <caesura/>რომ ხართ <rhyme label="b">ჩადგმული</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

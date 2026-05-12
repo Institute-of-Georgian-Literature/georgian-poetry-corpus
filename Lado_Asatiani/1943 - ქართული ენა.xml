@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ქართული ენა</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="42/42">
+            
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="42/42">საქართველოს <caesura/>მთებში <caesura/>გაგაჩინა<caesura/> <rhyme label="a">ზენამ</rhyme>,</l>
+               <l n="2" met="42/42">სიყვარულის, <caesura/>ლექსის, <caesura/>სადღეგრძელოს<caesura/> <rhyme label="a">ენავ</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa">
+               <l n="3" met="42/42">მოიმღერა<caesura/> დღემდის <caesura/>უძველესმა <caesura/><rhyme label="a">ტომმა </rhyme>–</l>
+               <l n="4" met="42/42">შლეგი ჩანჩქე<caesura/>რების <caesura/>ნაპრალებზე<caesura/> <rhyme label="a">ხლტომა</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="5" met="42/42">მყინვარების <caesura/>ღვთიურ<caesura/> ბრწყინვალებით<caesura/> <rhyme label="a">დნობა</rhyme>,</l>
+               <l n="6" met="42/42">ჯაგნარებში<caesura/> ირმის <caesura/>ჯოგის <caesura/><rhyme label="a">ნავარდობა</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="42/42">გაფანტული<caesura/> ფარის<caesura/> მთაზე <caesura/><rhyme label="a">დაჯანღება </rhyme>–</l>
+               <l n="8" met="42/42">და ქართული <caesura/>ფარის <caesura/>ფარზე<caesura/> <rhyme label="a">დაჯახება</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="5" rhyme="aa">
+               <l n="9" met="42/42">უძველესმა<caesura/> ტომმა <caesura/>დღემდის <caesura/><rhyme label="a">მოიმღერა</rhyme>,</l>
+               <l n="10" met="42/42">მწიფე პურის<caesura/> ყანა <caesura/>ქარში როგორ <caesura/><rhyme label="a">ღელავს</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="11" met="42/42">სარკინეთში<caesura/> გრდემლზე<caesura/> როგორ სცემენ<caesura/> <rhyme label="a">უროს</rhyme></l>
+               <l n="12" met="42/42">და ვარსკვლავი <caesura/>ზღვებზე<caesura/> როგორ<caesura/> <rhyme label="a">მოგზაურობს</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="7" rhyme="aa">
+               <l n="13" met="42/42">ან მთვარიან<caesura/> ღამით <caesura/>ციხე-კოშკის<caesura/><rhyme label="a">ჩრდილში</rhyme></l>
+               <l n="14" met="42/42">რა ტკბილია <caesura/>ფარულ<caesura/> სიყვარულის <caesura/><rhyme label="a">შიში</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="8" rhyme="aa">
+               <l n="15" met="42/42">როცა<caesura/> ღამისმთევლებს<caesura/> ლხინი <caesura/><rhyme label="a">გაუმართავთ</rhyme></l>
+               <l n="16" met="42/42">და სიზმრები<caesura/> როცა <caesura/>სთვლემენ <caesura/><rhyme label="a">სასთუმალთან</rhyme>…</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="9" rhyme="aa">
+               <l n="17" met="42/42">საქართველოს<caesura/> მთებში<caesura/> გაგაჩინა <caesura/><rhyme label="a">ზენამ,</rhyme></l>
+               <l n="18" met="42/42">ხმათა ხავერ<caesura/>დების <caesura/>და ღმერთების <caesura/><rhyme label="a">ენავ</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ლხინი კახელებთან</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">მე ჩემი სახლი<caesura/> <rhyme label="a">გამხსენებია</rhyme>,</l>
+               <l n="2" met="5/5">გამხსენებია <caesura/>ყველა <rhyme label="b">კეთილი</rhyme>…</l>
+               <l n="3" met="5/5">თქვენთან ნადიმში <caesura/><rhyme label="a">დამთენებია</rhyme>,</l>
+               <l n="4" met="5/5">არ დავრჩენივლარ<caesura/><rhyme label="b"> გულდაწყვეტილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">მე განმიცდია<caesura/> მთის<rhyme label="a"> იდილია</rhyme>,</l>
+               <l n="6" met="5/5">და საარაკო<caesura/> ლხინი<rhyme label="b"> მზიური</rhyme>,</l>
+               <l n="7" met="5/5">მაგრამ ეს რაღაც <caesura/>უფრო<rhyme label="a"> ტკბილია</rhyme>,</l>
+               <l n="8" met="5/5">უფრო ნაცნობი<caesura/> და<rhyme label="b"> მშობლიური</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">ჩემს გვარს, უშიშარს <caesura/>და <rhyme label="a">იმედიანს</rhyme>,</l>
+               <l n="10" met="5/5">არ მოჰკლებია <caesura/>ყურძნის <rhyme label="b">ნაწური</rhyme>,</l>
+               <l n="11" met="5/5">მაგრამ ეს რაღაც <caesura/>უფრო <rhyme label="a">მეტია</rhyme>,</l>
+               <l n="12" met="5/5">უფრო სოფლური <caesura/>და <rhyme label="b">ვაჟკაცური</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

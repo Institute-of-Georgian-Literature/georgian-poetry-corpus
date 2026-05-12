@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>პირველი მჭედლები </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="53/53">იბერიელთა<caesura/> სოფელი…<caesura/>მაღალ-მაღალი<caesura/> <rhyme label="a">ცხენები</rhyme>…</l>
+               <l n="2" met="53/53">ხალიბის ფოლადს <caesura/>ადნობენ<caesura/> მამაცი <rhyme label="a">ხალი<caesura/>ბელები</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa">
+               <l n="3" met="53/53">პირველყოფილი <caesura/>სამჭედლო – <caesura/>გრდემლი და ურო <caesura/><rhyme label="a">ძლიერი</rhyme>,</l>
+               <l n="4" met="53/53">ქართულ იარაღს <caesura/>აწრთობენ <caesura/>მამაცი <rhyme label="a">იბე<caesura/>რიელნი</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="5" met="53/53">კვერითხუროი<caesura/> ვეება,<caesura/> რვალის და რკინის <caesura/> <rhyme label="a">მჭედელი</rhyme></l>
+               <l n="6" met="53/53">და საბერველი,<caesura/> ვეშაპის ყბასავით<rhyme label="a">გაუ<caesura/>ხედნელი</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="53/53">უგანივრესი<caesura/> ფილტვები,<caesura/> ჰაერი <rhyme label="a">დაჟან<caesura/>გებული</rhyme>.</l>
+               <l n="8" met="53/53">ბაასი: ჭექა-<caesura/>ქუხილი <caesura/>და ერი <rhyme label="a">აჯან<caesura/>ყებული</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="5" rhyme="aa">
+               <l n="9" met="53/53">ქურაში ცეცხლის <caesura/>ენები – <caesura/>წითელი <rhyme label="a">აბრე<caesura/>შუმები</rhyme>,</l>
+               <l n="10" met="53/53">კედლებზე ახალთ-<caesura/>ახალი,<caesura/> თხუტმეტწყრთიანი<caesura/> <rhyme label="a">შუბები</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="11" met="53/53">უზარმაზარი<caesura/> ფანჯრები,<caesura/> გაჭრილი <rhyme label="a">თაღებ<caesura/>ამდისა</rhyme>,</l>
+               <l n="12" met="53/53">დასახარჯავი <caesura/>ხანჯლები <caesura/>და პერანგები<caesura/> <rhyme label="a">ნაბდისა</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="7" rhyme="aa">
+               <l n="13" met="53/53">იბერიელთა<caesura/> სოფელი… <caesura/>მაღალ-მაღალი<caesura/><rhyme label="a"> ცხენები</rhyme>…</l>
+               <l n="14" met="53/53">ხალიბის ფოლადს<caesura/> ადნობენ <caesura/>მამაცი<rhyme label="a"> ხალი<caesura/>ბელები</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="8" rhyme="aa">
+               <l n="15" met="53/53">პირველყოფილი<caesura/> სამჭედლო – <caesura/>გრდემლი და ურო <caesura/><rhyme label="a">ძლიერი</rhyme>,</l>
+               <l n="16" met="53/53">ქართულ იარაღს<caesura/>აწრთობენ <caesura/>მამაცი <rhyme label="a"> იბე<caesura/>რიელნი</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

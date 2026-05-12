@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>*** აბასთუმანში პატარა გალია</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="3/3, 33/33, 5/6">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/6">აბასთუმანში <caesura/>პატარა <rhyme label="a">გალია</rhyme>,</l>
+               <l n="2" met="3/3/3">სახლია <caesura/>მთის ძირში<caesura/>  <rhyme label="b">მიდგმული</rhyme>,</l>
+               <l n="3" met="33/33">ამ სახლში<caesura/> წაბლისფერ<caesura/>თმიანი<caesura/><rhyme label="a"> ქალია</rhyme>,</l>
+               <l n="4" met="3/3/3">დიდბუნო<caesura/>ვანი და<caesura/>  <rhyme label="b">დიდგული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="33/33">მე, როცა <caesura/>თამარის <caesura/>ციხიდან<caesura/><rhyme label="a"> მოვდივარ</rhyme></l>
+               <l n="6" met="3/3/3">და ირგვლივ <caesura/>ღამეა <caesura/> <rhyme label="b">უკუნი</rhyme>,</l>
+               <l n="7" met="33/33">როდესაც <caesura/>დაღლილი<caesura/> სხეული<caesura/> <rhyme label="a">ღონდება</rhyme></l>
+               <l n="8" met="3/3/3">და ისმის<caesura/> ხეობის<caesura/>  <rhyme label="b">გუგუნი</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="33/33">როდესაც <caesura/>ეცემა<caesura/> ბილიკზე<caesura/> <rhyme label="a">მეათედ</rhyme></l>
+               <l n="10" met="3/3/3">უბელო<caesura/> ღრუბელი<caesura/> <rhyme label="b"> საზარი</rhyme></l>
+               <l n="11" met="33/33">და დაღლილ<caesura/>-დაქანცულ<caesura/> ლაჟვარდებს<caesura/> <rhyme label="a">მიათრევს</rhyme></l>
+               <l n="12" met="3/3/3">მდინარე<caesura/> ლოდების<caesura/> <rhyme label="b"> ზანზარით</rhyme>, –</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="33/33">პატარა<caesura/> სახლიდან <caesura/>შარაგზის<caesura/> <rhyme label="a">პირამდე</rhyme></l>
+               <l n="14" met="3/3/3">უეცრად<caesura/> იფეთქებს <caesura/> <rhyme label="b">ნაძვნარი</rhyme>;</l>
+               <l n="15" met="33/33">ეს იგი<caesura/> გამოჩნდა<caesura/> და ბილიკს <caesura/><rhyme label="a">მინათებს</rhyme></l>
+               <l n="16" met="3/3/3">მისი ნაწ<caesura/>ნავების<caesura/> <rhyme label="b">ხანძარი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/6">აბასთუმანში<caesura/> პატარა <rhyme label="a">გალია</rhyme></l>
+               <l n="18" met="3/3/3">სახლია<caesura/> მთის ძირში<caesura/>  <rhyme label="b">მიდგმული</rhyme>,</l>
+               <l n="19" met="33/33">ამ სახლში <caesura/>წაბლისფერ<caesura/>თმიანი<caesura/><rhyme label="a"> ქალია</rhyme>,</l>
+               <l n="20" met="3/3/3">დიდბუნო<caesura/>ვანი და<caesura/>  <rhyme label="b">დიდგული</rhyme>…</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>სალაღობო</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>1940 წელი</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="55/55, 4/4/4, 5/3, 4/4">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="55/55">ხომ ლამაზია <caesura/>ეს ჩემი ცოლი, <caesura/>მაგრამ მე უფრო<caesura/> ლამაზი<rhyme label="a"> მინდა</rhyme>, –</l>
+               <l n="2" met="55/55">ატმის ხესავით <caesura/>აფეთქებული<caesura/> და მოქნეული <caesura/><rhyme label="b">გავაზივითა</rhyme>,</l>
+               <l n="3" met="55/55">ხომ ლამაზია<caesura/> ეს საქართველო,<caesura/> მაგრამ მე უფრო <caesura/>ლამაზი<rhyme label="a"> მინდა</rhyme>, –</l>
+               <l n="4" met="55/55">ფართოდ გაშლილი <caesura/>და მოხატული<caesura/> თამარ დედოფლის <caesura/><rhyme label="b">დარბაზივითა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="aaaa">
+               <l n="5" met="4/4">„კაცის გული <caesura/><rhyme label="a">ასეთია</rhyme>,</l>
+               <l n="6" met="4/4">ვით მორევი <caesura/>შავი <rhyme label="a">ზღვისა</rhyme>:</l>
+               <l n="7" met="4/4">რაგინდ კარგი<caesura/> ცოლი<rhyme label="a"> ჰყავდეს</rhyme>,</l>
+               <l n="8" met="4/4">მაინც მოუნ<caesura/>დება <rhyme label="a">სხვისა</rhyme>!“</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="4/4/4">დაუკარით, <caesura/>რომ ძველ ხანჯალს<caesura/> ელდა <rhyme label="a">ეცეს</rhyme>,</l>
+               <l n="10" met="4/4/4">გაისარჯოს <caesura/>და ბრძოლაში<caesura/> <rhyme label="b">დაიხარჯოს</rhyme>!</l>
+               <l n="11" met="4/4/4">გაუმარჯოს<caesura/> საქართველოს <caesura/>მზეს და <rhyme label="a">ზეცას</rhyme></l>
+               <l n="12" met="4/4/4">საქართველოს<caesura/> ძლიერებას <caesura/><rhyme label="b">გაუმარჯოს</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="4/4/4">დაუკარით! <caesura/>ჯერ ხომ სისხლი <caesura/>გვიდგას <rhyme label="a">ძარღვში</rhyme>,</l>
+               <l n="14" met="4/4/4">ჯერ ხომ საროს<caesura/> ფოთლები არ <caesura/><rhyme label="b">გასცვენია</rhyme>,</l>
+               <l n="15" met="4/4/4">ჯერ ხომ მცხეთის <caesura/>სვეტიცხოვლის<caesura/> დიდ<rhyme label="a"> ტაძარში</rhyme></l>
+               <l n="16" met="4/4/4">საქართველოს<caesura/> ცხელი გული <caesura/><rhyme label="b">ასვენია</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="4/4/4">დაუკარით!<caesura/> და იმღერეთ<caesura/>ისე <rhyme label="a">მაგრად</rhyme>,</l>
+               <l n="18" met="4/4/4">რომ ფილტვები<caesura/> გვეტკინოს და<caesura/> <rhyme label="b">დაგვებეროს</rhyme>!</l>
+               <l n="19" met="4/4/4">დაუკარით,<caesura/> რომ ჭაბუკნი<caesura/> ვიყოთ<rhyme label="a"> მარად</rhyme>,</l>
+               <l n="20" met="4/4/4">რომ ცხოვრებამ <caesura/>ვერასდროს ვერ<caesura/> <rhyme label="b">დაგვაბეროს</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="4/4/4">დაუკარით!<caesura/> და იმღერეთ <caesura/><rhyme label="a">მადიანი</rhyme>,</l>
+               <l n="22" met="4/4/4">ფიცხელ ომში <caesura/>რომ მღეროდა <caesura/><rhyme label="b">მაჩაბელი</rhyme>.</l>
+               <l n="23" met="4/4/4">დაუკარით <caesura/>ძველებური<caesura/><rhyme label="a"> დარდიანი</rhyme>,</l>
+               <l n="24" met="4/4/4">დაუკარით<caesura/> არწივების <caesura/><rhyme label="b">ასაფრენი</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="4/4/4">ცხრა ლახვარი<caesura/> რომ დამარტყან<caesura/> ცხრაჯერ<rhyme label="a"> გულში</rhyme>,</l>
+               <l n="26" met="4/4/4">მტრის ჯინაზე<caesura/> ცხრაჯერ მწარედ<caesura/> <rhyme label="b">გავიცინებ</rhyme>.</l>
+               <l n="27" met="4/4/4">დავიღლები<caesura/> საქართველოს<caesura/> <rhyme label="a">სიყვარულში</rhyme>,</l>
+               <l n="28" met="4/4/4">სასთუმალზე<caesura/> ერთხელაც არ<caesura/> <rhyme label="b">დავიძინებ</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="4/4/4">დაუკარით! <caesura/>მოასწარით, <caesura/>თორემ <rhyme label="a">ჰერი</rhyme>…</l>
+               <l n="30" met="4/4/4">და სიბერეც <caesura/>ძუ მგელივით<caesura/><rhyme label="b"> მოგვიხტება</rhyme>.</l>
+               <l n="31" met="4/4/4">დაუკარით <caesura/>ძველებური <caesura/><rhyme label="a">მოსალხენი</rhyme>:</l>
+               <l n="32" met="4/4/4">– შავგვრემანებს <caesura/>შავი ჩოხა <caesura/><rhyme label="b">მოგვიხდება</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="4/4/4">დაუკარით<caesura/> ძველებური <caesura/><rhyme label="a">ლოთიანი</rhyme>,</l>
+               <l n="34" met="4/4/4">საათნოვა<caesura/> რომ მღეროდა <caesura/><rhyme label="b">შაითანთან</rhyme>,</l>
+               <l n="35" met="4/4/4">დაუკარით! <caesura/>განა ყველა<caesura/> <rhyme label="a">ლოთი არი</rhyme>?!</l>
+               <l n="36" met="4/4/4">განა ყველა<caesura/> სიყვარულით <caesura/><rhyme label="b">დაიშანთა</rhyme>?!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="xaxa">
+               <l n="37" met="5/3">„ვაჟკაცსა გული <caesura/><rhyme label="x">რკინისა</rhyme>,</l>
+               <l n="38" met="5/3">აბჯარი უნდან <caesura/><caesura/><rhyme label="a">ხისანი</rhyme>,</l>
+               <l n="39" met="5/3">თვალნი ქორებულ<rhyme label="x"> მხედავნი</rhyme>,</l>
+               <l n="40" met="5/3">ზედ მუხლნი <rhyme label="a">შავარდ<caesura/>ნისანი</rhyme>“,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="abab">
+               <l n="41" met="55/55">ხომ ლამაზია <caesura/>ეს ჩემი ცოლი,<caesura/> მაგრამ მე უფრო <caesura/>ლამაზი <rhyme label="a">მინდა</rhyme>, –</l>
+               <l n="42" met="55/55">ატმის ხესავით <caesura/>აფეთქებული<caesura/> და მოქნეული<caesura/><rhyme label="b"> გავაზივითა</rhyme>,</l>
+               <l n="43" met="55/55">ხომ ლამაზია<caesura/> ეს საქართველო,<caesura/> მაგრამ მე უფრო <caesura/>ლამაზი<rhyme label="a"> მინდა</rhyme>, –</l>
+               <l n="44" met="55/55">ფართოდ გაშლილი<caesura/> და მოხატული <caesura/>თამარ დედოფლის<caesura/> <rhyme label="b">დარბაზივითა</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

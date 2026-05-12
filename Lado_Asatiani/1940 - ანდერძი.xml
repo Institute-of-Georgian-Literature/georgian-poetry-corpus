@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ანდერძი</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">იყავი მუდამ<caesura/> ასე<rhyme label="a"> წარმტაცი</rhyme></l>
+               <l n="2" met="5/5">არ შეარცხვინო <caesura/>შენი <rhyme label="b">მანდილი</rhyme>,</l>
+               <l n="3" met="5/5">გახსოვდეს მუდამ <caesura/>შენი<rhyme label="a"> ვაჟკაცი</rhyme>,</l>
+               <l n="4" met="5/5">ბნელ უკუნეთში<caesura/> <rhyme label="b">გადავარდნილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">გეცვას ქართული<caesura/> კაბა <rhyme label="a">ქათიბი</rhyme>,</l>
+               <l n="6" met="5/5">წმინდა სამოსი<caesura/> ჩვენი <rhyme label="b">დედების</rhyme>,</l>
+               <l n="7" met="5/5">იყავი მუდამ <caesura/>ასე<rhyme label="a"> ნატიფი</rhyme></l>
+               <l n="8" met="5/5">და ნურასოდეს <caesura/><rhyme label="b">ნუ დაბერდები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">რომ ის შორს მყოფი,<caesura/> სადღაც<rhyme label="a"> შენს იქით</rhyme></l>
+               <l n="10" met="5/5">მაინც გხედავდეს <caesura/><rhyme label="b">ალავერდობას</rhyme></l>
+               <l n="11" met="5/5">და შენ გეტრფოდეს,<caesura/> როგორც<rhyme label="a"> ბესიკი</rhyme>,</l>
+               <l n="12" met="5/5">ეტრფოდა თავის <caesura/>ანა <rhyme label="b">დედოფალს</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">იყავი მუდამ <caesura/><rhyme label="a">შეუშიშარი</rhyme>,</l>
+               <l n="14" met="5/5">აწმყოსთან ერთად<caesura/> გწამდეს<rhyme label="b"> წარსული</rhyme>,</l>
+               <l n="15" met="5/5">და მოკვდი ისე,<caesura/> როგორც<rhyme label="a"> შუშანა</rhyme>,</l>
+               <l n="16" met="5/5">მოწამე არჩილ<caesura/> მეფის <rhyme label="b">ასული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">ნუ მოისურვებ <caesura/>სხვა ქვეყნის <rhyme label="a">ამინდს</rhyme>,</l>
+               <l n="18" met="5/5">გიყვარდეს მხოლოდ <caesura/>შენი<rhyme label="b"> მამული</rhyme></l>
+               <l n="19" met="5/5">და თუ ტირილის<caesura/> დაგიდგეს <rhyme label="a">ჟამი</rhyme>,</l>
+               <l n="20" met="5/5">მონახე ჩანგი <caesura/>და<rhyme label="b"> სალამური</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">იყავი მუდამ<caesura/> ასე <rhyme label="a">წარმტაცი</rhyme>,</l>
+               <l n="22" met="5/5">არ შეარცხვინო <caesura/>შენი<rhyme label="b"> მანდილი</rhyme>,</l>
+               <l n="23" met="5/5">გახსოვდეს მუდამ <caesura/>შენი<rhyme label="a"> ვაჟკაცი</rhyme>,</l>
+               <l n="24" met="5/5">ბნელ უკუნეთში<caesura/> <rhyme label="b">გადავარდნილი</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

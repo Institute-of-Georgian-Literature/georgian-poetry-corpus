@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>თებერვლის დილა</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/4/5, 5/4, 4/5, 5/5, 5">
+            
+            <lg type="კატრენი" n="1" rhyme="aaaa">
+               <l n="1" met="5/4">ქალაქის გულში <caesura/> <rhyme label="a">აენთება</rhyme></l>
+               <l n="2" met="5">თებერვლის <rhyme label="a">დილა</rhyme>,</l>
+               <l n="3" met="5">თებერვლის <rhyme label="a">დილა</rhyme>,</l>
+               <l n="4" met="4/5">თხუთმეტი წლის <caesura/>ჭაბუკის <rhyme label="a">კბილა</rhyme>.</l>
+            </lg>
+            
+            <lg type="სამტაეპედი" n="2" rhyme="aaa">
+               <l n="5" met="5/4/5">გარემოს მკერდზე <caesura/>დაებნევა<caesura/> დროშების <rhyme label="a">ტევრი</rhyme>,</l>
+               <l n="6" met="5/5">დროშების <rhyme label="a">ტევრი</rhyme>,</l>
+               <l n="7" met="4/5">ალისფერი<caesura/> დროშების<rhyme label="a"> ტევრი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="aaxa">
+               <l n="8" met="5/4/5">მზით პირს შეიშრობს,<caesura/> ჩაიღიმებს <caesura/>ულვაშში<rhyme label="a"> ტკბილად</rhyme></l>
+               <l n="9" met="5/4/5">და გათენდება<caesura/> ბედნიერი <caesura/>თებერვლის <rhyme label="a">დილა</rhyme>:</l>
+               <l n="10" met="5/4">ოქროს სხივებით <caesura/>ღრუბლის ქულებს</l>
+               <l n="11" met="5">ცაზე რომ <rhyme label="a">დევნის</rhyme>.</l>
+            </lg>
+            
+            <lg type="ხუთტაეპედი" n="4" rhyme="aaaaa">
+               <l n="12" met="5/4/5">იმღერებს ყველა<caesura/> გამარჯვებულ <caesura/>ქვეყნის <rhyme label="a">მშრომელი</rhyme>,</l>
+               <l n="13" met="5">იმღერებს <rhyme label="a">მწყემსი</rhyme>,</l>
+               <l n="14" met="4/5">კოლმეურნე<caesura/> მაღალ<rhyme label="b"> მთებიდან</rhyme>,</l>
+               <l n="15" met="5/5">დღეს შეუსრულდა <caesura/>თხუთმეტი <rhyme label="a">წელი</rhyme>,</l>
+               <l n="16" met="5/4/5">მზის ამოსვლიდან <caesura/>და მეორედ <caesura/><rhyme label="b">დაბადებიდან</rhyme>!</l>
+            </lg>
+            
+            <lg type="ხუთტაეპედი" n="5" rhyme="xxaaa">
+               <l n="17" met="5">და ასე <rhyme label="x">ტკბილად</rhyme>...</l>
+               <l n="18" met="4/5">ბედნიერი<caesura/> სამშობლოს<rhyme label="x"> მკერდზე</rhyme></l>
+               <l n="19" met="5/4/5">მზის ელვარებით <caesura/>აენთება <caesura/>თებერვლის <rhyme label="a">დილა</rhyme>,</l>
+               <l n="20" met="5">თებერვლის<rhyme label="a"> დილა</rhyme>...</l>
+               <l n="21" met="4/5">თხუთმეტი წლის<caesura/> ჭაბუკის<rhyme label="a">კბილა</rhyme>!</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

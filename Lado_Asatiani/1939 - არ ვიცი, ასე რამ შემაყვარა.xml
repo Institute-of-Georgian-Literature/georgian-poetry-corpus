@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>არ ვიცი, ასე რამ შემაყვარა</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/161.ar-vici-ase-ram-shemakvara.htm</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ყველა ხევსური <caesura/>და  ყველა <rhyme label="a">სვანი</rhyme>,</l>
+               <l n="2" met="5/5">ქართველი ქალი <caesura/> <rhyme label="b">თვალებმაყვალა</rhyme>,</l>
+               <l n="3" met="5/5">ჩემი თბილისი <caesura/>და <rhyme label="a">ფიროსმანი</rhyme>,</l>
+               <l n="4" met="5/5">არ ვიცი,ასე <caesura/><rhyme label="b">რამ შემაყვარა</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">მოკვდა თუ არა, <caesura/> ყველამ <rhyme label="a">აცხონა</rhyme>,</l>
+               <l n="6" met="5/5">ცოცხალი არვინ <caesura/> არ <rhyme label="b">მიიკარა</rhyme>,</l>
+               <l n="7" met="5/5">მე ფიროსმანის <caesura/>ქუჩაზე <rhyme label="a">ვცხოვრობ</rhyme></l>
+               <l n="8" met="5/5">და ყოველ დილით <caesura/> ვხვდები<rhyme label="b"> ნიკალას</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">ძილგატეხილი <caesura/>და <rhyme label="a">არეული</rhyme></l>
+               <l n="10" met="5/5">ჭიქა არაყით <caesura/> გაიხსნის <rhyme label="b">მადას</rhyme>,</l>
+               <l n="11" met="5/5">მერე შეკრთება<caesura/> ვით <rhyme label="a">მთვარეული</rhyme></l>
+               <l n="12" met="5/5">და ორთაჭალის<caesura/> ლამაზებს<rhyme label="b"> ხატავს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ქართული ზეცა, <caesura/> ქართული<rhyme label="a"> ზვარი</rhyme>,</l>
+               <l n="14" met="5/5">მტკვარი მღვრიე და <caesura/> მტკვარი <rhyme label="b">ანკარა</rhyme>...</l>
+               <l n="15" met="5/5">ჩემი თბილისი<caesura/> და <rhyme label="a">ფიროსმანი</rhyme>,</l>
+               <l n="16" met="5/5">არ ვიცი, ასე<caesura/> რამ <rhyme label="b">შემაყვარა</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

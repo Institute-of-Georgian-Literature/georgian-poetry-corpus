@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>სარწყული</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53">
+            
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="53/53">თავაწეული,<caesura/> ზვიადი, <caesura/>განა ჩია და <caesura/>  <rhyme label="a"> საწყლური</rhyme>?</l>
+               <l n="2" met="53/53">თვალნათლივ მახსოვს<caesura/> შენს სახლში<caesura/> ერთი ცისფერი<caesura/> <rhyme label="a">სარწყული</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa">  
+               <l n="3" met="53/53">გარშემო ლაჟვარ<caesura/>დისფერი<caesura/> სინათლის მიმომ<caesura/><rhyme label="a">ფინველი</rhyme>,</l>
+               <l n="4" met="53/53">იჯდა პატარა <caesura/>სუფრაზე<caesura/> ისე, ვით ლურჯი<caesura/> <rhyme label="a">ფრინველი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="aa">
+               <l n="5" met="53/53">ისე, ვით ლურჯი <caesura/>ფრინველი, <caesura/>ვეება თეთრი<caesura/> <rhyme label="a">ნისკარტით</rhyme>…</l>
+               <l n="6" met="53/53">ჩვენ სადილს შევექ<caesura/>ცეოდით, <caesura/>უკვდავების წყალს<caesura/> <rhyme label="a">ვისხამდით</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="53/53">გვესმოდა შხეფთა<caesura/> შხუილი,<caesura/> ზღაპრულ წყაროთა<caesura/> <rhyme label="a">დგაფუნი</rhyme></l>
+               <l n="8" met="53/53">და გვახარებდა <caesura/>სილურჯით <caesura/>სარწყული <rhyme label="a">მამა<caesura/>პაპური</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="aa">
+               <l n="9" met="53/53">სარწყული მამა<caesura/>პაპური, <caesura/>ამპარტავანი,<caesura/>  <rhyme label="a">ყურჭრელი</rhyme>, –</l>
+               <l n="10" met="53/53">აბა, როგორ არ <caesura/>მიყვარდეს<caesura/> სიცოცხლით სავსე <caesura/> <rhyme label="a">ჭურჭელი</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="11" met="53/53">მან გამინათა <caesura/>ბილიკი<caesura/> ლაჟვარდებისკენ<caesura/> <rhyme label="a">სავალი</rhyme>…</l>
+               <l n="12" met="53/53">აბა, როგორ არ <caesura/>მიყვარდეს <caesura/>ჩემი <rhyme label="a">თავგადა<caesura/>სავალი</rhyme>?!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="aa">
+               <l n="13" met="53/53">მისმა უზომო <caesura/>სილურჯემ <caesura/>გამიღო ზეცის <caesura/><rhyme label="a">კარები</rhyme></l>
+               <l n="14" met="53/53">და ქვეყანაზე<caesura/> სიცოცხლე <caesura/>მომიზღო ლექსის <caesura/><rhyme label="a">პწკარებით</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="8" rhyme="aa">
+               <l n="15" met="53/53">და ახლა, როცა<caesura/> უმწეო <caesura/>ვდგავარ უფსკრულის<caesura/> <rhyme label="a">ნაპირთან</rhyme>.</l>
+               <l n="16" met="53/53">როცა ცხოვრებამ <caesura/>გამთელა <caesura/>და სიმჭლის სენმა <caesura/><rhyme label="a">დამფლითა</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="aa">
+               <l n="17" met="53/53">როცა ცხელების<caesura/> ალმურში <caesura/>გაგიჟებამდე <caesura/><rhyme label="a">მაბოდებს</rhyme>,</l>
+               <l n="18" met="53/53">რასაც ტივებზე<caesura/> მღეროდნენ, <caesura/>რასაც წისქვილში<caesura/> <rhyme label="a">ამბობდნენ</rhyme>, –</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="10" rhyme="aa">
+               <l n="19" met="53/53">კვლავ შენ გნატრულობ, <caesura/>რომ მკერდზე<caesura/> სიცოცხლის წყარო<caesura/> <rhyme label="a">მასხურო</rhyme>,</l>
+               <l n="20" met="53/53">ბავშვობასავით<caesura/> ცისფერო,<caesura/> მამაპაპურო <caesura/><rhyme label="a">სარწყულო</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

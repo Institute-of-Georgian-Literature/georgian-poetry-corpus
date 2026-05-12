@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>წარწერა სურათზე</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="xaxa">
+               <l n="1" met="5/5">აი, სურათი<caesura/> <rhyme label="x">იმდროინდელი</rhyme>,</l>
+               <l n="2" met="5/5">როცა ვეტრფოდი<caesura/> მე ჩემს <rhyme label="a">ზემფირას</rhyme>,</l>
+               <l n="3" met="5/5">როცა ფიქრებით <caesura/><rhyme label="x">გარემოცული</rhyme>,</l>
+               <l n="4" met="5/5">ვხეტიალობდი<caesura/> შავი<rhyme label="a"> ზღვის პირას</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="xaxa">
+               <l n="5" met="5/5">როცა ვტიროდი<caesura/> <rhyme label="x">გულდათუთქული</rhyme>,</l>
+               <l n="6" met="5/5">და ცხელ ცრემლებში <caesura/>ვპოვე <rhyme label="a">გართობა</rhyme>,</l>
+               <l n="7" met="5/5">რადგან უმიზნოდ <caesura/>და<rhyme label="x"> უნაყოფოდ</rhyme>,</l>
+               <l n="8" met="5/5">მიქროდა ჩემი <caesura/><rhyme label="a">ახალგაზრდობა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="xaxa">
+               <l n="9" met="5/5">როცა ვნატრობდი <caesura/>უბრალო <rhyme label="x">ხალათს</rhyme>,</l>
+               <l n="10" met="5/5">დედის ძვირფასი <caesura/>ხელით<rhyme label="a"> შეკერილს</rhyme>,</l>
+               <l n="11" met="5/5">როცა ვიყავი<caesura/> <rhyme label="x">მოუსვენარი</rhyme>,</l>
+               <l n="12" met="5/5">და უმეგობრო <caesura/><rhyme label="a">კუხელბეკერი</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="xaxa">
+               <l n="13" met="5/5">აი, სურათი,<caesura/> დე, შენთან <rhyme label="x">იყოს</rhyme>,</l>
+               <l n="14" met="5/5">და მაშინ უკეთ<caesura/> <rhyme label="a">გემახსოვრება</rhyme> –</l>
+               <l n="15" met="5/5">ზანტად განვლილი<caesura/> დღეების<rhyme label="x"> შემდეგ</rhyme>,</l>
+               <l n="16" met="5/5">ერთი მართალი <caesura/>კაცის<rhyme label="a"> ცხოვრება</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

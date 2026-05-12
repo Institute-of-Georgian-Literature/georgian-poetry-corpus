@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ზევით ცა მხურავს...</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/1d-zevit-ca-mxuravs </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ზევით ცა მხურავს – <caesura/> კრიალა, <rhyme label="a">ღია</rhyme>,</l>
+               <l n="2" met="5/5">ირგვლივ მთებია <caesura/> <rhyme label="b">მკერდდაგლეჯილი</rhyme>,</l>
+               <l n="3" met="5/5">ჩემი სამშობლო <caesura/> <rhyme label="a">იალაღია</rhyme>,</l>
+               <l n="4" met="5/5">ზედ საამური <caesura/> ხარობს <rhyme label="b">ჯეჯილი</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">და თუ მოაწყდა <caesura/> მტერი <rhyme label="a">იალაღს</rhyme>, -</l>
+               <l n="6" met="5/5">ვერ შესძლოს გულმა <caesura/> ბოღმის <rhyme label="b">დატევა</rhyme>,</l>
+               <l n="7" met="5/5">მოვიხმარ ლექსებს, <caesura/> როგორც <rhyme label="a">იარაღს</rhyme>,</l>
+               <l n="8" met="5/5">მოვიხმარ ლექსებს, <caesura/> როგორც <rhyme label="b">სატევარს</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

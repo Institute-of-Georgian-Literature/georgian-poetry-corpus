@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ალბომიდან</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">რა დამავიწყებს <caesura/>შენს ლამაზ<rhyme label="a"> თვალებს</rhyme>,</l>
+               <l n="2" met="5/5">რამ დამავიწყოს<caesura/> ეს <rhyme label="b">ალუბლები</rhyme>!</l>
+               <l n="3" met="5/5">იცოდე, როცა <caesura/>სხვას <rhyme label="a">შეიყვარებ</rhyme>,</l>
+               <l n="4" met="5/5">ამ სიყვარულზე<caesura/> <rhyme label="b">ვესაუბრები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ვეტყვი თუ როგორ<caesura/> გვიყვარდა<rhyme label="a"> ძველად</rhyme></l>
+               <l n="6" met="5/5">ჩვენ ტრფიალება <caesura/><rhyme label="b">წრეგადასული</rhyme>,</l>
+               <l n="7" met="5/5">თუ როგორ გაქრა <caesura/>ოცნება <rhyme label="a">ყველა</rhyme></l>
+               <l n="8" met="5/5">და მოგონებად <caesura/>დარჩა<rhyme label="b"> წარსული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">ვეტყვი, თუ როგორ<caesura/> გვიყვარდა <rhyme label="a">გულით</rhyme></l>
+               <l n="10" met="5/5">ფიროსმანი და <caesura/>თბილისის <rhyme label="b">ღამე</rhyme>,</l>
+               <l n="11" met="5/5">ლაჟვარდოვანი <caesura/>მტკვარის <rhyme label="a">დუდუნი</rhyme></l>
+               <l n="12" met="5/5">და მარტოობის <caesura/>მკაცრი<rhyme label="b"> სიამე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ვეტყვი: რა მწვავდა,<caesura/> რა<rhyme label="a"> სატკივარი</rhyme>,</l>
+               <l n="14" met="5/5">მაღალ მთებს რისთვის <caesura/><rhyme label="b">გამოვექეცი</rhyme>,</l>
+               <l n="15" met="5/5">როგორ გაგანდე,<caesura/> ძვირფასო,<rhyme label="a"> ჯავრი</rhyme></l>
+               <l n="16" met="5/5">და კაცი ლექსად <caesura/><rhyme label="b">როგორ ვიქეცი</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">ამ შენს სახელზე<caesura/> ბერდანის<rhyme label="a"> ტყვიით</rhyme></l>
+               <l n="18" met="5/5">როგორ დავკოდე<caesura/> ნადირი<rhyme label="b"> მხარში</rhyme>,</l>
+               <l n="19" met="5/5">რომ არ ვიცოდი <caesura/>მაცდური<rhyme label="a"> ტყვილი</rhyme>,</l>
+               <l n="20" met="5/5">რომ შეშლილივით<caesura/> მიყვარდი<rhyme label="b"> მაშინ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">ო… მასაც ვეტყვი,<caesura/> ვეტყვი <rhyme label="a">ყველაფერს</rhyme>,</l>
+               <l n="22" met="5/5">რა კარგი იყავ <caesura/>და რარიგ <rhyme label="b">ნაზი</rhyme>,</l>
+               <l n="23" met="5/5">რომ მხოლოდ შენთვის<caesura/> <rhyme label="a">ავაფერადე</rhyme></l>
+               <l n="24" met="5/5">ჩემი სიმღერა <caesura/>და <rhyme label="b">მუხამბაზი</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">ო… მასაც ვეტყვი,<caesura/> ძვირფასო<rhyme label="a"> ცირა</rhyme>,</l>
+               <l n="26" met="5/5">როგორ გვდევნიდა <caesura/>ბედი <rhyme label="b">ტიალი</rhyme>,</l>
+               <l n="27" met="5/5">როგორ გვიყვარდა <caesura/>შავი ზღვის <rhyme label="a">პირას</rhyme>,</l>
+               <l n="28" met="5/5">გასეირნება და <caesura/><rhyme label="b">ხეტიალი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">როგორ გვათრობდა <caesura/>ტალღების<rhyme label="a"> ნანა</rhyme></l>
+               <l n="30" met="5/5">და სიყვარულით <caesura/>როგორ <rhyme label="b">ვიწვოდით</rhyme>…</l>
+               <l n="31" met="5/5">და ეს შარბათზე <caesura/>უტკბესი<rhyme label="a"> ხანა</rhyme></l>
+               <l n="32" met="5/5">რომ გაქრებოდა,<caesura/> რად არ <rhyme label="b">ვიცოდით</rhyme>?!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="5/5">ვეტყვი, რა იყო<caesura/> ის<rhyme label="a"> გაზაფხული</rhyme>,</l>
+               <l n="34" met="5/5">როდესაც შეგხვდი<caesura/> და<rhyme label="b"> შემიყვარდი</rhyme>,</l>
+               <l n="35" met="5/5">ოპერის ბაღის <caesura/><rhyme label="a">სიზმრად ნახული</rhyme>,</l>
+               <l n="36" met="5/5">აკაკის ძეგლთან<caesura/> გაშლილი<rhyme label="b"> ვარდი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="5/5">რა დამავიწყებს <caesura/>შენს ლამაზ<rhyme label="a"> თვალებს</rhyme>,</l>
+               <l n="38" met="5/5">რამ დამავიწყოს <caesura/>ეს <rhyme label="b">ალუბლები</rhyme>!</l>
+               <l n="39" met="5/5">იცოდე, როცა <caesura/>სხვას<rhyme label="a"> შეიყვარებ</rhyme>,</l>
+               <l n="40" met="5/5">ამ სიყვარულზე <caesura/><rhyme label="b">ვესაუბრები</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

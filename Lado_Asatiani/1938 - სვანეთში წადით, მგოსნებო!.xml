@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>სვანეთში წადით, მგოსნებო!</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem"  met="53/53">
+            
+            <lg type="კატრენი" n="1" rhyme="aaaa">
+               <l n="1" met="53/53">სვანეთში წადით,<caesura/>  მგოსნებო, <caesura/> გაიღეთ მსხვერპლი,<caesura/> <rhyme label="a"> ზვარაკი</rhyme>,</l>
+               <l n="2" met="53/53">აქ ეგულება <caesura/> ოცნებას<caesura/>  თამარის ციხე-<caesura/><rhyme label="a"> ქალაქი</rhyme>.</l>
+               <l n="3" met="53/53">სვანეთი არის<caesura/>  სავანე <caesura/> და საგანძური<caesura/> <rhyme label="a"> ალაგი</rhyme>,</l>
+               <l n="4" met="53/53">სვანეთში წადით, <caesura/> მგოსნებო,<caesura/>  დატოვეთ თბილის-<caesura/><rhyme label="a"> ქალაქი</rhyme>.</l>
+            </lg>
+            
+            <lg type="სამტაეპედი" n="2" rhyme="aaaa">
+               <l n="5" met="53/53">მჯერა, სვანეთში <caesura/>მარხია <caesura/>თამარის –  განძი <caesura/><rhyme label="a">სამარე</rhyme>.</l>
+               <l n="6" met="53/53">მჯერა სვანეთში<caesura/> მარხია <caesura/>რუსთაველი და<caesura/> <rhyme label="a">თამარი</rhyme>.</l>
+               <l n="7" met="53/53">სვანეთში წადით,<caesura/> წაგიყვანთ<caesura/> შოთას შაირი<caesura/><rhyme label="a"> ფრთამალი</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="3" rhyme="aa">
+               <l n="8" met="53/53">მზე ვერ ჩერდება<caesura/> მიწაში,<caesura/> მაღლა აპირებს<caesura/><rhyme label="a"> ამოსვლას</rhyme>,</l>
+               <l n="9" met="53/53">სვანეთში წადით, <caesura/>უშველეთ<caesura/> რუსთველის <rhyme label="a">„ვეფხის<caesura/>ტყაოსანს</rhyme>“,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="4" rhyme="aa"> 
+               <l n="10" met="53/53">გათხარეთ მიწა <caesura/>ძვირფასი, <caesura/>იკითხეთ, ძებნეთ,<caesura/><rhyme label="a"> იარეთ</rhyme>,</l>
+               <l n="11" met="53/53">ნახეთ დაფლული <caesura/>მნათობი, <caesura/>საქვეყნოდ<rhyme label="a"> აა<caesura/>ფრიალეთ</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="5" rhyme="aa">
+               <l n="12" met="53/53">მხოლოდ ერთი რამ <caesura/>გახსოვდეთ,<caesura/> ჩამოიტანეთ <caesura/><rhyme label="a">ბარად ის</rhyme>,</l>
+               <l n="13" met="53/53">პოეზიას და <caesura/>სიყვარულს<caesura/> აქ ურჩევნია <caesura/><rhyme label="a">მარადის</rhyme>!</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

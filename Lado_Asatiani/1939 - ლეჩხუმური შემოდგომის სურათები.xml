@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ლეჩხუმური შემოდგომის სურათები</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">რტოს მოაშორებს <caesura/> სიმწიფის<rhyme label="a"> ბედი</rhyme>,</l>
+               <l n="2" met="5/5">დაგორდება და <caesura/> ვაზებს <rhyme label="b">ჩაუვლის</rhyme>, –</l>
+               <l n="3" met="5/5">ბალღებში ყველას <caesura/> გაუსწრებს<rhyme label="a"> ერთი</rhyme>,</l>
+               <l n="4" met="5/5">რომ ხელში იგდოს  <caesura/><rhyme label="b">თურაშაული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ხორბლის სურნელი <caesura/> ასდით<rhyme label="a"> კალოებს</rhyme>,</l>
+               <l n="6" met="5/5">მზეც ძველებურად  <caesura/>არ <rhyme label="b">იკბინება</rhyme></l>
+               <l n="7" met="5/5">და უელვარებთ  <caesura/>სავსე <rhyme label="a">ტაროებს</rhyme></l>
+               <l n="8" met="5/5">ნამით ნაფერი  <caesura/>ოქროს<rhyme label="b"> კბილები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">მთა მთას გასცქერის, <caesura/> მთა მთას<rhyme label="a"> გასძახის</rhyme></l>
+               <l n="10" met="5/5">სადღაც საყანედ  <caesura/>ახოებს<rhyme label="b"> ჭრიან</rhyme></l>
+               <l n="11" met="5/5">და გაბმულ ყეფას  <caesura/>აგებებს <rhyme label="a">ძაღლი</rhyme></l>
+               <l n="12" met="5/5">ორღობეებში  <caesura/>ურმების <rhyme label="b">ჭრიალს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ბარაქის თვალი <caesura/> დაიარს<rhyme label="a"> სოფლებს</rhyme>,</l>
+               <l n="14" met="5/5">აღუღუნდება <caesura/> გიტარის <rhyme label="b">სიმი</rhyme>…</l>
+               <l n="15" met="5/5">დაიხმარებენ  <caesura/>ნაცნობ <rhyme label="a">მეზობლებს</rhyme></l>
+               <l n="16" met="5/5">და მთელი ღამე  <caesura/>არჩევენ <rhyme label="b">სიმინდს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">მოაქვს ცხენისწყალს  <caesura/>გლეხკაცის <rhyme label="a">სახლთან</rhyme></l>
+               <l n="18" met="5/5">ნარიყალა და  <caesura/>მორები <rhyme label="b">ფიჭვის</rhyme>,</l>
+               <l n="19" met="5/5">ზამთრით ბუხარში <caesura/> გააჩენს <rhyme label="a">ხანძარს</rhyme>,</l>
+               <l n="20" met="5/5">ოცნებასავით  <caesura/>ნელ-ნელა <rhyme label="b">იწვის</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">ესმით ვენახში <caesura/> ანთებულ<rhyme label="a"> ატმებს</rhyme></l>
+               <l n="22" met="5/5">უზარმაზარი <caesura/> საწნახლის <rhyme label="b">ქშენა</rhyme>,</l>
+               <l n="23" met="5/5">ააქაქანებს  <caesura/>სახლის წინ<rhyme label="a"> ქათმებს</rhyme></l>
+               <l n="24" met="5/5">და ხვამლის მთისკენ  <caesura/>მიფრინავს<rhyme label="b"> ძერა</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

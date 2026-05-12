@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>სპარსელ ასულს</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/5-lado-asatiani-sparsel-asuls-leqsi</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">საღამოს, როცა <caesura/> შუქთა <rhyme label="a">შურდულით</rhyme></l>
+               <l n="2" met="5/5">ათინათინდა <caesura/>ვარსკვლავთ <rhyme label="b"> ჭავლეთი</rhyme>,</l>
+               <l n="3" met="5/5">შენ შემეფეთე <caesura/> და <rhyme label="a">ჩამჩურჩულე</rhyme>:</l>
+               <l n="4" met="5/5">აღმოსავლეთი, <caesura/> <rhyme label="b">აღმოსავლეთი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">საიდან გაჩნდი, <caesura/> საიდან <rhyme label="a">მოდი</rhyme>,</l>
+               <l n="6" met="5/5">შენი ამბავი <caesura/> გავიგო <rhyme label="b">მინდა</rhyme>.</l>
+               <l n="7" met="5/5">მე პოეტი ვარ <caesura/> და ქუჩის<rhyme label="a"> ლოთი</rhyme>,</l>
+               <l n="8" met="5/5">შენ კი მაისის<caesura/> ვარდივით <rhyme label="b">წმინდა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">რა გინდა ჩემთან, <caesura/> <rhyme label="a">პირველყოფილი</rhyme></l>
+               <l n="10" met="5/5">სუნთქვა გათრთოლებს <caesura/> უცხო <rhyme label="b">კაცისა</rhyme>,</l>
+               <l n="11" met="5/5">თუ სისხლი გხიბლავს <caesura/><rhyme label="a"> კეთილშობილი</rhyme></l>
+               <l n="12" met="5/5">რუსთაველის და <caesura/> <rhyme label="b">სააკაძისა</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">მე თბილისიდან <caesura/> გაქცევა<rhyme label="a"> მსურდა</rhyme>,</l>
+               <l n="14" met="5/5">შენ კი თბილისში <caesura/> ჩამოხველ,<rhyme label="b"> ქალო</rhyme>,</l>
+               <l n="15" met="5/5">ვინ მოგასწავლა <caesura/> ანთებულ<rhyme label="a"> გულთან</rhyme>,</l>
+               <l n="16" met="5/5">ფერეიდნულო<caesura/> ალმასის <rhyme label="b"> თვალო</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">საით იყავი, <caesura/> ან ვინ <rhyme label="a">გიყვარდა</rhyme>?</l>
+               <l n="18" met="5/5">მითხარი რამე, <caesura/> მიამბე<rhyme label="b"> რამე</rhyme>!</l>
+               <l n="19" met="5/5">მერე წავიდეთ, <caesura/> ჩამოვჯდეთ<rhyme label="a"> მტკვართან</rhyme></l>
+               <l n="20" met="5/5">და გავათეთროთ <caesura/> თბილისის <rhyme label="b">ღამე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">მე – შთაგონებით <caesura/> მთვრალი და<rhyme label="a"> ხელი</rhyme>,</l>
+               <l n="22" met="5/5">გეტყვი, რა იყო <caesura/> ჩვენი<rhyme label="b"> წარსული</rhyme>,</l>
+               <l n="23" met="5/5">შენ მოიღერე <caesura/> ჯეირნის<rhyme label="a"> ყელი</rhyme></l>
+               <l n="24" met="5/5">და გამაგონე <caesura/> შენი <rhyme label="b">სპარსული</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">ლამაზო ხანუმ, <caesura/> სპარსეთის <rhyme label="a">მოხველ</rhyme></l>
+               <l n="26" met="5/5">გულის მურაზი <caesura/> გეპოვა <rhyme label="b">გსურდა</rhyme>,</l>
+               <l n="27" met="5/5">შენ კი წააწყდი <caesura/> ვიღაცა <rhyme label="a">ოხერს</rhyme></l>
+               <l n="28" met="5/5">და მასთან ჰპოვე <caesura/> ერთობა <rhyme label="b">სულთა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">ახლა ერთია <caesura/> ჩემი <rhyme label="a">სურვილი</rhyme>:</l>
+               <l n="30" met="5/5">თან წამიყვანე <caesura/> მგზავრი<rhyme label="b"> გვიანი</rhyme>,</l>
+               <l n="31" met="5/5">გახელებული <caesura/> ტრფობის <rhyme label="a">წყურვილით</rhyme></l>
+               <l n="32" met="5/5">შენზე ოცნებით <caesura/> <rhyme label="b">კაეშნიანი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="5/5">ვნახოთ ირანი <caesura/> და <rhyme label="a">თეირანი</rhyme>,</l>
+               <l n="34" met="5/5">ფერეიდანი, <caesura/> ძველი<rhyme label="b"> თავრიზი</rhyme>,</l>
+               <l n="35" met="5/5">იქ მიმიყვანე <caesura/> მუდამ <rhyme label="a">მტირალი</rhyme></l>
+               <l n="36" met="5/5">შენი მიჯნური <caesura/> უცხო<rhyme label="b"> დავრიში</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="5/5">და, როცა, მოვკვდე, <caesura/> სიკვდილი <rhyme label="a">იცან</rhyme>,</l>
+               <l n="38" met="5/5">უკანასკნელად<caesura/> კვლავ <rhyme label="b">გამახარე</rhyme>…</l>
+               <l n="39" met="5/5">მოსძებნე ჩემი <caesura/> სამშAობლო <rhyme label="a">მიწა</rhyme></l>
+               <l n="40" met="5/5">და დამწვარ გულზე <caesura/> <rhyme label="b">გადამაყარე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="abab">
+               <l n="41" met="5/5">დადგება მაშინ <caesura/> მთვარის <rhyme label="a">საათი</rhyme>,</l>
+               <l n="42" met="5/5">წუთით ვარსკვლავნიც <caesura/> <rhyme label="b">დაიძინებენ</rhyme>,</l>
+               <l n="43" met="5/5">ჩვენი რუსთველი, <caesura/> თქვენი <rhyme label="a">საადი</rhyme></l>
+               <l n="44" met="5/5">ჩემს სამარესთან <caesura/><rhyme label="b"> იშაირებენ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="12" rhyme="abab">
+               <l n="45" met="5/5">მე წამოვდგები, <caesura/> კვლავ <rhyme label="a">აენთება</rhyme></l>
+               <l n="46" met="5/5">ცის ლაჟვარდებში <caesura/> ვარსკვლავთ <rhyme label="b">ჭავლეთი</rhyme>,</l>
+               <l n="47" met="5/5">მე ხელებს გავშლი <caesura/> და <rhyme label="a">შეერთდება</rhyme></l>
+               <l n="48" met="5/5">დასავლეთი და <caesura/> <rhyme label="b">აღმოსავლეთი</rhyme>…</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

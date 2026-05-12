@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>საქართველო იყო მათი საოცნებო სახელი</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>1939</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="44/43">
+            
+            <lg type="კატრენი" n="1" rhyme="aaaa">
+               <l n="1" met="44/43">ძველად თურმე,<caesura/> როცა მტრების<caesura/> უთვალავი <caesura/> <rhyme label="a">ჯარები</rhyme></l>
+               <l n="2" met="44/43">მოდიოდნენ <caesura/>რომ გაეღოთ<caesura/> საქართველოს<caesura/> <rhyme label="a"> კარები</rhyme>,</l>
+               <l n="3" met="44/43">მამაკაცებს <caesura/>გვერდით ჰყავდათ,<caesura/> ვით ფოლადის <caesura/> <rhyme label="a">ფარები</rhyme>, –</l>
+               <l n="4" met="44/43">და მტრებს მათთან <caesura/>ერთად სცემდნენ <caesura/>საქართველოს <caesura/> <rhyme label="a">ქალები</rhyme>, –</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="2" rhyme="aa">
+               <l n="5" met="44/43">ისე მტკიცე <caesura/>იყვნენ, თურმე, <caesura/>ვით მეტეხის <caesura/> <rhyme label="a">კედელი</rhyme>,</l>
+               <l n="6" met="44/43">გმირი თამარ<caesura/> ვაშლოვნელი <caesura/>და მაია<caesura/>  <rhyme label="a">წყნეთელი</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="3" rhyme="aa">   
+               <l n="7" met="44/43">მათი ხმალი<caesura/> ცეცხლს აფრქვევდა,<caesura/> მტერი თრთოდა<caesura/>  <rhyme label="a">ვერანი</rhyme>,</l>
+               <l n="8" met="44/43">საქართველოს <caesura/>ცის ფერს ჰგავდა <caesura/>ფერი მათი<caesura/>  <rhyme label="a">მერანის</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="4" rhyme="aa"> 
+               <l n="9" met="44/43">სადაც უნდა<caesura/> ყოფილიყვნენ <caesura/>მარად  <rhyme label="a">დაუზრ<caesura/>ახველნი</rhyme> –</l>
+               <l n="10" met="44/43">საქართველო <caesura/>იყო მათი<caesura/> საყვარელი<caesura/> <rhyme label="a"> სახელი</rhyme>.</l>
+            </lg>
+            
+            <lg type="სამტაეპედი" n="5" rhyme="aaa"> 
+               <l n="11" met="44/43">ბრძოლის ველზე <caesura/>მიდიოდნენ<caesura/> რაინდული <caesura/> <rhyme label="a">ოცნებით</rhyme>,</l>
+               <l n="12" met="44/43">მიდიოდნენ<caesura/> და მიჰქონდათ <caesura/>ჩალისფერი<caesura/>  <rhyme label="a">დროშები</rhyme>.</l>
+               <l n="13" met="44/43">ბევრჯერ სისხლით <caesura/>შეღებილან<caesura/> მათი  <rhyme label="a">ავგა<caesura/>როზები</rhyme>.</l>
+            </lg>
+            
+            <lg type="სამტაეპედი" n="6" rhyme="aaa"> 
+               <l n="14" met="44/43">სადაც უნდა <caesura/>ყოფილიყვნენ,<caesura/> თუნდ სამარის<caesura/>  <rhyme label="a">კარამდის</rhyme>,</l>
+               <l n="15" met="44/43">ოსმალეთის <caesura/>მიწა იყო,<caesura/> თუ მინდორი<caesura/> <rhyme label="a"> მარაბდის</rhyme>.</l>
+               <l n="16" met="44/43">საქართველო<caesura/> იყო მათი<caesura/> საყვარელი<caesura/> <rhyme label="a"> მარადის</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="aaaa">
+               <l n="17" met="44/43">სადაც უნდა<caesura/> აღემართათ<caesura/> სატევარი და<caesura/> <rhyme label="a"> გორდა</rhyme>,</l>
+               <l n="18" met="44/43">ვაჟკაცურად<caesura/> მიიწევდნენ, <caesura/>ვაჟკაცურად <caesura/> <rhyme label="a">გაჰქონდათ</rhyme>,</l>
+               <l n="19" met="44/43">სპარსეთში თუ <caesura/>დაღესტანში,<caesura/> კრწანისთან თუ<caesura/>  <rhyme label="a">შამქორთან</rhyme>,</l>
+               <l n="20" met="44/43">საქართველოს<caesura/> ერთი მუჭა <caesura/>ცხელი მიწა <caesura/> <rhyme label="a">თან ჰქონდათ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="aaaa">
+               <l n="21" met="44/43">სიკვდილის წინ <caesura/>რუსთაველის<caesura/> შაირების <caesura/> <rhyme label="a">ძახილით</rhyme>,</l>
+               <l n="22" met="44/43">მიწას გულში<caesura/> ჩაიკრავდა <caesura/>ქართლელი თუ <caesura/> <rhyme label="a">კახელი</rhyme>, –</l>
+               <l n="23" met="44/43">საქართველო <caesura/>იყო მათი<caesura/> საოცნებო <caesura/> <rhyme label="a">სახელი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="aaaa">
+               <l n="24" met="44/43">შვილებს ომში <caesura/>აგზავნიდნენ<caesura/> წარბშეკრული<caesura/>  <rhyme label="a">დედები</rhyme>,</l>
+               <l n="25" met="44/43">აგზავნიდნენ,<caesura/> აბარებდნენ <caesura/>დედურ  <rhyme label="a">დაი<caesura/>მედებით</rhyme>:</l>
+               <l n="26" met="44/43">თუ ისარი<caesura/> მოგხვდეთ ზურგში,<caesura/>არ დაიჭრათ <caesura/> <rhyme label="a">მკერდები</rhyme>,</l>
+               <l n="27" met="44/43">ხელმეორედ <caesura/>ნუ გენახოთ<caesura/> საქართველოს <caesura/> <rhyme label="a">ქედები</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="10" rhyme="aa">
+               <l n="28" met="44/43">ისე მტკიცე <caesura/>იყვნენ, თურმე, <caesura/>ვით მეტეხის <caesura/> <rhyme label="a">კედელი</rhyme>,</l>
+               <l n="29" met="44/43">გმირი თინა <caesura/>წავკისელი<caesura/> და მაია <caesura/> <rhyme label="a">წყნეთელი</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="11" rhyme="aa">
+               <l n="30" met="44/43">მათი ხმალი<caesura/> ცეცხლს აფრქვევდა,<caesura/> მტერი თრთოდა <caesura/> <rhyme label="a">ვერანი</rhyme>,</l>
+               <l n="31" met="44/43">საქართველოს<caesura/> ცის ფერს ჰგავდა<caesura/> ფერი მათი<caesura/>  <rhyme label="a">მერანის</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="12" rhyme="aa">
+               <l n="32" met="44/43">მამულისთვის<caesura/> დაიღუპნენ <caesura/>ვაჟკაცობის<caesura/>  <rhyme label="a">მსახველნი</rhyme>,</l>
+               <l n="33" met="44/43">საქართველო <caesura/>იყო მათი <caesura/>უწმინდესი <caesura/> <rhyme label="a">სახელი</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

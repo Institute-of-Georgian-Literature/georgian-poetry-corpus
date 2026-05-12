@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> ა.ვ.(ანიკო ვაჩნაძეს)</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="ორტაეპედი" n="1" rhyme="aa">
+               <l n="1" met="5/5">მე ვეტრფი ძლიერ <caesura/>თბილისის <rhyme label="a">ჰავას</rhyme>,</l>
+               <l n="2" met="5/5">ნიკო ფიროსმანს <caesura/>და<rhyme label="a"> საათნავას</rhyme></l>
+            </lg> 
+            
+            <lg type="ორტაეპედი" n="2" rhyme="aa"> 
+               <l n="3" met="5/5">მე იმ ლოთიან <caesura/>მომღერალს<rhyme label="a"> ვგავარ</rhyme>,</l>
+               <l n="4" met="5/5">ქართველი ქალის<caesura/> შნოსა და <rhyme label="a">ჯავარს</rhyme></l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="3" rhyme="aa">
+               <l n="5" met="5/5">და საქართველოს <caesura/>ლურჯი ცის <rhyme label="a">თავანს</rhyme></l>
+               <l n="6" met="5/5">რომ უმღეროდა <caesura/><rhyme label="a">დაუღალავად</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">  
+               <l n="7" met="5/5">მე ვეტრფი ძლიერ<caesura/> თბილისის<rhyme label="a"> ხაბაზს</rhyme>,</l>
+               <l n="8" met="5/5">დილით ადრე რომ<caesura/> ააფრენს <rhyme label="b">ლავაშს</rhyme>,</l>
+               <l n="9" met="5/5">ორბელიანის <caesura/>ძლიერ<rhyme label="a"> მუხამბაზს</rhyme>,</l>
+               <l n="10" met="5/5">ნიკო ფიროსმანს<caesura/> და<rhyme label="b"> საათნავას</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="11" met="5/5">მე ვეტრფი იმ თეთრ<caesura/>ჩოხიან <rhyme label="a">მაყარს</rhyme>,</l>
+               <l n="12" met="5/5">კრიმანჭულის დროს<caesura/> ცას რომ <rhyme label="b">ახედავს</rhyme>,</l>
+               <l n="13" met="5/5">და კახურ ამბოხს,<caesura/> შლეგსა და<rhyme label="a"> მაგარს</rhyme>,</l>
+               <l n="14" met="5/5">შემოდგომაზე <caesura/>ქვევრს რომ <rhyme label="b">გახეთქავს</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="15" met="5/5">მე ვეტრფი მხოლოდ <caesura/>ლამაზის<rhyme label="a"> თვალებს</rhyme>,</l>
+               <l n="16" met="5/5">ლამაზი არის <caesura/>თბილისში <rhyme label="b">ყველა</rhyme></l>
+               <l n="17" met="5/5">და სიყვარულით<caesura/> უგონოდ<rhyme label="a"> მთვრალი</rhyme></l>
+               <l n="18" met="5/5">და შველა უნდა<caesura/> ლამაზებს,<rhyme label="b"> შველა</rhyme>!</l>
+            </lg>  
+            
+            <lg type="ორტაეპედი" n="7" rhyme="aa">
+               <l n="19" met="5/5">მე ვეტრფი მეტად<caesura/> რუსთველის <rhyme label="a">სახელს</rhyme>,</l>
+               <l n="20" met="5/5">ვით საქართველოს<caesura/> სინდისს და <rhyme label="a">ნამუსს</rhyme>,</l>
+            </lg>
+            
+            <lg type="ხუთტაეპედი" n="8" rhyme="ababb">
+               <l n="21" met="5/5">ყველა ღვინის მსმელს<caesura/> და ყველა<rhyme label="a"> კახელს</rhyme>,</l>
+               <l n="22" met="5/5">ამ ჩემ პატარა<caesura/> ძველტაძველ<rhyme label="b"> მამულს</rhyme>,</l>
+               <l n="23" met="5/5">ქართულ ჩონგურს და <caesura/>ქართულ <rhyme label="a">სალამურს</rhyme>,</l>
+               <l n="24" met="5/5">თბილისის ცას და<caesura/> თბილისის<rhyme label="b"> ჰავას</rhyme>,</l>
+               <l n="25" met="5/5">ნიკო ფიროსმანს<caesura/> და <rhyme label="b">საათნავას</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="26" met="5/5">მე დაჭრილი ვარ <caesura/><rhyme label="a">უიარაღოდ</rhyme>,</l>
+               <l n="27" met="5/5">მე შენს სიყვარულს <caesura/><rhyme label="b">გამოვექეცი</rhyme>,</l>
+               <l n="28" met="5/5">ვერ იტყვი, ჩემზე<caesura/> გული <rhyme label="a">არ აქვსო</rhyme>,</l>
+               <l n="29" met="5/5">მე გული მქონდა<caesura/> და შენ<rhyme label="b"> მოგეცი</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="10" rhyme="aa">
+               <l n="30" met="5/5">მე დაჭრილი ვარ <caesura/><rhyme label="a">უიარაღოდ</rhyme>,</l>
+               <l n="31" met="5/5">მე შენს სიყვარულს<caesura/><rhyme label="a"> გამოვექეცი</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="11" rhyme="aa">
+               <l n="32" met="5/5">მე ვეტრფი მხოლოდ <caesura/>შენს ლამაზ <rhyme label="a">თვალებს</rhyme></l>
+               <l n="33" met="5/5">და სურნელებას <caesura/>შენი<rhyme label="a"> ტანისას</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="12" rhyme="aa">
+               <l n="34" met="5/5">გაშლილო მზეო,<caesura/> გავსილო<rhyme label="a"> მთვარევ</rhyme>,</l>
+               <l n="35" met="5/5">ღაჟღაჟა ვარდო <caesura/><rhyme label="a">წინანდალისა</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="13" rhyme="aa">
+               <l n="36" met="5/5">მე ვეტრფი მხოლოდ <caesura/>შენს ლამაზ <rhyme label="a">თვალებს</rhyme></l>
+               <l n="37" met="5/5">და სურნელებას<caesura/> შენი<rhyme label="a"> ტანისას</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="14" rhyme="aa">
+               <l n="38" met="5/5">მე იგი მიყვარს, <caesura/>ვისაც <rhyme label="a">უყვარდა</rhyme></l>
+               <l n="39" met="5/5">თავისი ქვეყნის <caesura/>ხალხი და <rhyme label="a">მიწა</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="15" rhyme="aa">
+               <l n="40" met="5/5">ვისაც სახელი <caesura/>შორს <rhyme label="a">გაუვარდა</rhyme>,</l>
+               <l n="41" met="5/5">ვინც კაცი იყო <caesura/>და ლექსად<rhyme label="a"> იქცა</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="16" rhyme="aa">
+               <l n="42" met="5/5">მე იგი მიყვარს,<caesura/> ვისაც <rhyme label="a">უყვარდა</rhyme></l>
+               <l n="43" met="5/5">თავისი ქვეყნის <caesura/>ხალხი და<rhyme label="a"> მიწა</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="17" rhyme="aa">           
+               <l n="44" met="5/5">მე შენ მიყვარხარ <caesura/>და <rhyme label="a">საქართველო</rhyme>,</l>
+               <l n="45" met="5/5">უთქვენოდ, აბა, <caesura/>რამ<rhyme label="a"> გამახაროს</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="18" rhyme="aa">
+               <l n="46" met="5/5">მიწავ, მტერთაგან <caesura/><rhyme label="a">დაუთრგუნველო</rhyme>,</l>
+               <l n="47" met="5/5">გთხოვ, შენი კალთა<caesura/> <rhyme label="a">გადამაფარო</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="19" rhyme="aa">
+               <l n="48" met="5/5">მე შენ მიყვარხარ <caesura/>და <rhyme label="a">საქართველო</rhyme>,</l>
+               <l n="49" met="5/5">უთქვენოდ, აბა,<caesura/> რამ <rhyme label="a">გამახაროს</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="20" rhyme="abab">
+               <l n="50" met="5/5">მე კარგად ვიცი,<caesura/> ვინა ვარ,<rhyme label="a"> რა ვარ</rhyme>,</l>
+               <l n="51" met="5/5">საიდან მოველ, <caesura/>ან საით<rhyme label="b"> წავალ</rhyme>, –</l>
+               <l n="52" met="5/5">და ვეტრფი ძლიერ<caesura/> თბილისის<rhyme label="a"> ჰავას</rhyme></l>
+               <l n="53" met="5/5">ნიკო ფიროსმანს<caesura/> და<rhyme label="b"> საათნავას</rhyme>!</l>
+            </lg>
+            
+         </lg>        
+      </body>
+   </text>
+</TEI>

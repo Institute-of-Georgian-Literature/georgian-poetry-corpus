@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ქართლის გზაზე </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/53, 53/63">
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="53/63">ჰეი, ძმობილო,<caesura/>შეხედე, <caesura/>რამდენი ყაყაჩო <caesura/><rhyme label="a">გაშლილა</rhyme>,</l>
+               <l n="2" met="53/53">რაც უფლის ციხეს<caesura/> გამოვცდით,<caesura/> უფრო და უფრო<caesura/> <rhyme label="a">გახშირდა</rhyme>;</l>
+            </lg>
+            <lg type="სამტაპედი" n="2" rhyme="aaa">
+               <l n="3" met="53/53">მინდვრებს, გორაკებს,<caesura/> ფერდობებს <caesura/>ეფინება და<caesura/><rhyme label="a"> ედება</rhyme>,</l>
+               <l n="4" met="53/53">გზაში ყაყაჩოს<caesura/> შეხვედრა <caesura/>სიკეთედ <rhyme label="a">დაგვე<caesura/>ბედება</rhyme>:</l>
+               <l n="5" met="53/53">სულ ახალგაზრდა <caesura/>ვიქნებით,<caesura/> გული არ <rhyme label="a">დაგვი<caesura/>ბერდება</rhyme>!</l>
+            </lg>
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="6" met="53/63">ჰეი, ძმობილო, <caesura/>შეხედე,<caesura/> რამდენი ყაყაჩო<caesura/> <rhyme label="a">გაშლილა</rhyme>,</l>
+               <l n="7" met="53/53">რაც უფლისციხეს <caesura/>გამოვცდით, <caesura/>უფრო და უფრო <caesura/><rhyme label="a">გახშირდა</rhyme>;</l>
+            </lg>
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="8" met="53/53">მოდი, ჩვენ ესეც<caesura/> ვიკმაროთ<caesura/> და სხვა დიდება <caesura/><rhyme label="a">არ გვინდა</rhyme>,</l>
+               <l n="9" met="53/53">ყაყაჩომ თუ მოგ<caesura/>ვანათოს <caesura/>ლამაზი ქალის<caesura/> <rhyme label="a">შუქითა</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

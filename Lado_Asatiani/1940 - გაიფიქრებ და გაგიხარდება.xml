@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>გაიფიქრებ და გაგიხარდება</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">გაიფიქრებ და <caesura/>  <rhyme label="a"> გაგიხარდება</rhyme>,</l>
+               <l n="2" met="5/5">რომ მისი ხმალი <caesura/>ახლაც <rhyme label="b">კაშკაშებს</rhyme></l>
+               <l n="3" met="5/5">და საქართველოს <caesura/>მტრების <rhyme label="a">სარბევად</rhyme></l>
+               <l n="4" met="5/5">უხმობს უშიშარ<caesura/> ქართველ <rhyme label="b">ვაჟკაცებს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ქალმა თუ ერთხელ <caesura/>მკლავი<rhyme label="a"> გაშალა</rhyme>,</l>
+               <l n="6" met="5/5">ქალმა თუ მისი <caesura/>არ <rhyme label="b">დაიშალა</rhyme>,</l>
+               <l n="7" met="5/5">ვერ დააკავებს<caesura/> ჯვარი <rhyme label="a">ლაშარის</rhyme></l>
+               <l n="8" met="5/5">ვერც ცხრა უღელი <caesura/>კამეჩის<rhyme label="b"> ძალა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">მას არ ჰქონია <caesura/>ძალა<rhyme label="a"> კამეჩის</rhyme></l>
+               <l n="10" met="5/5">თათრების ურდო<caesura/> მაინც <rhyme label="b">გათელა</rhyme></l>
+               <l n="11" met="5/5">და საქართველოს<caesura/> წყვდიად <rhyme label="a">ღამეში</rhyme></l>
+               <l n="12" met="5/5">გაჰკვესა, როგორც <caesura/><rhyme label="b">ციცინათელამ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">მას უფრო მეტი<caesura/> ჰქონდა <rhyme label="a">სინაზე</rhyme>,</l>
+               <l n="14" met="5/5">უფრო ნაკლები <caesura/>ღონე და <rhyme label="b">ჯანი</rhyme>.</l>
+               <l n="15" met="5/5">მაგრამ მას ჰყავდა <caesura/>მტრების <rhyme label="a">ჯინაზე</rhyme></l>
+               <l n="16" met="5/5">ლეჩაქიანი<caesura/> ქალების<rhyme label="b"> ჯარი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">გაიფიქრებ და<caesura/> <rhyme label="a">გაგიხარდება</rhyme>,</l>
+               <l n="18" met="5/5">რომ ახლაც ელავს <caesura/>მისი<rhyme label="b"> ლეჩაქი</rhyme></l>
+               <l n="19" met="5/5">და საქართველოს <caesura/>მტრების <rhyme label="a">სარბევად</rhyme></l>
+               <l n="20" met="5/5">ყველა გულმართალ<caesura/> პოეტს <rhyme label="b">ეძახის</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">და თუ პოეტის <caesura/>სახელი <rhyme label="a">გქვია</rhyme> –</l>
+               <l n="22" met="5/5">უნდა ემთხვიო <caesura/>სისხლიან <rhyme label="b">ლეჩაქს</rhyme>,</l>
+               <l n="23" met="5/5">უნდა უმღერო <caesura/>მთაწმინდის<rhyme label="a"> ნიავს</rhyme></l>
+               <l n="24" met="5/5">და ვაშლოვანის <caesura/>ვაშლისფერ <rhyme label="b">ზეცას</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">და თუ პოეტის <caesura/>სახელი<rhyme label="a"> გქვია</rhyme></l>
+               <l n="26" met="5/5">დაჯექ, აანთე <caesura/>გული – <rhyme label="b">საკირე</rhyme>,</l>
+               <l n="27" met="5/5">უსმინე ვაშლის<caesura/> ხეების <rhyme label="a">შრიალს</rhyme></l>
+               <l n="28" met="5/5">და საქართველოს <caesura/>მტრები <rhyme label="b">აგინე</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">გაიფიქრებ და<caesura/> <rhyme label="a">გაგიხარდება</rhyme>,</l>
+               <l n="30" met="5/5">რომ მისი ხმალი <caesura/>ახლაც <rhyme label="b">კაშკაშებს</rhyme></l>
+               <l n="31" met="5/5">და საქართველოს<caesura/> მტრების <rhyme label="a">სარბევად</rhyme></l>
+               <l n="32" met="5/5">უხმობს უშიშარ <caesura/>ქართველ <rhyme label="b">ვაჟკაცებს</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

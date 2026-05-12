@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ცაგერის ბაზრობა</title> 
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/4/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/4/5">ყოველი მხრიდან<caesura/> შემოდიან <caesura/>ცაგერში<rhyme label="a"> ამ დღეს</rhyme>!</l>
+               <l n="2" met="5/4/5">ზოგნი ქვეითად,<caesura/> ზოგიერთნი<caesura/> კიდევ <rhyme label="b"> ცხენებით</rhyme>.</l>
+               <l n="3" met="5/4/5">ბაზრის ბოლოდან <caesura/>სახელგანთქმულ<caesura/> მურის <rhyme label="a">ხიდამდე</rhyme></l>
+               <l n="4" met="5/4/5">გამწკრივდებიან<caesura/> სვანები<caesura/> და<rhyme label="b">  ლეჩხუმელები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/4/5">სვანის ასულებს <caesura/>მოუხურავთ <caesura/>წითელი<rhyme label="a"> ფარჩა</rhyme>,</l>
+               <l n="6" met="5/4/5">მათ სხვა ფერებზე<caesura/> უფრო უყვართ<caesura/> ფერი<rhyme label="b">  წითელი</rhyme>,</l>
+               <l n="7" met="5/4/5">– ერთი ხელადა,<caesura/> მარტო ერთი <caesura/>ხელადა<rhyme label="a"> დარჩა</rhyme>,</l>
+               <l n="8" met="5/4/5">ჩქარა იყიდეთ <caesura/>ოჯალეში<caesura/> <rhyme label="b"> შარშანწინდელი</rhyme>, –</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/4/5">გასძახებს ბაზარს<caesura/> ლეჩხუმელი<caesura/> <rhyme label="a">თავგამეტებით</rhyme></l>
+               <l n="10" met="5/4/5">და უცაბედად <caesura/>გაცოცხლდება <caesura/>მთელი<rhyme label="b">  ბაზარი</rhyme>:</l>
+               <l n="11" met="5/4/5">– იქით გაიწი, <caesura/>მუშტარს თვალში <caesura/><rhyme label="a">ნუ ეფეთები</rhyme>!</l>
+               <l n="12" met="5/4/5">აქეთ სულგუნი,<caesura/> აქეთ გოგრა<caesura/> <rhyme label="b"> უზარმაზარი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/4/5">შორით მოსულებს<caesura/> ეშინიათ<caesura/><rhyme label="a"> გაავდარების</rhyme>,</l>
+               <l n="14" met="5/4/5">ჩქარობენ, ოხრად <caesura/>რომ არ დარჩეთ<caesura/> ყველა<rhyme label="b">  შაური</rhyme>,</l>
+               <l n="15" met="5/4/5">ბაზარში დინჯად <caesura/>შემოდიან<caesura/><rhyme label="a"> ჩალვადარები</rhyme></l>
+               <l n="16" met="5/4/5">აბილაურით, <caesura/>ყინულით და<caesura/> <rhyme label="b"> თურაშაულით</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/4/5">– პატარძალმაც კი<caesura/> ვერ მოქსოვოს <caesura/>ასე <rhyme label="a">ლამაზად</rhyme>,</l>
+               <l n="18" met="5/4/5">თავს გეფიცები,<caesura/> ვერ იშოვნი<caesura/> უკეთესს, <rhyme label="b"> შვილო</rhyme>? –</l>
+               <l n="19" met="5/4/5">იფიცებს ერთი <caesura/>და ვარდისფრად <caesura/>ანათებს<rhyme label="a"> ბაზარს</rhyme></l>
+               <l n="20" met="5/4/5">წვრილ-წვრილ ჭიქებში <caesura/>საჭაშნიკოდ<caesura/> ჩასხმული<rhyme label="b">  ღვინო</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/4/5">ოქროსფერ სირმით <caesura/>მოსირმული<caesura/> ნაბდის<rhyme label="a"> ქუდები</rhyme></l>
+               <l n="22" met="5/4/5">თავზე ახურავთ<caesura/> სვანის ქალებს, <caesura/>ვით <rhyme label="b"> სილამაზე</rhyme>,</l>
+               <l n="23" met="5/4/5">ყელგამოჭრილი<caesura/> ტახებივით<caesura/> წვანან<rhyme label="a"> გუდები</rhyme>,</l>
+               <l n="24" met="5/4/5">უქნარობაში <caesura/>აჯავრებენ <caesura/>ბაზრის <rhyme label="b"> ზარმაცებს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/4/5">– ქლიავის ჩირი,<caesura/> ვაშლის ჩირი<caesura/> და ღორის <rhyme label="a">შაშხი</rhyme>!</l>
+               <l n="26" met="5/4/5">– სიმინდიანი,<caesura/> ცერცვიანი,<caesura/> თეთრი<rhyme label="b">  ბურები</rhyme>!</l>
+               <l n="27" met="5/4/5">– იყიდეთ, ხალხო, <caesura/>რას წაიღებთ<caesura/> უკეთესს<rhyme label="a"> სახლში</rhyme>?!</l>
+               <l n="28" met="5/4/5">– აგერ, მწვანილი,<caesura/> აგერ კიტრი<caesura/> <rhyme label="b"> ნამნაპკურები</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/4/5">აგერ, წრე შეკრეს,<caesura/> შეიმართნენ <caesura/>და <rhyme label="a">გაცხარებით</rhyme></l>
+               <l n="30" met="5/4/5">მყიდველს შეებნენ<caesura/> ახოვანი<caesura/> <rhyme label="b"> ნაბდიანები</rhyme>,</l>
+               <l n="31" met="5/4/5">წრის შუაგულში<caesura/> თავდახრილი <caesura/>დგანან <rhyme label="a">ხარები</rhyme></l>
+               <l n="32" met="5/4/5">და საცრისხელა <caesura/>წითელ თვალებს<caesura/><rhyme label="b">  აბრიალებენ</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">
+               <l n="33" met="5/4/5">აგერ, დედაკაცს <caesura/>აუვსია<caesura/> წიფხა<rhyme label="a"> ხორბალით</rhyme></l>
+               <l n="34" met="5/4/5">და ათზე ნაკლებ<caesura/> გასაყიდად<caesura/> <rhyme label="b"> არ ემეტება</rhyme>,</l>
+               <l n="35" met="5/4/5">აგერ ვიღაცამ<caesura/>გამოაძრო <caesura/>ურემს<rhyme label="a"> ხორბალი</rhyme></l>
+               <l n="36" met="5/4/5">და სამჭედლოში <caesura/>შეიტანა<caesura/> <rhyme label="b"> შესაკეთებლად</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="10" rhyme="abab">
+               <l n="37" met="5/4/5">აგერ, სწონიან <caesura/>ხელმეორედ<caesura/> <rhyme label="a">ერთხელ აწონილს</rhyme></l>
+               <l n="38" met="5/4/5">ყვითელ ხალთებით <caesura/>ორ ბანაკად <caesura/><rhyme label="b"> გაყოფილები</rhyme>,</l>
+               <l n="39" met="5/4/5">კოლმეურნენი – <caesura/>ახალ ბაზრის <caesura/><rhyme label="a">ბატონ-პატრონნი</rhyme> –</l>
+               <l n="40" met="5/4/5">იღიმებიან <caesura/>ულვაშებში <caesura/><rhyme label="b"> კმაყოფილებით</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="abab">
+               <l n="41" met="5/4/5">– ერთი ხელადა,<caesura/> მარტო ერთი<caesura/> ხელადა <rhyme label="a">დარჩა</rhyme>! –</l>
+               <l n="42" met="5/4/5">კვლავ გაიძახის<caesura/> ლეჩხუმელი<caesura/> <rhyme label="b"> თავდავიწყებით</rhyme>,</l>
+               <l n="43" met="5/4/5">სვანის ასულებს <caesura/>მოუხურავთ <caesura/>წითელი<rhyme label="a"> ფარჩა</rhyme></l>
+               <l n="44" met="5/4/5">და სვანურ ბგერებს<caesura/> ღუღუნებენ <caesura/>როგორც<rhyme label="b">  გვრიტები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="12" rhyme="abab">
+               <l n="45" met="5/4/5">ასე ყაყანებს, <caesura/>ასე ბორგავს<caesura/> მთელი<rhyme label="a"> ბაზარი</rhyme>,</l>
+               <l n="46" met="5/4/5">თითქოს სიძვირეს <caesura/>ემუქრება <caesura/>შფოთის <rhyme label="b"> აწევით</rhyme>,</l>
+               <l n="47" met="5/4/5">და მურის ციხე <caesura/>გადმოსცქერის<caesura/> ვით<rhyme label="a"> ზარბაზანი</rhyme>, –</l>
+               <l n="48" met="5/4/5">როგორ დადიან <caesura/>მოედანზე<caesura/> ქონდრის<rhyme label="b">  კაცები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="13" rhyme="abab">
+               <l n="49" met="5/4/5">დაბინდებამდე <caesura/>თავს ადგია<caesura/> გრძელი<rhyme label="a"> ფარდული</rhyme></l>
+               <l n="50" met="5/4/5">ამდენ მოსავალს,<caesura/> ამდენ ქაქანს,<caesura/> <rhyme label="b"> ამდენ გასავალს</rhyme>,</l>
+               <l n="51" met="5/4/5">დაღამდება და<caesura/> ცხენისწყალი,<caesura/> როგორც <rhyme label="a">ფანდური</rhyme>,</l>
+               <l n="52" met="5/4/5">ჩაიღიღინებს<caesura/> ამ ბაზრობის <caesura/><rhyme label="b"> თავგადასავალს</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

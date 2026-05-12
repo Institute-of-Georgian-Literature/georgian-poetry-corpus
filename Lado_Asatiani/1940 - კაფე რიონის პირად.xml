@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>კაფე რიონის პირად</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">იმ ცისფერ კაფეს <caesura/>ვიგონებ <rhyme label="a"> ახლაც</rhyme>,</l>
+               <l n="2" met="5/5">დღემდე იმგვარად <caesura/>დარჩა ის,<rhyme label="b"> მგონი</rhyme>;</l>
+               <l n="3" met="5/5">დღემდე მეც ძვირფას <caesura/>ოცნებად <rhyme label="a"> მახლავს</rhyme></l>
+               <l n="4" met="5/5">ჩაის ვარდები <caesura/>და ჩაის<rhyme label="b"> ბოლი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ისმის რიონის<caesura/> შრიალი <rhyme label="a"> შორი</rhyme>,</l>
+               <l n="6" met="5/5">ჩვენს ლურჯ თვალებში<caesura/> <rhyme label="b">შემოუსვლელი</rhyme>,</l>
+               <l n="7" met="5/5">ცისფერ კაფეში <caesura/>შევდივართ <rhyme label="a"> ორნი</rhyme>,</l>
+               <l n="8" met="5/5">ცისფერ მაგიდას <caesura/><rhyme label="b">შემოვუსხედით</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">იფეთქებს ფიქრი,<caesura/> ვით ჩაის  <rhyme label="a">ბოლი</rhyme>,</l>
+               <l n="10" met="5/5">დაეძებს ლანდებს<caesura/> და <rhyme label="b">ია-ვარდებს</rhyme>,</l>
+               <l n="11" met="5/5">შეუერთდება <caesura/>რიონის  <rhyme label="a">რონინს</rhyme></l>
+               <l n="12" met="5/5">და ლაჟვარდებში <caesura/><rhyme label="b">გაინავარდებს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ცისფერ კაფეში<caesura/> ვოცნებობთ  <rhyme label="a">ორნი</rhyme>.</l>
+               <l n="14" met="5/5">ჩაის ვარდებიდ<caesura/> ჩანს <rhyme label="b">აკვარელი</rhyme>,</l>
+               <l n="15" met="5/5">– სად არის შენი<caesura/> ნანატრი <rhyme label="a"> ტოლი</rhyme>?</l>
+               <l n="16" met="5/5">– სადა გყავს დედა,<caesura/> ან <rhyme label="b">საყვარელი</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">– რა იქნა დიდი <caesura/>მომავლის <rhyme label="a"> ბავშვი</rhyme>,</l>
+               <l n="18" met="5/5">ხედავ, ბერდები <caesura/>და თან <rhyme label="b">ყვითლდები</rhyme>!</l>
+               <l n="19" met="5/5">ცისფერ კაფეში <caesura/>და ცისფერ <rhyme label="a"> კვამლში</rhyme></l>
+               <l n="20" met="5/5">ჩვენ ჩვენს ბედ-იღბალს <caesura/><rhyme label="b">დავაკვირდებით</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="6" rhyme="abab">
+               <l n="21" met="5/5">და იმ წუთამდის,<caesura/> ვიდრე  <rhyme label="a">ზარების</rhyme></l>
+               <l n="22" met="5/5">გაგვაღვიძებდეს <caesura/>ხმა <rhyme label="b">საოცარი</rhyme>,</l>
+               <l n="23" met="5/5">ვრულავთ ბინდ-ბუნდში,<caesura/> როგორც  <rhyme label="a">მგზავრები</rhyme></l>
+               <l n="24" met="5/5">შავით მოსილნი <caesura/>და <rhyme label="b">შაოსანნი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="25" met="5/5">ცისფერ კაფეში… <caesura/>ეს იყო  <rhyme label="a">ძველად</rhyme>…</l>
+               <l n="26" met="5/5">დღემდე იმგვარად <caesura/>დარჩა ის,<rhyme label="b"> მგონი</rhyme>,</l>
+               <l n="27" met="5/5">დღემდე მეც მახსოვს <caesura/>გულის <rhyme label="a"> დამწველად</rhyme></l>
+               <l n="28" met="5/5">ჩაის ვარდები <caesura/>და ჩაის<rhyme label="b"> ბოლი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="8" rhyme="abab">
+               <l n="29" met="5/5">დღემდე მიტაცებს<caesura/> შრიალი <rhyme label="a"> შორი</rhyme>,</l>
+               <l n="30" met="5/5">ჩვენს ლურჯ თვალებში <caesura/><rhyme label="b">შემოუსვლელი</rhyme>,</l>
+               <l n="31" met="5/5">ცისფერ კაფეში<caesura/> შევდივართ  <rhyme label="a">ორნი</rhyme>,</l>
+               <l n="32" met="5/5">ცისფერ მაგიდას<caesura/> <rhyme label="b">შემოვუსხედებით</rhyme>…</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

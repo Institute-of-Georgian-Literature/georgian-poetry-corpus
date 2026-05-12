@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>წარწერა ერთი სამარის ქვისა</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ჰეი, შენ, დიდო <caesura/> მომავლის<rhyme label="a"> ლანდო</rhyme>,</l>
+               <l n="2" met="5/5">ლაჟვარდებიდან<caesura/>  რომ <rhyme label="b">იყურები</rhyme>,</l>
+               <l n="3" met="5/5">ეს ჩემი სენი<caesura/>  თუ <rhyme label="a">დაგემართოს</rhyme>,</l>
+               <l n="4" met="5/5">ამაზრზენი და <caesura/> <rhyme label="b">განუკურნელი</rhyme>, –</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ეს ჩემი სენი <caesura/> თუ <rhyme label="a">დაგემართოს</rhyme></l>
+               <l n="6" met="5/5">და მოიხადო,<caesura/>  როგორც<rhyme label="b"> სახადი</rhyme>,</l>
+               <l n="7" met="5/5">ჰეი, შენ, დიდო<caesura/>  მომავლის <rhyme label="a">ლანდო</rhyme>,</l>
+               <l n="8" met="5/5">ერთი თხოვნისთვის <caesura/> ნუ<rhyme label="b"> დამძრახავდი</rhyme>:</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">თუ მეცნიერის <caesura/> გონების<rhyme label="a"> ღონემ</rhyme></l>
+               <l n="10" met="5/5">უმალ განკურნოს<caesura/>  ჭლექით<rhyme label="b"> სნეული</rhyme>, –</l>
+               <l n="11" met="5/5">მაშინ მომნახე <caesura/> და <rhyme label="a">მომიგონე</rhyme></l>
+               <l n="12" met="5/5">სამარადისოდ <caesura/> <rhyme label="b">მიწადქცეული</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

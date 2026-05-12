@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>მანანა ორბელიანის სურათზე</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="53/52">
+            
+            <lg type="ორტაეპედი" n="1" rhyme="aa">
+               <l n="1" met="53/52">შენ, შაოსანო, <caesura/> შავთვალავ, <caesura/> შავ სამარეში <caesura/> <rhyme label="a">გძინავს</rhyme>,</l>
+               <l n="2" met="53/52">ჯერ კარგად არც კი  <caesura/>გამთბარა  <caesura/>ჩემო პატარა  <caesura/><rhyme label="a">ცირა</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="2" rhyme="aa">
+               <l n="3" met="53/52">შენი სახელი  <caesura/>დავარქვი, <caesura/> მინდა შენ გგავდეს  <caesura/><rhyme label="a">მარტო</rhyme>,</l>
+               <l n="4" met="53/52">ერისთვის ქალო,  <caesura/>ფიქალო, <caesura/> ადრე დამჭკნარო <caesura/> <rhyme label="a">ვარდო</rhyme>!</l>
+            </lg>
+            
+            <lg type="სამტაეპედი" n="3" rhyme="aaa">
+               <l n="5" met="53/52">მინდა რომ შენებრ <caesura/> ელავდეს <caesura/> და იყოს <rhyme label="a">შენის <caesura/>თანა</rhyme>,</l>
+               <l n="6" met="53/52">სამშობლოსათვის  <caesura/>ღელავდეს <caesura/> სანამ ხედავდეს –  <caesura/><rhyme label="a">მანამ</rhyme>,</l>
+               <l n="7" met="53/52">მინდა, რომ შენებრ <caesura/> კერავდეს  <caesura/>ის საქართველოს  <caesura/><rhyme label="a">ალამს</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="4" rhyme="aa">       
+               <l n="8" met="53/52">პირმოქარგულო  <caesura/>ბალიშით, <caesura/> ძვლის ყაისნაღით  <caesura/><rhyme label="a">ხელში</rhyme>…</l> 
+               <l n="9" met="53/52">შენი მარილი <caesura/> გამოჰყვეს, <caesura/> შენი წარბების  <caesura/><rhyme label="a">ეშხი</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="5" rhyme="aa">
+               <l n="10" met="53/52">შენსავით გაი <caesura/>შრიალოს,  <caesura/>ხმელეთი <rhyme label="a">გადა <caesura/>ლახოს</rhyme>,</l>
+               <l n="11" met="53/52">ქალობა დაიმ <caesura/>კვეხაროს,  <caesura/>ცა და ქვეყანამ <caesura/> <rhyme label="a">ნახოს</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="6" rhyme="aa">
+               <l n="12" met="53/52">მე კი თუნდ მიწა <caesura/> მეყაროს <caesura/> სადმე, თბილისის  <caesura/><rhyme label="a">ახლოს</rhyme>…</l>
+               <l n="13" met="53/52">შენ, შაოსანო, <caesura/> შავთვალავ, <caesura/> შავი სამარე <caesura/> <rhyme label="a">გფარავს</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="7" rhyme="aa">     
+               <l n="14" met="53/52">ჩემი მანანა <caesura/> აკვანში <caesura/> ხან გაიცინებს,  <caesura/><rhyme label="a">ხან არ</rhyme>,</l>
+               <l n="15" met="53/52">ია და ვარდი  <caesura/>ეტრფიან <caesura/> ეტყვიან იავ <caesura/><rhyme label="a">ნანას</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>რუსთველის სამარე</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/8-lado-asatiani-rutvelis-samare-leqsi</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" subtype="ტრიოლეტი" met="5/4/5">
+            <lg type="რვატაეპედი" n="1" rhyme="abaaabab" >
+               <l n="1" met="5/4/5">მე ბედაურით <caesura/> ჩავუქროლე  <caesura/> მგოსნის <rhyme label="a"> სამარეს</rhyme>,</l>
+               <l n="2" met="5/4/5">ვიმხიარულე, <caesura/> ვიგალობე  <caesura/> ძმობის <rhyme label="b"> შაირი</rhyme>,</l>
+               <l n="3" met="5/4/5">ვრცელ ტრამალებზე <caesura/> გავირბინე  <caesura/> ფიქრით <rhyme label="a"> ფრთამალით</rhyme>,</l>
+               <l n="4" met="5/4/5">მე ბედაურით <caesura/> ჩავუქროლე  <caesura/> მგოსნის <rhyme label="a"> სამარეს</rhyme>.</l>
+               <l n="5" met="5/4/5">ვნახე მნათობი, <caesura/> გაბადრული <caesura/>  სახე <rhyme label="a"> თამარის</rhyme>,</l>
+               <l n="6" met="5/4/5">და გაზაფხულის  <caesura/> ყვავილები <caesura/> <rhyme label="b"> ნაირნაირი</rhyme>,</l>
+               <l n="7" met="5/4/5">მე ბედაურით <caesura/> ჩავუქროლე <caesura/>  მგოსნის <rhyme label="a"> სამარეს</rhyme>,</l>
+               <l n="8" met="5/4/5">ვიმხიარულე,  <caesura/> ვიგალობე <caesura/> ძმობის<rhyme label="b">  შაირი</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

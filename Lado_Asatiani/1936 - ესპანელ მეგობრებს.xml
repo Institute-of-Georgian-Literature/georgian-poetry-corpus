@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ესპანელ მეგობრებს</title>
+            
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ლადო ასათიანი, "ერთტომეული", გამომცემლობა "საბჭოთა საქართველო", თბ. 1979</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            <lg> 
+               <lg type="კატრენი" n="1" rhyme="abab">
+                  <l n="1" met="5/5">ბილბაოს თავზე<caesura/>  გაზის<rhyme label="a"> ნისლია</rhyme>,</l>
+                  <l n="2" met="5/5">ველებზე დაჰქრის<caesura/> შრაპნელის <rhyme label="b">რისხვა</rhyme>,</l>
+                  <l n="3" met="5/5">სისხლისმსმელები <caesura/>ისევ <rhyme label="a">ისვრიან</rhyme>,</l>
+                  <l n="4" met="5/5">— ჩვენ ვერ შეგვაკრთობს<caesura/> ვერაგი<rhyme label="b"> მტრის ხმა</rhyme>!</l>
+               </lg>
+               
+               <lg type="კატრენი" n="2" rhyme="abab">
+                  <l n="5" met="5/5">ამალია და<caesura/> ძვირფასო<rhyme label="a"> რუბენ</rhyme>,</l>
+                  <l n="6" met="5/5">ფრონტზეა თქვენთვის <caesura/>ნეტარი <rhyme label="b">დედაც</rhyme>.</l>
+                  <l n="7" met="5/5">ო, არ იდარდოთ,<caesura/> თუ <rhyme label="a">დავიღუპეთ</rhyme>,</l>
+                  <l n="8" met="5/5">რადგან ბედნიერ <caesura/>მომავალს<rhyme label="b"> ვჭედავთ</rhyme>!</l>
+               </lg>
+               
+               <lg type="კატრენი" n="3" rhyme="abab">
+                  <l n="9" met="5/5">შენ, ჩემო შვილო,<caesura/> იყავ <rhyme label="a">ძლიერი</rhyme>,</l>
+                  <l n="10" met="5/5">მტერს სისხლის ღვარით<caesura/> აუვსე <rhyme label="b">უბე</rhyme>,</l>
+                  <l n="11" met="5/5">შეგრჩეთ მებრძოლის<caesura/> <rhyme label="a">ნება-იერი</rhyme>,</l>
+                  <l n="12" met="5/5">ამალია და <caesura/>ძვირფასო <rhyme label="b">რუბენ</rhyme>!</l>
+               </lg>
+               
+               <lg type="კატრენი" n="4" rhyme="abab">
+                  <l n="13" met="5/5">იმედითაა <caesura/>გული<rhyme label="a"> ავსილი</rhyme>,</l>
+                  <l n="14" met="5/5">მზე გაანათებს <caesura/>მალე <rhyme label="b">ესპანეთს</rhyme></l>
+                  <l n="15" met="5/5">და ბედნიერი <caesura/>დედა და<rhyme label="a"> შვილი</rhyme></l>
+                  <l n="16" met="5/5">მზის ქვეყანაში <caesura/>ვნახავთ <rhyme label="b">ერთმანეთს</rhyme>.</l>
+               </lg>
+               
+               <lg type="კატრენი" n="5" rhyme="abab">
+                  <l n="17" met="5/5">და თქვენც, შვილებო,<caesura/> იყავით<rhyme label="a"> მხნედა</rhyme>,</l>
+                  <l n="18" met="5/5">იყავით მტკიცედ, <caesura/>გთხოვთ მხოლოდ<rhyme label="b"> ამას</rhyme>:</l>
+                  <l n="19" met="5/5">ბარიკადებზე<caesura/> მებრძოლი <rhyme label="a">დედა</rhyme>,</l>
+                  <l n="20" met="5/5">ბარიკადებზე<caesura/> მებრძოლი<rhyme label="b"> მამა</rhyme>.</l>
+               </lg>
+               
+               <lg type="კატრენი" n="6" rhyme="abab">
+                  <l n="21" met="5/5">გარშემო ისევ <caesura/>გაზის<rhyme label="a"> ნისლია</rhyme>,</l>
+                  <l n="22" met="5/5">ის უერთდება <caesura/>ზეცაში<rhyme label="b"> ღრუბელს</rhyme>.</l>
+                  <l n="23" met="5/5">გახსოვდეს, შენსკენ <caesura/>როცა <rhyme label="a">ისვრიან</rhyme>,</l>
+                  <l n="24" met="5/5">შენც მარჯვედ უნდა<caesura/> ესროლო,<rhyme label="b"> რუბენ</rhyme>!</l>
+               </lg>
+            </lg>
+            
+            <lg>
+               
+               <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+                  
+                  <lg type="კატრენი" n="1" rhyme="abab">
+                     <l n="1" met="5/5">შენ მგოსნის ცეცხლი <caesura/>გაწვალებს,<rhyme label="a"> როცა</rhyme></l>
+                     <l n="2" met="5/5">უმღერ ესპანელ<caesura/> ვაჟკაცის <rhyme label="b">მხარ-ბეჭს</rhyme>.</l>
+                     <l n="3" met="5/5">ასწიე ბრძოლის <caesura/>მგზნებარე <rhyme label="a">დროშა</rhyme>,</l>
+                     <l n="4" met="5/5">ძვირფასო ძმაო,<caesura/> რაფაელ <rhyme label="b">ალბერტ</rhyme>!</l>
+                  </lg>
+                  
+                  <lg type="კატრენი" n="2" rhyme="abab">
+                     <l n="5" met="5/5">დე, გაიფანტოს<caesura/> რაზმიდან — <rhyme label="a">რაზმად</rhyme></l>
+                     <l n="6" met="5/5">შენი სიმღერა, <caesura/>მოედოს<rhyme label="b"> სანგრებს</rhyme>,</l>
+                     <l n="7" met="5/5">გავარდეს იგი <caesura/>ისე, ვით <rhyme label="a">ვაზნა</rhyme>,</l>
+                     <l n="8" met="5/5">სისხლისმსმელების <caesura/>ზღუდეს რომ <rhyme label="b">ანგრევს</rhyme>,</l>
+                  </lg>
+                  
+                  <lg type="კატრენი" n="3" rhyme="abab">
+                     <l n="9" met="5/5">გაგრკინებია <caesura/>გულის <rhyme label="a">კარები</rhyme></l>
+                     <l n="10" met="5/5">და ლაჩარს გმირის<caesura/> შეძლებით<rhyme label="b"> ჰმოსავ</rhyme>,</l>
+                     <l n="11" met="5/5">მინდა ამ ლექსის <caesura/>წმინდა <rhyme label="a">პწკარებით</rhyme></l>
+                     <l n="12" met="5/5">გადაგეხვიო<caesura/> მგოსანი — <rhyme label="b">მგოსანს</rhyme>.</l>
+                  </lg>
+                  
+                  <lg type="კატრენი" n="4" rhyme="abab">
+                     <l n="13" met="5/5">დე, გაიფანტოს <caesura/>სიმღერა<rhyme label="a"> წმინდა</rhyme> —</l>
+                     <l n="14" met="5/5">ესპანელ ხალხის <caesura/>დუშმანთ რომ <rhyme label="b">არბევს</rhyme>.</l>
+                     <l n="15" met="5/5">მეც შენი ყელით <caesura/>ვიმღერო<rhyme label="a"> მინდა</rhyme>,</l>
+                     <l n="16" met="5/5">ძვირფასო ძმაო, <caesura/>რაფაელ <rhyme label="b">ალბერტ</rhyme>!</l>
+                  </lg>
+                  
+                  <lg type="კატრენი" n="5" rhyme="abab">
+                     <l n="17" met="5/5">რაფაელ ალბერტ, <caesura/>ჩემი <rhyme label="a">სხეული</rhyme></l>
+                     <l n="18" met="5/5">გახმეს, უგულო <caesura/>ხესავით<rhyme label="b"> გახმეს</rhyme>,</l>
+                     <l n="19" met="5/5">თუ მტრისკენ მნახო<caesura/><rhyme label="a"> გადარხეული</rhyme>,</l>
+                     <l n="20" met="5/5">ვეზიზღებოდე <caesura/>მეგობრებს,<rhyme label="b"> მნახველს</rhyme>.</l>
+                  </lg>
+                  
+                  <lg type="კატრენი" n="6" rhyme="aabb">
+                     <l n="21" met="5/5">რაფაელ ალბერტ, <caesura/>ჩემი <rhyme label="a">სხეული</rhyme></l>
+                     <l n="22" met="5/5">გახმეს, უგულო <caesura/>ხესავით<rhyme label="a"> გახმეს</rhyme>,</l>
+                     <l n="23" met="5/5">საკუთარ საქმედ <caesura/>თუ არ<rhyme label="b"> მიმაჩნდეს</rhyme></l>
+                     <l n="24" met="5/5">მე ესპანელი <caesura/>მშრომელის <rhyme label="b">საქმე</rhyme>!</l>
+                  </lg>
+                  
+               </lg>
+            </lg> 
+         </lg>
+         
+      </body>
+   </text>
+   
+</TEI>

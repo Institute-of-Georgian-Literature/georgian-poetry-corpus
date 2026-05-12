@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>გალაკტიონს</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/zoeus-galaktions</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">საქართველოში <caesura/>შენს გარდა<rhyme label="a"> მგოსანს</rhyme></l>
+               <l n="2" met="5/5">დღეს ქების შაირს <caesura/> არ ვეტყვი,<rhyme label="b">  არა</rhyme>,</l>
+               <l n="3" met="5/5">შენა ხარ ლექსის <caesura/> მეორედ <rhyme label="a">მოსვლა</rhyme>,</l>
+               <l n="4" met="5/5">და, რომ არ გითხრა, <caesura/> ივარგებს<rhyme label="b">  განა</rhyme>?!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ხან ამაყი ხარ, <caesura/><rhyme label="a"> გულანათრთოლი</rhyme>,</l>
+               <l n="6" met="5/5">ხან კი ბავშვივით <caesura/>ხარ <rhyme label="b"> დარცხვენილი</rhyme>,</l>
+               <l n="7" met="5/5">ხან მოცახცახე<caesura/> <rhyme label="a">ვერხვის ფოთოლი</rhyme>, –</l>
+               <l n="8" met="5/5">შემოდგომისას <caesura/> ძირს <rhyme label="b"> დაცვენილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">რით გაგაკვირვო? <caesura/> რით გაქო? <rhyme label="a">ბოლოს</rhyme>,</l>
+               <l n="10" met="5/5">ერთს გეტყვი მარტო <caesura/> შეგირდი <rhyme label="b"> შენი</rhyme>:</l>
+               <l n="11" met="5/5">ჩვენში მგოსანი <caesura/>შენა ხარ <rhyme label="a">მხოლოდ</rhyme>,</l>
+               <l n="12" met="5/5">რომ სიცოცხლე და<caesura/> ლექსები <rhyme label="b"> გშვენის</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>შევჩენკოს სამშობლოში</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/4/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abba">
+               <l n="1" met="5/4/5">როცა ველებზე <caesura/>დაბრძანდება <caesura/>წითლად <rhyme label="a">დაისი</rhyme>,</l>
+               <l n="2" met="5/4/5">მიდის ქალწული<caesura/> მის საფლავთან<caesura/> ნატვრის <rhyme label="b">თვალებით</rhyme>,</l>
+               <l n="3" met="5/4/5">მღერის ნარნარად <caesura/>სიმღერების<caesura/> <rhyme label="b">გაბრწყინვალების</rhyme>…</l>
+               <l n="4" met="5/4/5">ირგვლივ ფერადი<caesura/> ყვავილებით<caesura/> ცეკვავს<rhyme label="a"> მაისი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abba">
+               <l n="5" met="5/4/5">ულამაზესი, <caesura/>უნაზესი<caesura/> ხმები<rhyme label="a"> გაისმის</rhyme>,</l>
+               <l n="6" met="5/4/5">დიდი პოეტის<caesura/> უკვდავებას<caesura/> უმღერს<rhyme label="b"> ყოველი</rhyme>,</l>
+               <l n="7" met="5/4/5">დუდუნებს დნეპრი –<caesura/> ბობოქარი,<caesura/><rhyme label="b"> დაუდგრომელი</rhyme>,</l>
+               <l n="8" met="5/4/5">იმედიანი <caesura/>და ცოცხალი, <caesura/>როგორც<rhyme label="a"> გაისი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abba">
+               <l n="9" met="5/4/5">ამოდის მთვარე <caesura/>პატარძალის <caesura/>ტურფა<rhyme label="a"> მშვენების</rhyme>,</l>
+               <l n="10" met="5/4/5">მღერის ქალწული,<caesura/> განაბული,<caesura/> <rhyme label="b">ხმაგარინდებით</rhyme>,</l>
+               <l n="11" met="5/4/5">და სცვივა ციდან<caesura/> ვარსკვლავების<caesura/><rhyme label="b"> მარგალიტები</rhyme>.</l>
+               <l n="12" met="5/4/5">ქალწულთან ერთად<caesura/> იმღერიან <caesura/>ვრცელი<rhyme label="a"> ველები</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="13" met="5/4/5">რომ მარადია<caesura/> დიდებული <caesura/>მგოსნის<rhyme label="a"> სახელი</rhyme> –</l>
+               <l n="14" met="5/4/5">მშვენიერების<caesura/> უკვდავების<caesura/><rhyme label="a"> გამომსახველი</rhyme>.</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

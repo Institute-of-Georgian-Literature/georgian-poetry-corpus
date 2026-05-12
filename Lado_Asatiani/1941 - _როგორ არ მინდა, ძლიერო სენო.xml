@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>როგორ არ მინდა, ძლიერო სენო</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="ორტაეპედი" n="1" rhyme="aa">
+               <l n="1" met="5/5">როგორ არ მინდა, <caesura/> ძლიერო <rhyme label="a">სენო</rhyme>,</l>
+               <l n="2" met="5/5">ლექსში ქართულად  <caesura/>რომ<rhyme label="a"> მოგიხსენო</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="2" rhyme="aa">
+               <l n="3" met="5/5">როგორ არ მინდა, <caesura/> ჩემს <rhyme label="a">სიჭაბუკეს</rhyme></l>
+               <l n="4" met="5/5">დააჩნდეს შენი  <caesura/>შავი <rhyme label="a">ჩრდილები</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="3" rhyme="aa">
+               <l n="5" met="5/5">ეს რა უშრეტი  <caesura/>ცეცხლით<rhyme label="a"> დამბუგე</rhyme>,</l>
+               <l n="6" met="5/5">პირს მარიდებენ  <caesura/><rhyme label="a">ქალიშვილები</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="4" rhyme="aa">
+               <l n="7" met="5/5">შენ შეგრჩა ვაჟას  <caesura/>ფილტვების <rhyme label="a">დაღრღნა</rhyme>,</l>
+               <l n="8" met="5/5">ჩემს წინააღმდეგ  <caesura/>აღდექი<rhyme label="a"> ახლა</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="5" rhyme="aa">
+               <l n="9" met="5/5">შენ ბოროტების  <caesura/>გარეშე<rhyme label="a"> ვერ ძლებ</rhyme>,</l>
+               <l n="10" met="5/5">შენ შეერკინე <caesura/> ანტიურ <rhyme label="a">ბერძნებს</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="6" rhyme="aa">
+               <l n="11" met="5/5">შენ ჰიპოკრატემ <caesura/> ჭლექი <rhyme label="a">გიწოდა</rhyme></l>
+               <l n="12" met="5/5">და მხოლოდ მაშინ  <caesura/>შეშინდი <rhyme label="a">ცოტა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="13" met="5/5">შენ გადუქროლე <caesura/> რომის<rhyme label="a"> ქარვასლებს</rhyme></l>
+               <l n="14" met="5/5">და შეაშფოთე  <caesura/><rhyme label="b">რომაელები</rhyme>,</l>
+               <l n="15" met="5/5">მაგრამ ახალი  <caesura/>დროის <rhyme label="a">ქალ-ვაჟებს</rhyme></l>
+               <l n="16" met="5/5">ამაოდ ცდილობ, <caesura/>  <rhyme label="b">რომ მოერევი</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="8" rhyme="aa">
+               <l n="17" met="5/5">შენ შეგრჩეს ვაჟას <caesura/> ფილტვების <rhyme label="a">დაღრღნა</rhyme></l>
+               <l n="18" met="5/5">და ჩემს დაცემას  <caesura/>ნუ ლამობ <rhyme label="a">ახლა</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="9" rhyme="aa">
+               <l n="19" met="5/5">ო, განვედ ჩემგან, <caesura/> ძლიერო <rhyme label="a">სენო</rhyme>,</l>
+               <l n="20" met="5/5">ჩემს შემდეგ, ნურვინ <caesura/> ნუ <rhyme label="a">მოგიხსენოს</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

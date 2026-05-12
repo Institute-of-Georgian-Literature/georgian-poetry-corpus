@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>გზაში</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/165.gzashi.htm</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="4/4/3">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="4/4/3">სიხარულს გთხოვ, — <caesura/> მწუხარებას<caesura/>  <rhyme label="a">მთავაზობ</rhyme>.</l>
+               <l n="2" met="4/4/3">ნუთუ ასე <caesura/> დაგატყვევეს <caesura/> <rhyme label="b">ფიქრებმა</rhyme>?</l>
+               <l n="3" met="4/4/3">ცოტა კიდევ <caesura/> მოითმინე, <caesura/> <rhyme label="a">ლამაზო</rhyme>,</l>
+               <l n="4" met="4/4/3">და ნანატრი<caesura/>  მთა-გორებიც <caesura/> <rhyme label="b">იქნება</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="4/4/3">ცოტა კიდევ, <caesura/> სალოცავო<caesura/>  <rhyme label="a">ხატებავ</rhyme>,</l>
+               <l n="6" met="4/4/3">და ლაშქარი<caesura/>  სვავების  და<caesura/> <rhyme label="b">ყორნების</rhyme>,</l>
+               <l n="7" met="4/4/3">ვით ღრუბელი, <caesura/> ისე <rhyme label="a">გაი<caesura/> ფანტება</rhyme></l>
+               <l n="8" met="4/4/3">და თბილისის <caesura/> მიწას  <rhyme label="b">ვეა<caesura/> მბორებით</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="4/4/3">ხომ უყურებ, <caesura/> როგორც ხვადი <caesura/><rhyme label="a"> ავაზა</rhyme>,</l>
+               <l n="10" met="4/4/3">ორთქლმავალი <caesura/> ისე  უტევს <caesura/> <rhyme label="b">უკუნეთს</rhyme>,</l>
+               <l n="11" met="4/4/3">ცოტა კიდევ<caesura/>  მოითმინე, <caesura/> <rhyme label="a">ლამაზო</rhyme>.</l>
+               <l n="12" met="4/4/3">და ვიხილავთ<caesura/>  ირმებსა და<caesura/> <rhyme label="b"> ბულბულებს</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="4/4/3">ცოტა კიდევ — <caesura/> და იელვებს <caesura/> <rhyme label="a">კრწანისი</rhyme></l>
+               <l n="14" met="4/4/3">და მეტეხის <caesura/> ეკლესიის <caesura/> <rhyme label="b">თავანი</rhyme>,</l>
+               <l n="15" met="4/4/3">სადაც წმინდა<caesura/>  მაცხოვარის<caesura/> <rhyme label="a"> ხატის წინ</rhyme></l>
+               <l n="16" met="4/4/3">ფეხშიშველა<caesura/>  ლოცულობდა <caesura/><rhyme label="b"> თამარი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="4/4/3">სიხარულს გთხოვ, — <caesura/> მწუხარებას <caesura/><rhyme label="a"> მთავაზობ</rhyme>.</l>
+               <l n="18" met="4/4/3">ნუთუ ასე <caesura/> დაგატყვევეს<caesura/><rhyme label="b">  ფიქრებმა</rhyme>?</l>
+               <l n="19" met="4/4/3">ცოტა კიდევ <caesura/> მოითმინე, <caesura/> <rhyme label="a">ლამაზო</rhyme>,</l>
+               <l n="20" met="4/4/3">და ნანატრი<caesura/>  მთა-გორებიც <caesura/><rhyme label="b"> იქნება</rhyme>!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

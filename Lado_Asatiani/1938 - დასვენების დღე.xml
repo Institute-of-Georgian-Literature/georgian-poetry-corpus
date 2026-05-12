@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>დასვენების დღე </title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ვდგავარ და ვხედავ <caesura/>  როგორ <rhyme label="a">თენდება</rhyme></l>
+               <l n="2" met="5/5">ეს დღე – მთისა და <caesura/>ბარის<rhyme label="b"> ზეიმით</rhyme>…</l>
+               <l n="3" met="5/5">ყოველთვის ტკბილად <caesura/><rhyme label="a">გამახსენდება</rhyme></l>
+               <l n="4" met="5/5">მისი უბადლო<caesura/> <rhyme label="b">თვალისეირი</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ერთხელ მოსული,<caesura/> დიდი <rhyme label="a">სიჩქარით</rhyme></l>
+               <l n="6" met="5/5">ქრება, მიდის და<caesura/> თვალებს<rhyme label="b"> შორდება</rhyme>,</l>
+               <l n="7" met="5/5">მაგრამ ისევე, <caesura/>როგორც <rhyme label="a">ცისკარი</rhyme>,</l>
+               <l n="8" met="5/5">კვლავ იბადება <caesura/>და <rhyme label="b">მეორდება</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">ეს დღე მაღლდება, <caesura/>როგორც <rhyme label="a">სიცოცხლე</rhyme>,</l>
+               <l n="10" met="5/5">როგორც სინდისი <caesura/>და <rhyme label="b">ერთგულება</rhyme>,</l>
+               <l n="11" met="5/5">დაივლის სახლებს,<caesura/> ჯდება <rhyme label="a">მინდორზე</rhyme></l>
+               <l n="12" met="5/5">და გააჩაღებს<caesura/> <rhyme label="b">მხიარულებას</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ისვენებს ხალხი, <caesura/>პოეტი<rhyme label="a"> მარტო</rhyme></l>
+               <l n="14" met="5/5">ფიქრობს და იწვის <caesura/>ლექსის <rhyme label="b">მშვენებით</rhyme>,</l>
+               <l n="15" met="5/5">და ვამბობ: ქვეყნად<caesura/> პოეტის<rhyme label="a"> გარდა</rhyme></l>
+               <l n="16" met="5/5">ყველას ჰქონია <caesura/>დღე <rhyme label="b">დასვენების</rhyme>!</l>
+            </lg>
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">პოეტი ლექსის<caesura/> სტრიქონებს <rhyme label="a">ებრძვის</rhyme>,</l>
+               <l n="18" met="5/5">უხილავს, ფარულს,<caesura/> ჯერ <rhyme label="b">დაუსტამბავს</rhyme>,</l>
+               <l n="19" met="5/5">მერე წავა და <caesura/>შრომადღეს<rhyme label="a"> ეტყვის</rhyme></l>
+               <l n="20" met="5/5">დასვენების და <caesura/>გართობის<rhyme label="b"> ამბავს</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

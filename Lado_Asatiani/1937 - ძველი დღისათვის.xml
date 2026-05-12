@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ძველი დღისათვის</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/zoeor-dzveli-dgisatvis</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ო... არ იფიქროთ, <caesura/>რომ<rhyme label="a"> ლამაზების</rhyme></l>
+               <l n="2" met="5/5">მწვავს სიყვარული <caesura/> ან<rhyme label="b"> სიძულვილი</rhyme>:</l>
+               <l n="3" met="5/5">მე მხოლოდ ძველი <caesura/>დღის <rhyme label="a">დაფასების</rhyme></l>
+               <l n="4" met="5/5">და გახსენების <caesura/> მქონდა<rhyme label="b"> სურვილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">და აი გუშინ,<caesura/>  როცა <rhyme label="a">კარადის</rhyme></l>
+               <l n="6" met="5/5">თაროსთან წიგნებს <caesura/> ვეძებდი <rhyme label="b">დილით</rhyme>,</l>
+               <l n="7" met="5/5">უეცრად ვნახე <caesura/> თქვენი <rhyme label="a">ბარათი</rhyme>,</l>
+               <l n="8" met="5/5">თქვენსავით მკრთალი <caesura/> და<rhyme label="b"> ფერმიხდილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">- გილოცავ, ძმაო, <caesura/> ბედნიერ <rhyme label="a">მყობადს</rhyme>, ―</l>
+               <l n="10" met="5/5">ჩამჩურჩულებდა <caesura/>ნაზად<rhyme label="b"> წერილი</rhyme></l>
+               <l n="11" met="5/5">და მომაგონდა<caesura/> ჩვენი <rhyme label="a"> ბავშვობა</rhyme>,</l>
+               <l n="12" met="5/5">აწ გარდასული<caesura/> და <rhyme label="b">გაფრენილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ო… არ იფიქროთ, <caesura/> რომ<rhyme label="a"> ლამაზების</rhyme></l>
+               <l n="14" met="5/5">მწვავს სიყვარული <caesura/> ან <rhyme label="b">სიძულვილი</rhyme>:</l>
+               <l n="15" met="5/5">მე მხოლოდ ძველი <caesura/> დღის<rhyme label="a"> დაფასების</rhyme></l>
+               <l n="16" met="5/5">და გახსენების <caesura/> მქონდა <rhyme label="b">სურვილი</rhyme>.</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

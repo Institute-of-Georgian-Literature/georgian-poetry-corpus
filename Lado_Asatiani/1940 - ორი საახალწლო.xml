@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ორი საახალწლო - 1-ლი და მე-2 ნაწილები</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>1942</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="43/43">
+            
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="43/43">სანამ არ ჩა<caesura/>ქრებიან <caesura/>იმერეთის <caesura/><rhyme label="a">ოდები</rhyme>,</l>
+               <l n="2" met="43/43">ყოველ ახალ<caesura/>წელიწადს <caesura/>მარად <rhyme label="a">მომა<caesura/>გონდები</rhyme>.</l>
+            </lg>  
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa"> 
+               <l n="3" met="43/43">შორი გზიდან <caesura/>მოსული, <caesura/>მამა-პაპის<caesura/> <rhyme label="a">ჯილაგი</rhyme> –</l>
+               <l n="4" met="43/43">უცხოდ განა<caesura/>თებული<caesura/> პატარა<rhyme label="a"> ჩი<caesura/>ჩილაკი</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="5" met="43/43">უცხოდ განა<caesura/>თებული,<caesura/> სხვაზე <rhyme label="a">არ<caesura/>გასაცვალი</rhyme>:</l>
+               <l n="6" met="43/43">მწვანე სუროს<caesura/> ფოთოლი…<caesura/> კურკანტელას <caesura/><rhyme label="a">მარცვალი</rhyme>…</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="43/43">უზარმაზარ<caesura/> ოდაში <caesura/>მუხის ცეცხლი<caesura/> <rhyme label="a">გუგუნებს</rhyme>,</l>
+               <l n="8" met="43/43">ბავშვი გაო<caesura/>ცებული<caesura/> მხოლოდ შენ <rhyme label="a">შე<caesura/>მოგყურებ</rhyme>.</l>
+            </lg> 
+            
+            <lg type="მრჩობლედი" n="5" rhyme="aa">
+               <l n="9" met="43/43">დგახარ დამშვე<caesura/>ნებული <caesura/>ქამარ-ხანჯალ-<caesura/><rhyme label="a">ყაწიმით</rhyme>,</l>
+               <l n="10" met="43/43">როგორც თეთრჩო<caesura/>ხიანი <caesura/>იმერელი <caesura/><rhyme label="a">ყმაწვილი</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="11" met="43/43">ფოჩიანი <caesura/>კანფეტიც <caesura/>ზედ გასხია<caesura/> <rhyme label="a">მასრებად</rhyme>,</l>
+               <l n="12" met="43/43">ალბათ, ცაში <caesura/>თუ მოხდა <caesura/>შენი<rhyme label="a"> გალა<caesura/>მაზება</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="7" rhyme="aa">
+               <l n="13" met="43/43">უზარმაზარ <caesura/>ოდაში<caesura/> მუხის ცეცხლი <caesura/><rhyme label="a">ჩახჩახებს</rhyme>,</l>
+               <l n="14" met="43/43">ძველი „მრავალ<caesura/>ჟამიერ“ <caesura/>აღებს ყველა<caesura/> <rhyme label="a">გასაღებს</rhyme>.</l>
+            </lg>   
+            
+            <lg type="მრჩობლედი" n="8" rhyme="aa">      
+               <l n="15" met="43/43">მე ხან პაპის <caesura/>წვერს ვუმზერ,<caesura/> ხან შენ გიმზერ, <caesura/><rhyme label="a">ჩიჩილაკს</rhyme>,</l>
+               <l n="16" met="43/43">და ვიღვრები<caesura/> ბინულის <caesura/>ნაკადივით<caesura/><rhyme label="a"> სიცილად</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="9" rhyme="aa">        
+               <l n="17" met="43/43">სულაც არ გა<caesura/>მიგია,<caesura/> რა მახარებს, <caesura/><rhyme label="a">რას ველი</rhyme>…</l>
+               <l n="18" met="43/43">ასე თვალგა<caesura/>ურყვნელი,<caesura/> სიხარულით <caesura/><rhyme label="a">თვალსველი</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="10" rhyme="aa">
+               <l n="19" met="43/43">მხოლოდ შენ შემ<caesura/>ოგცქერი,<caesura/> შენი შუქის <caesura/><rhyme label="a">მჯერა მე</rhyme>,</l>
+               <l n="20" met="43/43">შორი გზიდან <caesura/>მოსულო, <caesura/>ვარსკვლავეთის<caesura/> <rhyme label="a">მცენარევ</rhyme>!</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="11" rhyme="aa">     
+               <l n="21" met="43/43">სანამ არ ჩაქ<caesura/>რებიან<caesura/> იმერეთის <caesura/><rhyme label="a">ოდები</rhyme>,</l>
+               <l n="22" met="43/43">ყოველ ახალ<caesura/>წელიწადს <caesura/>მარად <rhyme label="a">მომა<caesura/>გონდები</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+      
+   </text>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="55/55">
+            
+            <lg type="მრჩობლედი" n="1" rhyme="aa">
+               <l n="1" met="55/55">რიონის პირად <caesura/> შფოთავს ქალაქი,<caesura/>  ათას ჭირში და <caesura/> ლხინში <rhyme label="a">ნაქები</rhyme>,</l>
+               <l n="2" met="55/55">ყოველ ახალწელს<caesura/>  საგულდაგულოდ <caesura/> განათებული <caesura/> <rhyme label="a">ჩიჩილაკებით</rhyme>.</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="2" rhyme="aa">   
+               <l n="3" met="55/55">მის განთიადებს <caesura/> ნუ დაივიწყებ<caesura/>  და არასოდეს <caesura/> არ <rhyme label="a">დაბერდები</rhyme>:</l>
+               <l n="4" met="55/55">ის თეთრი ჩოხა <caesura/> ისევ გაცვია,<caesura/>  ისევ პრიალებს <caesura/> <rhyme label="a">წუღა-მესტები</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="3" rhyme="aa">
+               <l n="5" met="55/55">ისევ მესხეთის <caesura/> ქუჩით მიდიხარ<caesura/>  და მოგძახიან <caesura/> იგივ <rhyme label="a">სწორები</rhyme>,</l>
+               <l n="6" met="55/55">შეგხვდება ვინმე <caesura/> ოჯახისშვილი,<caesura/>  კოხტა ყმაწვილი<caesura/> <rhyme label="a">მოეწონები</rhyme>,</l>
+            </lg> 
+            
+            <lg type="მრჩობლედი" n="4" rhyme="aa">
+               <l n="7" met="55/55">ხელში აგიყვანს, <caesura/> შუბლზე გაკოცებს, <caesura/> უზალთუნს მოგცემს <caesura/> აგრე <rhyme label="a">დაგლოცავს</rhyme>:</l>
+               <l n="8" met="55/55">„მრავალ ახალწელს <caesura/> დაესწარ შვილო,<caesura/>  და ესახელე <caesura/> იმერლის<rhyme label="a"> ოჯახს</rhyme>!“</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="5" rhyme="aa">
+               <l n="9" met="55/55">რიონის პირად <caesura/> კი ქუხს ქალაქი,<caesura/>  ათას ჭირში და<caesura/>  ლხინში<rhyme label="a"> ნაგები</rhyme>,</l>
+               <l n="10" met="55/55">ყველგან ნახევრად<caesura/>  ღიაა კარი <caesura/> და ციმციმებენ<caesura/> <rhyme label="a"> ჩიჩილაკები</rhyme>,</l>
+            </lg>
+            
+            <lg type="მრჩობლედი" n="6" rhyme="aa">
+               <l n="11" met="55/55">მხოლოდ ბაგრატის <caesura/> ტაძრის ნანგრევნი<caesura/> გარინდებულან <caesura/> მკვდრულ <rhyme label="a">მყუდროებით</rhyme>,</l>
+               <l n="12" met="55/55">მათ შთაგინერგეს<caesura/>  შენ სიყვარული,<caesura/>  ყრმაო, გარდასულ <caesura/> იმა <rhyme label="a">დროების</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

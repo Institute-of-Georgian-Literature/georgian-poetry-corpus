@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ბარდნალა</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/3">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/3">რა კარგი იყო <caesura/><rhyme label="a">ბარდნალა</rhyme>,</l>
+               <l n="2" met="5/3">ბარდნალელების<caesura/><rhyme label="b"> ბორანი</rhyme>,</l>
+               <l n="3" met="5/3">ვარდებიანი<caesura/> <rhyme label="a">ბარდნარი</rhyme>,</l>
+               <l n="4" met="5/3">ბულბულთა<rhyme label="b"> ნაამ<caesura/>ბორალი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/3">ჩემი ხორგო და<caesura/><rhyme label="a"> მარანი</rhyme>,</l>
+               <l n="6" met="5/3">ჩემი ცეცხლი და<caesura/> <rhyme label="b">ღადარი</rhyme>,</l>
+               <l n="7" met="5/3">სახლის წინ <rhyme label="a">ნაგრი<caesura/>გალარი</rhyme>,</l>
+               <l n="8" met="5/3">გაფითრებული<caesura/> <rhyme label="b">ჭადარი</rhyme>,</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/3">ჩემი კავი და <caesura/><rhyme label="a">სახნისი</rhyme>,</l>
+               <l n="10" met="5/3">ჩემი თონე და<caesura/><rhyme label="b"> ბეღელი</rhyme>,</l>
+               <l n="11" met="5/3">და დედა,<rhyme label="a"> დია<caesura/>სახლისი</rhyme>,</l>
+               <l n="12" met="5/3">ჯან-ღონე <rhyme label="b">გაუ<caesura/>ტეხელი</rhyme>,</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="4" rhyme="aa">
+               <l n="13" met="5/3">ჩემი პაწია<caesura/> <rhyme label="a">ქოთანი</rhyme>,</l>
+               <l n="14" met="5/3">დუღილით<rhyme label="a"> ნაქოთ<caesura/>ქოთარი</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">  
+               <l n="15" met="5/3">რა კარგი იყო <caesura/><rhyme label="a">ბარდნალა</rhyme>,</l>
+               <l n="16" met="5/3">როგორი <rhyme label="b">სათა<caesura/>ყვანები</rhyme>!</l>
+               <l n="17" met="5/3">ვარდებიანი <caesura/><rhyme label="a">ბარდნარი</rhyme></l>
+               <l n="18" met="5/3">და გუმარეშის <caesura/><rhyme label="b">ყანები</rhyme>!</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="6" rhyme="aa">     
+               <l n="19" met="5/3">თოხი <rhyme label="a">პირგამო<caesura/>პირული</rhyme>,</l>
+               <l n="20" met="5/3">გაციებული <caesura/><rhyme label="a">ბინული</rhyme>…</l>
+            </lg>
+            
+            <lg type="კატრენი" n="7" rhyme="abab">
+               <l n="21" met="5/3">გახსოვს, ტყეები?<caesura/> <rhyme label="a">ირიბად</rhyme></l>
+               <l n="22" met="5/3">ხეზე დაკრული <caesura/><rhyme label="b">თარჯები</rhyme>…</l>
+               <l n="23" met="5/3">ვერ დაივიწყებ,<caesura/> <rhyme label="a">ვინც გიყვარს</rhyme>,</l>
+               <l n="24" met="5/3">შეყვარებული <caesura/><rhyme label="b">დარჩები</rhyme>…</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="8" rhyme="aa"> 
+               <l n="25" met="5/3">გახსოვს, ცხენისწყლის<caesura/> <rhyme label="a">ნაპირი</rhyme>,</l>
+               <l n="26" met="5/3">თევზაობა და <caesura/><rhyme label="a">აპრილი</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="9" rhyme="abab">   
+               <l n="27" met="5/3">გახსოვს, მაჭრით რომ<caesura/> <rhyme label="a">გავბრუვდით</rhyme></l>
+               <l n="28" met="5/3">და ძლივს რომ <rhyme label="b">მივა<caesura/>ბიჯებდით</rhyme>,</l>
+               <l n="29" met="5/3">სახლში რომ ვეღარ <caesura/><rhyme label="a">დავბრუნდით</rhyme></l>
+               <l n="30" met="5/3">მისგან დამთვრალი<caesura/> <rhyme label="b">ბიჭები</rhyme>?</l>
+            </lg>     
+            
+            <lg type="ორტაეპედი" n="10" rhyme="aa">    
+               <l n="31" met="5/3">გახსოვს, ღვინიან <caesura/><rhyme label="a">შემოდექს</rhyme></l>
+               <l n="32" met="5/3">აივანზე რომ <caesura/><rhyme label="a">შემოვდექ</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="11" rhyme="abab">
+               <l n="33" met="5/3">გახსოვს, აფთარი<caesura/><rhyme label="a"> ზამთარი</rhyme>,</l>
+               <l n="34" met="5/3">ან გაზაფხული – <caesura/><rhyme label="b">პირიქით</rhyme>?</l>
+               <l n="35" met="5/3">გახსოვს, ამტყდარი<caesura/><rhyme label="a"> ავდარი</rhyme></l>
+               <l n="36" met="5/3">და სარეწკელას<caesura/><rhyme label="b"> ბილიკი</rhyme>?</l>
+            </lg>
+            
+            <lg type="კატრენი" n="12" rhyme="abab">
+               <l n="37" met="5/3">გახსოვს, ჩვენ ორნი<caesura/> <rhyme label="a">მარტონი</rhyme></l>
+               <l n="38" met="5/3">და ვარდიგორას <caesura/><rhyme label="b">ხანძარი</rhyme></l>
+               <l n="39" met="5/3">და დიდი გუჯუ<caesura/> <rhyme label="a">ბატონი</rhyme>,</l>
+               <l n="40" met="5/3">თავისი ქამარ-<caesura/><rhyme label="b">ხანჯალით</rhyme>?</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="13" rhyme="aa">
+               <l n="41" met="5/3">ხან ისე იყო,<caesura/> <rhyme label="a">ხან ასე</rhyme>,</l>
+               <l n="42" met="5/3">გახსოვს ცაგერის<caesura/> <rhyme label="a">ჭალაზე</rhyme>?</l>    
+            </lg>
+            
+            <lg type="კატრენი" n="14" rhyme="abab">   
+               <l n="43" met="5/3">რა კარგი იყო<caesura/> <rhyme label="a">ბარდნალა</rhyme>,</l>
+               <l n="44" met="5/3">როგორი <rhyme label="b">სათა<caesura/>ყვანები</rhyme>!</l>
+               <l n="45" met="5/3">შენ, მამაჩემო, <caesura/>რად <rhyme label="a">დარდობ</rhyme>,</l>
+               <l n="46" met="5/3">რამ დაგისველა <caesura/><rhyme label="b">თვალები</rhyme>?</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="15" rhyme="aa">  
+               <l n="47" met="5/3">ან შენ სადა ხარ,<caesura/> <rhyme label="a">დედილო</rhyme>,</l>
+               <l n="48" met="5/3">რომ ლექსი <rhyme label="a">გამა<caesura/>ბედინო</rhyme>?!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="16" rhyme="abab">
+               <l n="49" met="5/3">რად არ ჭიხვინებს<caesura/> <rhyme label="a">ვეება</rhyme></l>
+               <l n="50" met="5/3">ლაფშა, ლაგამის <caesura/><rhyme label="b">მკვნეტავი</rhyme>?</l>
+               <l n="51" met="5/3">ჰეი, ბავშვობის <caesura/><rhyme label="a">დღეებო</rhyme>,</l>
+               <l n="52" met="5/3">დაბრუნდებოდეთ<caesura/><rhyme label="b"> ნეტავი</rhyme>!</l>
+            </lg>
+            
+            <lg type="კატრენი" n="17" rhyme="abab">
+               <l n="53" met="5/3">რა კარგი იყო<caesura/> <rhyme label="a">ბარდნალა</rhyme>,</l>
+               <l n="54" met="5/3">ბარდნალელების <caesura/><rhyme label="b">ბორანი</rhyme>,</l>
+               <l n="55" met="5/3">ვარდებიანი <caesura/><rhyme label="a">ბარდნარი</rhyme>,</l>
+               <l n="56" met="5/3">ბულბულთა <rhyme label="b">ნაამ<caesura/>ბორალი</rhyme>!</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

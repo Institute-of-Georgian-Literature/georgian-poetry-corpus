@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>სოფლისაკენ</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ისევ მომინდა  <caesura/>ჩემი <rhyme label="a">სოფელი</rhyme></l>
+               <l n="2" met="5/5">ხალხურ ლექსებით  <caesura/>და<rhyme label="b"> საკრავებით</rhyme>,</l>
+               <l n="3" met="5/5">ეზოში – მწვანე  <caesura/>და<rhyme label="a"> უშობელი</rhyme></l>
+               <l n="4" met="5/5">და მოკუნტრუშე <caesura/> თეთრი <rhyme label="b">კრავები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ისევ მომინდა <caesura/> ჩემი<rhyme label="a"> გალია</rhyme>,</l>
+               <l n="6" met="5/5">ჩემი ველები  <caesura/><rhyme label="b">და ვენახები</rhyme>,</l>
+               <l n="7" met="5/5">აღარ მინახავს  <caesura/>დიდი <rhyme label="a">ხანია</rhyme>,</l>
+               <l n="8" met="5/5">გამრდელის თვალებს <caesura/><rhyme label="b"> დავენახევი</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">ისევ ვიბრუნე  <caesura/>სოფლისკენ <rhyme label="a">პირი</rhyme>,</l>
+               <l n="10" met="5/5">დიდი ყოფილა <caesura/> ძალა<rhyme label="b"> ბუნების</rhyme>,</l>
+               <l n="11" met="5/5">ცოტა ხანს დავყოფ <caesura/> და მერე <rhyme label="a">თბილისს</rhyme></l>
+               <l n="12" met="5/5">ვეწვევი ნედლი  <caesura/><rhyme label="b">სალამურებით</rhyme>.</l>
+            </lg>
+            
+         </lg>
+         
+      </body>
+   </text>
+</TEI>

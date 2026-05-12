@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>თქვენ გეუბნებით, ძმებო მგოსნებო</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            <lg type="კატრენი" n="1" rhyme="xaxa">
+               <l n="1" met="5/5">რა ქართველი ხარ <caesura/>და რა <rhyme label="x">ჭაბუკი</rhyme>,</l>
+               <l n="2" met="5/5">თუ მამულს თავი <caesura/>არ <rhyme label="a">ანაცვალე</rhyme>, –</l>
+               <l n="3" met="5/5">ეს აწვალებდა <caesura/>ცოტნე <rhyme label="x">დადიანს</rhyme>,</l>
+               <l n="4" met="5/5">მეც ქართველი ვარ <caesura/>და ეს <rhyme label="a">მაწვალებს</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">რომ ვდგევარ ახლა <caesura/>თბილისის <rhyme label="a">კართან</rhyme>,</l>
+               <l n="6" met="5/5">შენ გეკითხები,<caesura/> ცაო <rhyme label="b">ნათელო</rhyme>,</l>
+               <l n="7" met="5/5">ამ უხეირო<caesura/> ლექსების <rhyme label="a">გარდა</rhyme></l>
+               <l n="8" met="5/5">რას გავუკეთებ <caesura/>მე<rhyme label="b"> საქართველოს</rhyme>?</l>
+            </lg>
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">რომ ვდგევარ ახლა<caesura/> თბილისის<rhyme label="a"> კართან</rhyme>,</l>
+               <l n="10" met="5/5">თქვენ გეუბნებით,<caesura/> ძმებო <rhyme label="b">მგოსნებო</rhyme>,</l>
+               <l n="11" met="5/5">ამ უხეირო<caesura/> ლექსების<rhyme label="a"> გარდა</rhyme></l>
+               <l n="12" met="5/5">დაგვრჩა საფიქრი <caesura/>და<rhyme label="b"> საოცნებო</rhyme>.</l>
+            </lg>
+            <lg type="კატრენი" n="4" rhyme="xaxa">
+               <l n="13" met="5/5">რა ქართველი ხარ<caesura/> და რა<rhyme label="x"> ჭაბუკი</rhyme>,</l>
+               <l n="14" met="5/5">თუ მამულს თავი<caesura/> არ <rhyme label="a">ანაცვალე</rhyme>, –</l>
+               <l n="15" met="5/5">ეს აწვალებდა <caesura/>ცოტნე<rhyme label="x"> დადიანს</rhyme>,</l>
+               <l n="16" met="5/5">მეც ქართველი ვარ <caesura/>და ეს <rhyme label="a">მაწვალებს</rhyme>.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ამ ხეივანში...</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/zoeon-am-xeivanshi-is-dzalzed-xshirad</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">ამ ხეივანში <caesura/> ის ძალზე  <rhyme label="a">ხშირად</rhyme></l>
+               <l n="2" met="5/5">დასეირნობდა  <caesura/>ჩვენს<rhyme label="b"> სასახელოდ</rhyme>,</l>
+               <l n="3" met="5/5">ხელში ცისფერი <caesura/> წიგნი  <rhyme label="a">ეჭირა</rhyme></l>
+               <l n="4" met="5/5">და აწეული <caesura/> ჰქონდა<rhyme label="b">  საყელო</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="5" met="5/5">ერთი შეხედვით <caesura/> უზომოდ  <rhyme label="a">მკაცრი</rhyme>,</l>
+               <l n="6" met="5/5">ახლოს არავის <caesura/> არ <rhyme label="b">იკარებდა</rhyme></l>
+               <l n="7" met="5/5">და იდგა, როგორც  <caesura/>სხვა დროის  <rhyme label="a">კაცი</rhyme>,</l>
+               <l n="8" met="5/5">ფოთლებდაცვენილ  <caesura/>ბაღის<rhyme label="b"> კარებთან</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="9" met="5/5">ნეტავ იმ ასულს, <caesura/> ასულს   <rhyme label="a">საროტანს</rhyme>,</l>
+               <l n="10" met="5/5">ვისაც ის თავის  <caesura/>გულს <rhyme label="b">გაუღებდა…</rhyme></l>
+               <l n="11" met="5/5">არვინ იცოდა <caesura/> რა  <rhyme label="a">უხაროდა</rhyme></l>
+               <l n="12" met="5/5">ან ასე ძლიერ  <caesura/>რა <rhyme label="b">აწუხებდა</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">ბინდი რამ დაჰყვა <caesura/>  <rhyme label="a">სიჭაბუკიდან</rhyme></l>
+               <l n="14" met="5/5">მისი თვალების <caesura/> <rhyme label="b">გაცისკროვნებას</rhyme>…</l>
+               <l n="15" met="5/5">უმზერდა ხალხი  <caesura/>და  ხალხს  <rhyme label="a">უკვირდა</rhyme></l>
+               <l n="16" met="5/5">ამ სულ უბრალო  <caesura/>კაცის <rhyme label="b"> ცხოვრება</rhyme>…</l>
+            </lg>
+            
+            <lg type="კატრენი" n="5" rhyme="abab">
+               <l n="17" met="5/5">ერთ დღეს ის გაქრა  <caesura/>და გულის  <rhyme label="a">შიგნით</rhyme></l>
+               <l n="18" met="5/5">ჩაგვიდგა რაღაც  <caesura/>ნაღველის <rhyme label="b">მსგავსი</rhyme>…</l>
+               <l n="19" met="5/5">ნეტავ, ჭაბუკი  <caesura/>ცისფერი <rhyme label="a"> წიგნით</rhyme></l>
+               <l n="20" met="5/5">კვლავ თუ გაივლის <caesura/> ამ <rhyme label="b">ხეივანში</rhyme>?!</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+   
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>პაპიჩემის ლექსებიდან</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://burusi.wordpress.com/2010/04/15/lado-asatiani-16/</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="კატრენი" n="1" rhyme="abab">
+               <l n="1" met="5/5">მე კაცის შვილი<caesura/> მაშინ <rhyme label="a">ვიყავი</rhyme>,</l>
+               <l n="2" met="5/5">მაშინ ვიყავი <caesura/><rhyme label="b">ადამის ძე მე</rhyme>,</l>
+               <l n="3" met="5/5">როცა ვარდისფერ <caesura/>აღდგომა<rhyme label="a"> ღამით</rhyme></l>
+               <l n="4" met="5/5">აჩირაღდნებულ <caesura/><rhyme label="b">ტაძარში შეველ</rhyme>.</l>
+            </lg>
+            
+            <lg type="ორტაეპედი" n="2" rhyme="aa">
+               <l n="5" met="5/5">შეველ, პირჯვარი<caesura/> <rhyme label="a">გადავისახე</rhyme>,</l>
+               <l n="6" met="5/5">ხელნი აღვაპყარ <caesura/>და<rhyme label="a"> დავიძახე</rhyme>:</l>
+               
+            </lg>
+            
+            <lg type="კატრენი" n="3" rhyme="abab">
+               <l n="7" met="5/5">– „ღმერთო, მიცოცხლე <caesura/>ჩემი<rhyme label="a"> დედ-მამა</rhyme>,</l>
+               <l n="8" met="5/5">კარგად მიმყოფე <caesura/>ყველა <rhyme label="b">ჩემები</rhyme>!“ –</l>
+               <l n="9" met="5/5">და ღვთისმშობელის<caesura/> <rhyme label="a">შემოხედვამა</rhyme></l>
+               <l n="10" met="5/5">დამაფრქვევინა <caesura/>ცხელი<rhyme label="b"> ცრემლები</rhyme>.</l>
+            </lg>
+            
+            <lg type="კატრენი" n="4" rhyme="abab">
+               <l n="13" met="5/5">მე მაშინ ვიყავ ბავშვი <rhyme label="a">პატარა</rhyme>,</l>
+               <l n="14" met="5/5">გაუფურჩქნელი და <rhyme label="b">გაურყვნელი</rhyme>.</l>
+               <l n="11" met="5/5">მე მაშინ ვიყავ, თორემ<rhyme label="a"> ახლა რა</rhyme>,</l>
+               <l n="12" met="5/5">როცა ცხოვრების მადგას <rhyme label="b">უღელი</rhyme>.</l>
+            </lg>
+            
+         </lg>
+      </body>
+   </text>
+</TEI>

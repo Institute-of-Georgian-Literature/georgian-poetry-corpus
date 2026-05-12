@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ლექსებიდან "ძველი და ახალი ქუთაისი" - დილით</title>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <name>სალომე ლომოური</name>
+            </respStmt>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://poetry.ge/poets/lado-asatiani/poems/c-lado-asatiani-leqsebida-zveli-da-axali-qutaisi</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem" met="5/5">
+            
+            <lg type="ექვსტაეპედი" n="1" rhyme="ababab">
+               <l n="1" met="5/5">ცა იწმინდება <caesura/> და სისხამ <rhyme label="a"> დილით</rhyme></l>
+               <l n="2" met="5/5">მზე ერეკება <caesura/> ღრუბლების<rhyme label="b">  ფარას</rhyme>.</l>
+               <l n="3" met="5/5">ვარდის ბაღნარში <caesura/> ეცემა <rhyme label="a"> ჩრდილი</rhyme>,</l>
+               <l n="4" met="5/5">ქუჩას პალმა და <caesura/> ყვავილი <rhyme label="b"> ჰფარავს</rhyme>:</l>
+               <l n="5" met="5/5">მე აქ დავწერე <caesura/> ლექსი<rhyme label="a"> პირველი</rhyme>,</l>
+               <l n="6" met="5/5">ვარდებსაც ესმით <caesura/> ამ გულის <rhyme label="b"> ფეთქვა</rhyme>.</l>
+            </lg> 
+            
+            <lg type="კატრენი" n="2" rhyme="abab">
+               <l n="7" met="5/5">ვარ ამ ვარდების <caesura/> <rhyme label="a"> გულთამხილველი</rhyme>,</l>
+               <l n="8" met="5/5">და მსურდა მათზე <caesura/> სიმღერა <rhyme label="b"> მეთქვა</rhyme>.</l>
+               <l n="9" met="5/5">იმდენი მეთქვა <caesura/> ლექსი<rhyme label="a"> მაგარი</rhyme>,</l>
+               <l n="10" met="5/5">რამდენჯერ მე აქ <caesura/> <rhyme label="b"> მინავარდნია</rhyme>.</l> 
+            </lg> 
+            
+            <lg type="კატრენი" n="3" rhyme="abab">       
+               <l n="10" met="5/5">მინახავს ხალხის<caesura/><rhyme label="a"> ნაამაგარი</rhyme> -</l>
+               <l n="10" met="5/5">ეხლაც ვუღიმი  <caesura/> ქალაქს<rhyme label="b">  ვარდიანს</rhyme></l>
+               <l n="10" met="5/5">და იტყვის ჩემი<caesura/> ლექსი <rhyme label="a">ღაღანით </rhyme>- </l>
+               <l n="10" met="5/5">- ვაშა ვარდების <caesura/> მომტან<rhyme label="b">  გვარდიას</rhyme>!</l>
+            </lg> 
+            
+         </lg>
+      </body>
+   </text>
+</TEI>
